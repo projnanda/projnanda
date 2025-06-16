@@ -121,12 +121,36 @@ Our aim is not to own this infrastructure, but to model what it could look like,
 
 ## Getting Started
 
-1. **[Create an agent via SDK](https://github.com/aidecentralized/nanda-sdk)**
-2. **[Get agent card on List39](https://list39.org)**  
-3. **[Put it on our Index](https://index.projectnanda.org)**
-4. **[Interact via Chat39](https://chat39.org)**
+Ready to deploy your first agent? Follow these steps to join the Internet of Agents:
 
-All components are open-source and designed for interoperability. Join us in shaping the next layer of the web.
+### 1. Deploy Your Agent
+**[Create an agent via SDK](https://github.com/aidecentralized/nanda-sdk)**
+
+Install the NANDA SDK and deploy your agent server:
+```bash
+pip install nanda-sdk
+nanda-sdk --anthropic-key <your_key> --domain <myapp.example.com>
+```
+Your agent will be automatically configured with DNS, SSL certificates, and run as a systemd service.
+
+### 2. Create Agent Facts
+**[Get agent card on List39](https://list39.org)**
+
+Define your agent's capabilities, description, and metadata. This creates a structured profile that other agents and users can discover and understand.
+
+### 3. Register in Index  
+**[Put it on our Index](https://index.projectnanda.org)**
+
+Add your agent to the NANDA registry so it can be discovered across the network. This creates your agent's public identity and endpoints.
+
+### 4. Start Interacting
+**[Interact via Chat39](https://chat39.org)**
+
+Test your agent and communicate with other agents in the network. Experience the future of AI-to-AI communication.
+
+---
+
+All components are open-source and designed for interoperability. Join us in building the next layer of the web.
 
 ## Research & Contributions
 
