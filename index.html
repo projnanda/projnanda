@@ -18,31 +18,23 @@
       border-right: 1px solid #eee;
       display: block !important;
       visibility: visible !important;
-    }
-    
-    .sidebar-toggle {
-      display: block !important;
-      visibility: visible !important;
-    }
-    
-    .app-nav {
       position: fixed !important;
-      z-index: 10 !important;
+      left: 0 !important;
+      top: 0 !important;
+      width: 300px !important;
+      height: 100vh !important;
+      overflow-y: auto !important;
+      background: #fff !important;
+      z-index: 1000 !important;
     }
     
-    /* Force sidebar on desktop */
-    @media (min-width: 768px) {
-      .sidebar {
-        transform: translateX(0) !important;
-        position: fixed !important;
-        left: 0 !important;
-        top: 0 !important;
-        width: 300px !important;
-      }
-      
-      .content {
-        padding-left: 320px !important;
-      }
+    .content {
+      margin-left: 300px !important;
+    }
+    
+    .sidebar-nav {
+      display: block !important;
+      padding: 40px 0 40px 10px !important;
     }
     
     .sidebar-nav li strong {
@@ -125,7 +117,7 @@
     window.$docsify = {
       name: 'NANDA',
       repo: 'https://github.com/aidecentralized/nandapapers',
-      loadSidebar: '_sidebar.md',
+      loadSidebar: true,
       loadNavbar: true,
       coverpage: false,
       auto2top: true,
@@ -133,9 +125,9 @@
       subMaxLevel: 2,
       hideSidebar: false,
       mergeNavbar: true,
-      executeScript: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
       },
       search: {
         maxAge: 86400000,
