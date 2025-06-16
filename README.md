@@ -2,7 +2,7 @@
 
 > Open, vendor-neutral protocol for intelligent agent communications.
 
-The NANDA Protocol is a foundational layer for a new kind of internet—an **Internet of Agents**. In this world, autonomous agents can identify themselves, communicate with other agents across protocols, and act on behalf of individuals or organizations, with or without human oversight.
+The NANDA Project is a foundational layer for a new kind of internet—an **Internet of Agents**. In this world, autonomous agents can identify themselves, communicate with other agents across protocols, and act on behalf of individuals or organizations, with or without human oversight.
 
 NANDA provides the registry, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
 
