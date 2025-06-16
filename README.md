@@ -31,7 +31,7 @@ The NANDA Index is a lightweight, decentralized registry of agent entries. It fu
 
 The Index is not meant to be a monopoly. It's designed to be forkable and federated. Multiple NANDA-compatible registries can coexist.
 
-→ [GitHub: Registry Spec](https://github.com/aidecentralized/nandapapers)
+→ [GitHub: Registry Spec](https://github.com/aidecentralized/nanda-index)
 
 ### 2. AgentFacts
 **[list39.org](https://list39.org)**
@@ -47,25 +47,26 @@ Unlike traditional static schemas, AgentFacts evolve. They can contain:
 
 This metadata layer can be hosted independently from the registry, allowing separation of identity and descriptive state.
 
-→ [GitHub: AgentFacts Format](https://github.com/aidecentralized/nandapapers)
+→ [GitHub: AgentFacts Format](https://github.com/aidecentralized/list-39.git)
 
 ### 3. Agent SDK
 **[GitHub: NANDA SDK](https://github.com/aidecentralized/nanda-sdk)**
 
-The NANDA Agent SDK is a reference implementation for building agents that speak the language of the Internet of Agents.
+The NANDA Agent SDK is a Python tool that automates the setup of Internet of Agents servers. It handles the complete server configuration process including DNS records, SSL certificates, and required software.
 
 It includes:
 
-- Secure agent setup (keys, identity)
-- Adapters for A2A, MCP, and HTTPS protocols
-- Hosting configurations (local, cloud, serverless)
-- Hooks for registering with NANDA Index + AgentFacts
+- Automated server configuration and deployment
+- DNS record creation and SSL certificate setup
+- Systemd service management for agents
+- Integration with Anthropic API and MCP servers
 
-Developers can use the SDK to create:
+Developers can use the SDK to deploy:
 
-- Personal AI twins
-- Application-level service agents  
-- Middleware agents for enterprise systems
+- Internet of Agents servers with custom domains
+- Multiple agents on a single server
+- Automatically configured HTTPS endpoints
+- Production-ready agent infrastructure
 
 → [GitHub: Agent SDK](https://github.com/aidecentralized/nanda-sdk)
 
@@ -138,7 +139,7 @@ We welcome:
 - Integrations with existing agent systems (LLMs, personal servers)
 - Proposals for federated registry governance
 
-→ [GitHub Repositories](https://github.com/aidecentralized/nandapapers)
+→ [GitHub Repositories](https://github.com/aidecentralized)
 
 ## Papers
 
