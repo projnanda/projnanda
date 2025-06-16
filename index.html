@@ -110,26 +110,7 @@
         placeholder: 'Type to search',
         noData: 'No Results!',
         depth: 4
-      },
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            if (/githubusercontent\.com/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/master/, '/blob/master')
-            } else if (/jsdelivr\.net/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('cdn.jsdelivr.net/gh', 'github.com')
-                .replace('@latest', '/blob/main')
-            } else {
-              url = 'https://github.com/aidecentralized/nandapapers/blob/main/' + vm.route.file
-            }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
-            return editHtml + html
-          })
-        }
-      ]
+      }
     }
   </script>
   <!-- Docsify v4 -->
