@@ -1,0 +1,176 @@
+# NANDA: Infrastructure for the Internet of Agents
+
+> Open, vendor-neutral protocol for intelligent agent communications.
+
+The NANDA Protocol is a foundational layer for a new kind of internet—an **Internet of Agents**. In this world, autonomous agents can identify themselves, communicate with other agents across protocols, and act on behalf of individuals or organizations, with or without human oversight.
+
+NANDA provides the registry, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
+
+## Overview
+
+At its core, NANDA defines a minimal set of abstractions to:
+
+- **Identify** agents across the open web
+- **Describe** agents with structured facts and capabilities  
+- **Enable** communication across protocol boundaries (A2A, MCP, HTTPS)
+- **Deploy** agents in managed or self-hosted environments
+- **Interact** with agents through open clients or UX layers (e.g. chat, workflows)
+
+The architecture is intentionally modular and protocol-agnostic. NANDA does not define a new transport layer. Instead, it stitches together existing and emerging protocols through open registries and SDKs.
+
+## What We've Built
+
+### 1. NANDA Index
+**[index.projectnanda.org](https://index.projectnanda.org)**
+
+The NANDA Index is a lightweight, decentralized registry of agent entries. It functions similarly to DNS or ENS:
+
+- Agents claim names
+- Agent endpoints and metadata are stored as verifiable index entries  
+- Entries can be queried or updated via a RESTful API
+
+The Index is not meant to be a monopoly. It's designed to be forkable and federated. Multiple NANDA-compatible registries can coexist.
+
+→ [GitHub: Registry Spec](https://github.com/aidecentralized/nandapapers)
+
+### 2. AgentFacts
+**[list39.org](https://list39.org)**
+
+Each agent can be associated with a structured set of facts—metadata that describes capabilities, provenance, uptime, hosting method, and more. These are designed to be human-readable and machine-verifiable.
+
+Unlike traditional static schemas, AgentFacts evolve. They can contain:
+
+- Natural language descriptions
+- Capability claims  
+- Links to telemetry (Cert39)
+- Provenance logs (optional)
+
+This metadata layer can be hosted independently from the registry, allowing separation of identity and descriptive state.
+
+→ [GitHub: AgentFacts Format](https://github.com/aidecentralized/nandapapers)
+
+### 3. Agent SDK
+**[agent.projectnanda.org](https://agent.projectnanda.org)**
+
+The NANDA Agent SDK is a reference implementation for building agents that speak the language of the Internet of Agents.
+
+It includes:
+
+- Secure agent setup (keys, identity)
+- Adapters for A2A, MCP, and HTTPS protocols
+- Hosting configurations (local, cloud, serverless)
+- Hooks for registering with NANDA Index + AgentFacts
+
+Developers can use the SDK to create:
+
+- Personal AI twins
+- Application-level service agents  
+- Middleware agents for enterprise systems
+
+→ [GitHub: Agent SDK](https://github.com/aidecentralized/nandapapers)
+
+### 4. Chat Interface
+**[chat39.org](https://chat39.org)**
+
+The Chat39 application is one UX layer built on top of the NANDA protocol. It lets users:
+
+- Interact with their own personal agents (twins)
+- Converse with other autonomous agents
+- Route queries to MCP/A2A-enabled endpoints
+
+While "chat" is one interface, the same agents can power workflows, search, transactions, and more.
+
+Chat39 helps bootstrap adoption by making agents tangible and accessible.
+
+### 5. Certifications and Hosting
+
+Additional services are emerging:
+
+- **Cert39** ([cert39.org](https://cert39.org)): Open telemetry, uptime tracking, and skills certification
+- **Host39** ([host39.org](https://host39.org)): AWS-like hosting for lightweight, containerized agents
+
+These sites are maintained independently but follow the NANDA architecture, encouraging replication and decentralization.
+
+## Protocol Interoperability
+
+NANDA is built on the belief that no single protocol will win. Agents need to speak across:
+
+- **MCP** (Model Context Protocol) — used by leading LLMs like Claude and GPT
+- **A2A** (Agent-to-Agent Protocol) — being developed by OpenAI and others  
+- **HTTPS** — still the backbone of the web
+
+The Agent SDK abstracts over these protocols to allow seamless communication, while the Index + Facts layer standardizes identity and trust.
+
+## Philosophy and Vision
+
+The Internet of Agents requires more than APIs and UI. It needs infrastructure for agency:
+
+- **Decentralized discovery**
+- **Persistent identity**  
+- **Machine-readable intent**
+- **Cross-agent communication** without central gatekeepers
+
+Our aim is not to own this infrastructure, but to model what it could look like, and offer reference implementations others can adopt or fork.
+
+### We believe:
+
+- The web will evolve from **static content** → **dynamic services** → **autonomous actors**
+- AI models will not just generate content but **carry out actions** on our behalf
+- Registries and protocols must be **open** to prevent capture and enable global participation
+
+## Getting Started
+
+1. **[Claim an agent name](https://index.projectnanda.org)**
+2. **[Create an AgentFact card](https://list39.org)**  
+3. **[Use the SDK to deploy your agent](https://agent.projectnanda.org)**
+4. **[Interact with your agent via Chat39](https://chat39.org)**
+
+All components are open-source and designed for interoperability. Join us in shaping the next layer of the web.
+
+## Research & Contributions
+
+Project NANDA began as an applied research initiative at MIT. It is now an open project with collaborators from academia, industry, and open-source communities.
+
+We welcome:
+
+- Forks of the SDK
+- Research on agent trust and verifiability
+- Integrations with existing agent systems (LLMs, personal servers)
+- Proposals for federated registry governance
+
+→ [GitHub Repositories](https://github.com/aidecentralized/nandapapers)
+
+## Papers
+
+Our research papers outline the architectural, strategic, and technical foundations of the NANDA initiative:
+
+1. **[A Perspective on Decentralizing AI](https://github.com/aidecentralized/nandapapers)**  
+   Outlines five foundational challenges for decentralized AI systems: privacy, verifiability, incentives, orchestration, and user experience.
+
+2. **[Game of Agents – Episode 1: Let there be Agents](https://github.com/aidecentralized/nandapapers)**  
+   Introduces the rise of intelligent agents from early LLM tooling to multi-agent systems.
+
+3. **[Game of Agents – Episode 2: The Great Library of Alexandria 2.0](https://github.com/aidecentralized/nandapapers)**  
+   Explores the need for an agent registry to enable discovery, trust, and collaboration among dynamic and ephemeral AI agents.
+
+4. **[Scaling Trust Beyond DNS – NANDA Registry](https://github.com/aidecentralized/nandapapers)**  
+   Details the design of a minimal, privacy-preserving registry architecture for agent discovery.
+
+5. **[Upgrade or Switch – The Need for New Registry](https://github.com/aidecentralized/nandapapers)**  
+   Analyzes the limitations of DNS and web infrastructure for AI agent systems.
+
+6. **[Internet of Agents Architecture (Agentic Chat Demo)](https://github.com/aidecentralized/nandapapers)**  
+   Presents a layered architecture for live multi-agent interaction via chat interfaces.
+
+7. **[Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers)**  
+   Compares leading registry architectures across security, scalability, authentication, and maintainability.
+
+8. **[NANDA + ANS Security Blueprint](https://github.com/aidecentralized/nandapapers)**  
+   Proposes a federated security architecture that combines NANDA's minimal registry with the Agent Name Service (ANS).
+
+9. **[Collaborative Agentic AI Needs Interoperability Across Ecosystems](https://arxiv.org)**  
+   Identifies that we are headed toward protocol wars in agentic AI ecosystems and proposes minimal web-based standards as a solution.
+
+---
+
+*This content is distributed under the MIT License.* 

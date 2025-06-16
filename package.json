@@ -1,0 +1,29 @@
+{
+  "name": "nanda-docs",
+  "version": "1.0.0",
+  "description": "NANDA Protocol Documentation",
+  "main": "index.html",
+  "scripts": {
+    "dev": "docsify serve . --port 3000",
+    "serve": "docsify serve .",
+    "build": "echo 'No build step needed for Docsify'",
+    "deploy": "echo 'Deploy to your preferred hosting service'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidecentralized/nandapapers"
+  },
+  "keywords": [
+    "nanda",
+    "agents",
+    "ai",
+    "protocol",
+    "documentation"
+  ],
+  "author": "NANDA Team",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  },
+  "homepage": "https://nanda-docs.org"
+} 

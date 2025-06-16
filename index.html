@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NANDA - Infrastructure for the Internet of Agents</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="NANDA Protocol - A foundational layer for a new kind of internet—an Internet of Agents">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #2c3e50;
+      --text-color-base: #2c3e50;
+      --text-color-secondary: #7f8c8d;
+    }
+    
+    .sidebar {
+      border-right: 1px solid #eee;
+    }
+    
+    .sidebar-nav li strong {
+      font-weight: 600;
+      font-size: 14px;
+    }
+    
+    .markdown-section {
+      max-width: 800px;
+    }
+    
+    .markdown-section h1 {
+      font-size: 2rem;
+      font-weight: 300;
+      margin: 0 0 1rem;
+    }
+    
+    .markdown-section h2 {
+      font-size: 1.75rem;
+      font-weight: 300;
+    }
+    
+    .markdown-section h3 {
+      font-size: 1.5rem;
+      font-weight: 400;
+    }
+    
+    .markdown-section blockquote {
+      border-left: 4px solid #3498db;
+      background: #f8f9fa;
+      padding: 1rem;
+      margin: 2rem 0;
+    }
+    
+    .markdown-section code {
+      background: #f1f3f4;
+      color: #5f6368;
+      padding: 2px 4px;
+      border-radius: 3px;
+      font-size: 0.875em;
+    }
+    
+    .markdown-section pre code {
+      background: #f8f8f8;
+      color: #333;
+      padding: 1rem;
+      border-radius: 4px;
+    }
+    
+    .app-name-link {
+      font-weight: 300;
+    }
+    
+    .github-corner:hover .octo-arm {
+      animation: octocat-wave 560ms ease-in-out;
+    }
+    
+    @keyframes octocat-wave {
+      0%, 20%, 60%, 100% {
+        transform: rotate(0);
+      }
+      40%, 80% {
+        transform: rotate(-25deg);
+      }
+    }
+    
+    @media (max-width: 500px) {
+      .github-corner:hover .octo-arm {
+        animation: none;
+      }
+      .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'NANDA',
+      repo: 'https://github.com/aidecentralized/nandapapers',
+      loadSidebar: true,
+      loadNavbar: true,
+      coverpage: true,
+      auto2top: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        depth: 4
+      },
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master')
+            } else if (/jsdelivr\.net/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('cdn.jsdelivr.net/gh', 'github.com')
+                .replace('@latest', '/blob/main')
+            } else {
+              url = 'https://github.com/aidecentralized/nandapapers/blob/main/' + vm.route.file
+            }
+            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            return editHtml + html
+          })
+        }
+      ]
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+</body>
+</html> 
