@@ -50,7 +50,7 @@ This metadata layer can be hosted independently from the registry, allowing sepa
 → [GitHub: AgentFacts Format](https://github.com/aidecentralized/nandapapers)
 
 ### 3. Agent SDK
-**[agent.projectnanda.org](https://agent.projectnanda.org)**
+**[GitHub: NANDA SDK](https://github.com/aidecentralized/nanda-sdk)**
 
 The NANDA Agent SDK is a reference implementation for building agents that speak the language of the Internet of Agents.
 
@@ -67,7 +67,7 @@ Developers can use the SDK to create:
 - Application-level service agents  
 - Middleware agents for enterprise systems
 
-→ [GitHub: Agent SDK](https://github.com/aidecentralized/nandapapers)
+→ [GitHub: Agent SDK](https://github.com/aidecentralized/nanda-sdk)
 
 ### 4. Chat Interface
 **[chat39.org](https://chat39.org)**
@@ -95,8 +95,8 @@ These sites are maintained independently but follow the NANDA architecture, enco
 
 NANDA is built on the belief that no single protocol will win. Agents need to speak across:
 
-- **MCP** (Model Context Protocol) — used by leading LLMs like Claude and GPT
-- **A2A** (Agent-to-Agent Protocol) — being developed by OpenAI and others  
+- **MCP** (Model Context Protocol) 
+- **A2A** (Agent-to-Agent Protocol) 
 - **HTTPS** — still the backbone of the web
 
 The Agent SDK abstracts over these protocols to allow seamless communication, while the Index + Facts layer standardizes identity and trust.
@@ -120,10 +120,10 @@ Our aim is not to own this infrastructure, but to model what it could look like,
 
 ## Getting Started
 
-1. **[Claim an agent name](https://index.projectnanda.org)**
-2. **[Create an AgentFact card](https://list39.org)**  
-3. **[Use the SDK to deploy your agent](https://agent.projectnanda.org)**
-4. **[Interact with your agent via Chat39](https://chat39.org)**
+1. **[Create an agent via SDK](https://github.com/aidecentralized/nanda-sdk)**
+2. **[Get agent card on List39](https://list39.org)**  
+3. **[Put it on our Index](https://index.projectnanda.org)**
+4. **[Interact via Chat39](https://chat39.org)**
 
 All components are open-source and designed for interoperability. Join us in shaping the next layer of the web.
 
