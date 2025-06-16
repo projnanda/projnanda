@@ -97,13 +97,18 @@
   <script>
     window.$docsify = {
       name: 'NANDA',
-      repo: 'https://github.com/aidecentralized/nandapapers',
+      repo: 'https://github.com/aidecentralized/projnanda',
       loadSidebar: true,
       loadNavbar: true,
       coverpage: false,
       auto2top: true,
       maxLevel: 4,
       subMaxLevel: 2,
+      relativePath: false,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
+      },
       search: {
         maxAge: 86400000,
         paths: 'auto',
