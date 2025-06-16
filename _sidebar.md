@@ -2,10 +2,10 @@
 
 - **Getting Started**
   - [Overview](/#overview)
-  - [Quick Start](/quickstart)
+  - [Quick Start](quickstart)
 
 - **Documentation**
-  - [API Reference](/api)
+  - [API Reference](api)
   - [What We've Built](/#what-weve-built)
   - [Protocol Interoperability](/#protocol-interoperability)
   - [Philosophy & Vision](/#philosophy-and-vision)
