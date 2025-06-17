@@ -186,6 +186,14 @@ Our research papers outline the architectural, strategic, and technical foundati
 - LinkedIn Channel: https://www.linkedin.com/company/projectnanda/
 - Events Calendar: https://Lu.Ma/nanda
 - Youtube Channel: https://www.youtube.com/@ProjectNANDA
+- GitHub repos https://github.com/projnanda
+- Onboarding steps for NANDA writing group: https://tinyurl.com/nandawritingonboarding
+- Connect with & Sign up for newsletter: https://forms.gle/bnVRV2zr8M5Kotfr7
+- Homepage: https://projectnanda.org
+- MIT research group: https://nanda.mit.edu
+
+
+
 
 [![Alt text](https://img.youtube.com/vi/SSSffQsbFo4/0.jpg)](https://www.youtube.com/watch?v=SSSffQsbFo4)
 
