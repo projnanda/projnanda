@@ -81,13 +81,6 @@ While "chat" is one interface, the same agents can power workflows, search, tran
 
 Chat39 helps bootstrap adoption by making agents tangible and accessible.
 
-### 5. Certifications and Hosting
-
-Additional services are emerging:
-
-- **Cert39** ([cert39.org](https://cert39.org)): Open telemetry, uptime tracking, and skills certification
-- **Host39** ([host39.org](https://host39.org)): AWS-like hosting for lightweight, containerized agents
-
 These sites are maintained independently but follow the NANDA architecture, encouraging replication and decentralization.
 
 ## Protocol Interoperability
