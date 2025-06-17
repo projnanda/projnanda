@@ -1,14 +1,12 @@
-# NANDA: Infrastructure for the Internet of Agents
+# Project NANDA: Building a Quilt for the Internet of AI Agents
 
-> Open, vendor-neutral protocol for intelligent agent communications.
+How can trillions of  AI agents collaborate across a organizational silos: communicate seamlessly, navigate autonomously, socialize, learn, earn and transact on our behalf. Project NANDA is building a quilt for a new kind of internet—an **Internet of AI Agents**. 
 
-The NANDA Project is a foundational layer for a new kind of internet—an **Internet of Agents**. In this world, autonomous agents can identify themselves, communicate with other agents across protocols, and act on behalf of individuals or organizations, with or without human oversight.
-
-NANDA provides the registry, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
+NANDA provides the index of federated agent registries, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
 
 ## Overview
 
-At its core, NANDA defines a minimal set of abstractions to:
+Project Nanda roadmap includes many research and implementation problems: agent discovery, Packet Switched Intelligence, trust, privateML, knowledge pricing, population AI and more. In the short term, NANDA defines a minimal set of abstractions to:
 
 - **Identify** agents across the open web
 - **Describe** agents with structured facts and capabilities  
@@ -18,7 +16,7 @@ At its core, NANDA defines a minimal set of abstractions to:
 
 The architecture is intentionally modular and protocol-agnostic. NANDA does not define a new transport layer. Instead, it stitches together existing and emerging protocols through open registries and SDKs.
 
-## What We've Built
+## Current Reference Implementations
 
 ### 1. NANDA Index
 **[index.projectnanda.org](https://index.projectnanda.org)**
@@ -29,14 +27,14 @@ The NANDA Index is a lightweight, decentralized registry of agent entries. It fu
 - Agent endpoints and metadata are stored as verifiable index entries  
 - Entries can be queried or updated via a RESTful API
 
-The Index is not meant to be a monopoly. It's designed to be forkable and federated. Multiple NANDA-compatible registries can coexist.
+The Index is not meant to be a monopoly. It's designed to be forkable and federated. Multiple index-compatible registries can coexist.
 
 → [GitHub: Registry Spec](https://github.com/aidecentralized/nanda-index)
 
 ### 2. AgentFacts
 **[list39.org](https://list39.org)**
 
-Each agent can be associated with a structured set of facts—metadata that describes capabilities, provenance, uptime, hosting method, and more. These are designed to be human-readable and machine-verifiable.
+Each agent is associated with a structured set of facts—metadata that describes capabilities, provenance, uptime, hosting method, and more. These are designed to be human-readable and machine-verifiable.
 
 Unlike traditional static schemas, AgentFacts evolve. They can contain:
 
@@ -49,10 +47,10 @@ This metadata layer can be hosted independently from the registry, allowing sepa
 
 → [GitHub: AgentFacts Format](https://github.com/aidecentralized/list-39.git)
 
-### 3. Agent SDK
+### 3. Agent Picker SDK
 **[GitHub: NANDA SDK](https://github.com/aidecentralized/nanda-sdk)**
 
-The NANDA Agent SDK is a Python tool that automates the setup of Internet of Agents servers. It handles the complete server configuration process including DNS records, SSL certificates, and required software.
+The NANDA Agent-Picker SDK is a Python tool that automates the setup of Internet of Agents servers. It handles the complete server configuration process including DNS records, SSL certificates, and required software.
 
 It includes:
 
@@ -73,7 +71,7 @@ Developers can use the SDK to deploy:
 ### 4. Chat Interface
 **[chat39.org](https://chat39.org)**
 
-The Chat39 application is one UX layer built on top of the NANDA protocol. It lets users:
+The Chat39 application is one UX layer built on top of the NANDA protocol to demonstrate the capabilities of NANDA quilt index. It lets users:
 
 - Interact with their own personal agents (twins)
 - Converse with other autonomous agents
@@ -94,7 +92,7 @@ These sites are maintained independently but follow the NANDA architecture, enco
 
 ## Protocol Interoperability
 
-NANDA is built on the belief that no single protocol will win. Agents need to speak across:
+NANDA is built on the belief that no single protocol will serve all purposes. Agents need to speak across:
 
 - **MCP** (Model Context Protocol) 
 - **A2A** (Agent-to-Agent Protocol) 
@@ -154,7 +152,7 @@ All components are open-source and designed for interoperability. Join us in bui
 
 ## Research & Contributions
 
-Project NANDA began as an applied research initiative at MIT. It is now an open project with collaborators from academia, industry, and open-source communities.
+Project NANDA began as a research initiative at MIT. It is now an open project with collaborators from academia, industry, and open-source communities.
 
 We welcome:
 
@@ -178,7 +176,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 3. **[Game of Agents – Episode 2: The Great Library of Alexandria 2.0](https://github.com/aidecentralized/nandapapers)**  
    Explores the need for an agent registry to enable discovery, trust, and collaboration among dynamic and ephemeral AI agents.
 
-4. **[Scaling Trust Beyond DNS – NANDA Registry](https://github.com/aidecentralized/nandapapers)**  
+4. **[Main Paper: Scaling Trust Beyond DNS – NANDA Registry](https://github.com/aidecentralized/nandapapers)**  
    Details the design of a minimal, privacy-preserving registry architecture for agent discovery.
 
 5. **[Upgrade or Switch – The Need for New Registry](https://github.com/aidecentralized/nandapapers)**  
