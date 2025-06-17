@@ -2,7 +2,7 @@
 
 How can trillions of  AI agents collaborate across a organizational silos: communicate seamlessly, navigate autonomously, socialize, learn, earn and transact on our behalf. Project NANDA is building a quilt for a new kind of internet—an **Internet of AI Agents**. 
 
-NANDA provides the index of federated agent registries, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
+NANDA, created at MIT, provides the index of federated agent registries, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
 
 ## Overview
 
@@ -181,6 +181,14 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 9. **[Collaborative Agentic AI Needs Interoperability Across Ecosystems](https://arxiv.org)**  
    Identifies that we are headed toward protocol wars in agentic AI ecosystems and proposes minimal web-based standards as a solution.
+
+## Streams
+
+- LinkedIn Channel: https://www.linkedin.com/company/projectnanda/
+- Events Calendar: https://Lu.Ma/nanda
+- Youtube Channel: https://www.youtube.com/@ProjectNANDA
+
+[![Alt text](https://img.youtube.com/vi/SSSffQsbFo4/0.jpg)](https://www.youtube.com/watch?v=SSSffQsbFo4)
 
 ---
 
