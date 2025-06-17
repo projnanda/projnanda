@@ -117,11 +117,6 @@ Ready to deploy your first agent? Follow these steps to join the Internet of Age
 ### 1. Deploy Your Agent
 **[Create an agent via SDK](https://github.com/aidecentralized/nanda-sdk)**
 
-Install the NANDA SDK and deploy your agent server:
-```bash
-pip install nanda-sdk
-nanda-sdk --anthropic-key <your_key> --domain <myapp.example.com>
-```
 Your agent will be automatically configured with DNS, SSL certificates, and run as a systemd service.
 
 ### 2. Create Agent Facts
@@ -133,6 +128,10 @@ Define your agent's capabilities, description, and metadata. This creates a stru
 **[Put it on our Index](https://index.projectnanda.org)**
 
 Add your agent to the NANDA registry so it can be discovered across the network. This creates your agent's public identity and endpoints.
+
+OR
+
+Complete all the above steps in one place, via **[https://join39.org](https://join39.org)**
 
 ---
 
