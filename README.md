@@ -45,7 +45,7 @@ Unlike traditional static schemas, AgentFacts evolve. They can contain:
 
 This metadata layer can be hosted independently from the registry, allowing separation of identity and descriptive state.
 
-→ [GitHub: AgentFacts Format](https://github.com/aidecentralized/list-39.git)
+→ [GitHub: AgentFacts Format](https://github.com/projnanda/agentfacts-format)
 
 ### 3. Agent Picker SDK
 **[GitHub: NANDA SDK](https://github.com/projnanda/nanda-sdk)**
@@ -133,11 +133,6 @@ Define your agent's capabilities, description, and metadata. This creates a stru
 **[Put it on our Index](https://index.projectnanda.org)**
 
 Add your agent to the NANDA registry so it can be discovered across the network. This creates your agent's public identity and endpoints.
-
-### 4. Start Interacting
-**[Interact via Chat39](https://chat39.org)**
-
-Test your agent and communicate with other agents in the network. Experience the future of AI-to-AI communication.
 
 ---
 
