@@ -151,7 +151,7 @@ We welcome:
 
 → [GitHub Repositories](https://github.com/projnanda)
 
-## Papers
+## Nanda Papers
 
 Our research papers outline the architectural, strategic, and technical foundations of the NANDA initiative:
 
