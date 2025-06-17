@@ -29,7 +29,7 @@ The NANDA Index is a lightweight, decentralized registry of agent entries. It fu
 
 The Index is not meant to be a monopoly. It's designed to be forkable and federated. Multiple index-compatible registries can coexist.
 
-→ [GitHub: Registry Spec](https://github.com/aidecentralized/nanda-index)
+→ [GitHub: Registry Spec](https://github.com/projnanda/nanda-index)
 
 ### 2. AgentFacts
 **[list39.org](https://list39.org)**
@@ -48,7 +48,7 @@ This metadata layer can be hosted independently from the registry, allowing sepa
 → [GitHub: AgentFacts Format](https://github.com/aidecentralized/list-39.git)
 
 ### 3. Agent Picker SDK
-**[GitHub: NANDA SDK](https://github.com/aidecentralized/nanda-sdk)**
+**[GitHub: NANDA SDK](https://github.com/projnanda/nanda-sdk)**
 
 The NANDA Agent-Picker SDK is a Python tool that automates the setup of Internet of Agents servers. It handles the complete server configuration process including DNS records, SSL certificates, and required software.
 
@@ -56,7 +56,7 @@ It includes:
 
 - Automated server configuration and deployment
 - DNS record creation and SSL certificate setup
-- Systemd service management for agents
+- System service management for agents
 - Integration with Anthropic API and MCP servers
 
 Developers can use the SDK to deploy:
@@ -66,12 +66,12 @@ Developers can use the SDK to deploy:
 - Automatically configured HTTPS endpoints
 - Production-ready agent infrastructure
 
-→ [GitHub: Agent SDK](https://github.com/aidecentralized/nanda-sdk)
+→ [GitHub: Agent SDK](https://github.com/projnanda/nanda-sdk)
 
 ### 4. Chat Interface
 **[chat39.org](https://chat39.org)**
 
-The Chat39 application is one UX layer built on top of the NANDA protocol to demonstrate the capabilities of NANDA quilt index. It lets users:
+The Chat39 application is one UX layer built on top of the NANDA index to demonstrate the capabilities of NANDA quilt index. It lets users:
 
 - Interact with their own personal agents (twins)
 - Converse with other autonomous agents
@@ -161,7 +161,7 @@ We welcome:
 - Integrations with existing agent systems (LLMs, personal servers)
 - Proposals for federated registry governance
 
-→ [GitHub Repositories](https://github.com/aidecentralized)
+→ [GitHub Repositories](https://github.com/projnanda)
 
 ## Papers
 
@@ -176,10 +176,10 @@ Our research papers outline the architectural, strategic, and technical foundati
 3. **[Game of Agents – Episode 2: The Great Library of Alexandria 2.0](https://github.com/aidecentralized/nandapapers)**  
    Explores the need for an agent registry to enable discovery, trust, and collaboration among dynamic and ephemeral AI agents.
 
-4. **[Main Paper: Scaling Trust Beyond DNS – NANDA Registry](https://github.com/aidecentralized/nandapapers)**  
+4. **[Scaling Trust Beyond DNS – NANDA Index](https://github.com/aidecentralized/nandapapers)**  
    Details the design of a minimal, privacy-preserving registry architecture for agent discovery.
 
-5. **[Upgrade or Switch – The Need for New Registry](https://github.com/aidecentralized/nandapapers)**  
+5. **[Upgrade or Switch – The Need for New Index](https://github.com/aidecentralized/nandapapers)**  
    Analyzes the limitations of DNS and web infrastructure for AI agent systems.
 
 6. **[Internet of Agents Architecture (Agentic Chat Demo)](https://github.com/aidecentralized/nandapapers)**  
