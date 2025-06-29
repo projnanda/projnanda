@@ -28,7 +28,7 @@ NANDA acts as a universal handshake layer that works with all these protocols. T
 | Feature | NANDA Index | A2A Protocol |
 |---------|-------------|--------------|
 | Focus | Lightweight agent discovery and cross-protocol routing | Standardized JSON-RPC communication between agents |
-| Discovery | Decentralized "Quilt" of federated registries with global index | Individual Agent Cards at /.well-known/agent.json (no registry) |
+| Discovery | Decentralized "Quilt" with global index | Individual Agent Cards at /.well-known/agent.json (no index) |
 | Protocol Support | NANDA Adapter bridges A2A, MCP, HTTPS, NLWeb, gRPC | A2A protocol only (JSON-RPC 2.0 + Server-Sent Events) |
 | Identity | Cryptographically signed AgentAddr + Verifiable Credentials | Plain HTTPS + optional OAuth/mTLS tokens |
 | Privacy | Dual-path resolution (direct + anonymous via PrivateFactsURL) | No privacy-preserving lookup options |
@@ -40,7 +40,7 @@ Uses Agent-card and agent-facts that are similar. But Agent-facts of Nanda Index
 ## What problems does A2A not solve that NANDA addresses?
 
 A2A avoids "ancillary" concerns that NANDA treats as essential:
-- Agent discovery and registry (index) services
+- Agent index
 - Identity management and credential verification
 - Economic primitives and payment systems
 - Reputation and trust mechanisms
