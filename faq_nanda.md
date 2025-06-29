@@ -138,6 +138,18 @@ DNS was designed in 1983 for static web infrastructure, not dynamic AI agents. K
 - Metadata richness: DNS records are too simple for complex agent capabilities
 - Scale: Current systems can't handle billions of updates per hour
 
+## Why not just keep agent names in a file on a website?
+
+While storing agent names in a simple website file might seem straightforward, this approach creates critical problems:
+
+**Discovery Gaps**: Agents on uncrawled websites will never be found. Agent discovery requires real-time, comprehensive coverage that static file listings cannot provide.
+
+**Stale Information**: When agents update capabilities or endpoints, they won't be rediscovered until websites are re-crawled, creating windows with outdated information.
+
+**Re-centralization Risk**: A centralized list inevitably leads to gatekeeping, rent-seeking, biased prioritization, and opaque censorship rules by whoever controls the list.
+
+The NANDA Index solves these problems through its decentralized "quilt" architecture, where multiple registries operate independently while maintaining global interoperability—preventing any single entity from controlling agent discovery.
+
 ## What is the "Quilt" architecture?
 
 The NANDA Index uses a "quilt-like" architecture that accommodates different types of agent registrations:
