@@ -137,6 +137,13 @@ Complete all the above steps in one place, via **[https://join39.org](https://jo
 
 All components are open-source and designed for interoperability. Join us in building the next layer of the web.
 
+## FAQ
+
+For answers to common questions about Project NANDA and its relationship with other protocols:
+
+- **[Project NANDA FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - General questions about NANDA, the Index, and ecosystem
+- **[NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - How NANDA relates to the Linux Foundation's Agent2Agent project
+
 ## Research & Contributions
 
 Project NANDA began as a research initiative at MIT. It is now an open project with collaborators from academia, industry, and open-source communities.
