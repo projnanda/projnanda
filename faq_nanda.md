@@ -2,9 +2,9 @@
 
 ## What is Project NANDA?
 
-Project NANDA is building the foundational infrastructure for an Internet of AI Agents i.e. the system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries. Created at MIT, NANDA provides the "quilt" of registries, protocols, and tools needed to enable this decentralized, protocol-neutral ecosystem.
+Project NANDA is building the foundational infrastructure for an Internet of AI Agents i.e. the system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries. Created at MIT, NANDA provides the index, protocols, and tools needed to enable this decentralized, protocol-neutral ecosystem.
 
-NANDA addresses the core challenge: how can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (registries, protocols, SDKs) and the governance frameworks needed for a responsible, open Internet of Agents.
+NANDA addresses the core challenge: how can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (index, protocols, SDKs) and the governance frameworks needed for a responsible, open Internet of Agents.
 
 ## Development Stages
 
@@ -82,7 +82,7 @@ Large Population Models, co-learning, Agents across data silos (privacy)
 
 ## What is the NANDA Index?
 
-The NANDA Index is a lightweight, decentralized registry system that functions as the "phone book" for the Internet of AI Agents. Just as DNS maps website names to IP addresses, the NANDA Index maps agent names to their locations and capabilities, enabling billions of AI agents to discover and connect with each other across different platforms and protocols.
+The NANDA Index is a lightweight, decentralized system that functions as the "phone book" for the Internet of AI Agents. Just as DNS maps website names to IP addresses, the NANDA Index maps agent names to their locations and capabilities, enabling billions of AI agents to discover and connect with each other across different platforms and protocols.
 
 Think of it as a universal directory where any AI agent—whether it's a translation assistant, a financial advisor, or a healthcare coordinator—can register itself and be found by other agents or users who need its services.
 
@@ -90,7 +90,7 @@ Think of it as a universal directory where any AI agent—whether it's a transla
 
 The NANDA Index operates through a three-layer architecture:
 
-1. **Registry Layer (Anchor Tier)**: Stores minimal, essential information (≤120 bytes per record) including agent IDs, metadata URLs, and routing pointers
+1. **Index Layer (Anchor Tier)**: Stores minimal, essential information (≤120 bytes per record) including agent IDs, metadata URLs, and routing pointers
 2. **AgentFacts Layer (Metadata Distribution Tier)**: Contains detailed, verifiable information about each agent's capabilities, endpoints, and credentials
 3. **Dynamic Resolution Layer (Adaptive Routing Tier)**: Handles real-time endpoint discovery and load balancing
 
@@ -123,7 +123,7 @@ Without a proper index system, this creates an N×N connectivity problem—every
 
 The NANDA Index addresses five critical challenges:
 
-1. **Registry Bottleneck**: Reduces write operations by 10,000× compared to DNS by separating static identity from dynamic metadata
+1. **Index Bottleneck**: Reduces write operations by 10,000× compared to DNS by separating static identity from dynamic metadata
 2. **Trust Gap**: Enables cryptographically signed capability proofs and instant revocation
 3. **Privacy Exposure**: Provides anonymous lookup paths that don't reveal who's searching for what
 4. **Routing Limitations**: Supports agents that move frequently or require geo-based load balancing
@@ -153,15 +153,15 @@ The NANDA Index uses a "quilt-like" architecture that accommodates different typ
 
 This quilt approach allows organizations to maintain control over their agents while enabling global interoperability.
 
-## How does the lean registry approach work?
+## How does the lean index approach work?
 
-The NANDA Index keeps registry records extremely lightweight (≤120 bytes) by storing only:
+The NANDA Index keeps records extremely lightweight (≤120 bytes) by storing only:
 - Agent ID and human-readable name
 - URLs pointing to detailed metadata (AgentFacts)
 - Time-to-live (TTL) values
 - Cryptographic signatures
 
-All detailed information is stored separately in AgentFacts documents, which can be updated independently without touching the registry. This separation reduces registry write overhead by approximately 10,000× while enabling rapid updates.
+All detailed information is stored separately in AgentFacts documents, which can be updated independently without touching the index. This separation reduces index write overhead by approximately 10,000× while enabling rapid updates.
 
 ## What are AgentFacts?
 
@@ -208,7 +208,7 @@ The NANDA Adapter automatically translates between these protocols, enabling sea
 ## What are the current reference implementations?
 
 Project NANDA provides several working components:
-- **NANDA Index** (index.projectnanda.org): The core registry
+- **NANDA Index** (index.projectnanda.org): The core indexing layer
 - **AgentFacts** (list39.org): Structured agent metadata
 - **Agent Picker SDK**: Python tools for automated agent deployment
 - **Chat Interface** (chat39.org): User interface for agent interaction
