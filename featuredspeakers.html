@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Featured Speakers – Project NANDA</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: 'Helvetica Neue', sans-serif;
+      margin: 0;
+      background-color: #f5f5f5;
+    }
+    section {
+      padding: 60px 20px;
+    }
+    h2 {
+      font-size: 2.5em;
+      text-align: center;
+    }
+    .grid {
+      max-width: 1000px;
+      margin: auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 30px;
+      padding-top: 40px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      text-align: center;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease;
+    }
+    .card:hover {
+      transform: scale(1.02);
+    }
+    .card img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 15px;
+    }
+    .card h3 {
+      margin: 0 0 5px 0;
+    }
+    .card p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+<section>
+  <h2>Featured Speakers</h2>
+  <div class="grid">
+
+    <!-- Nick Cooper -->
+    <div class="card">
+      <a href="assets/img/nick_cooper.jpg" target="_blank">
+        <img src="assets/img/nick_cooper.jpg" alt="Nick Cooper" onerror="this.src='assets/img/placeholder.jpg';">
+      </a>
+      <h3>Nick Cooper</h3>
+      <p><strong>OpenAI</strong></p>
+      <p>Member of Technical Staff</p>
+    </div>
+
+    <!-- Jessica Rosenworcel -->
+    <div class="card">
+      <a href="assets/img/jessica_rosenworcel.jpg" target="_blank">
+        <img src="assets/img/jessica_rosenworcel.jpg" alt="Jessica Rosenworcel" onerror="this.src='assets/img/placeholder.jpg';">
+      </a>
+      <h3>Jessica Rosenworcel</h3>
+      <p><strong>Former Chair</strong></p>
+      <p>FCC</p>
+    </div>
+
+    <!-- Ashish Bhatia -->
+    <div class="card">
+      <a href="assets/img/ashish_bhatia.jpg" target="_blank">
+        <img src="assets/img/ashish_bhatia.jpg" alt="Ashish Bhatia" onerror="this.src='assets/img/placeholder.jpg';">
+      </a>
+      <h3>Ashish Bhatia</h3>
+      <p><strong>Microsoft</strong></p>
+      <p>Principal Product Manager</p>
+    </div>
+
+    <!-- Add more below following same pattern -->
+
+  </div>
+</section>
+
+</body>
+</html>
