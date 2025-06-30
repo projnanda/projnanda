@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Featured Speakers – Project NANDA</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    /* Base typography to match Docsify default theme */
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #2c3e50;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 1.6rem;
+      font-weight: 500;
+      margin-top: 40px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 6px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 24px;
+      margin-top: 32px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      transition: transform 0.2s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+    }
+
+    .avatar {
+      width: 96px;
+      height: 96px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 16px;
+    }
+
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 1.1rem;
+    }
+
+    .card p {
+      margin: 4px 0;
+      font-size: 0.95rem;
+      color: #555;
+    }
+
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 1.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Featured Speakers</h1>
+  <p style="max-width: 700px;">
+    A spotlight on visionary contributors shaping the Internet of Agents. These leaders span research, policy, product, and infrastructure across global institutions.
+  </p>
+
+  <div class="grid">
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Nick Cooper.jpeg" alt="Nick Cooper">
+      <h3>Nick Cooper</h3>
+      <p><strong>OpenAI</strong></p>
+      <p>Member of Technical Staff</p>
+    </div>
+
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Jessica Rosenworcel.jpg" alt="Jessica Rosenworcel">
+      <h3>Jessica Rosenworcel</h3>
+      <p><strong>Former Chair</strong></p>
+      <p>FCC</p>
+    </div>
+
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Ashish Bhatia.jpeg" alt="Ashish Bhatia">
+      <h3>Ashish Bhatia</h3>
+      <p><strong>Microsoft</strong></p>
+      <p>Principal Product Manager</p>
+    </div>
+
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Fatih Porikli.jpeg" alt="Fatih Porikli">
+      <h3>Fatih Porikli</h3>
+      <p><strong>Qualcomm</strong></p>
+      <p>Sr. Director, Global AI Agents Innovation</p>
+    </div>
+
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Peeyush Aggarwal.jpeg" alt="Peeyush Aggarwal">
+      <h3>Peeyush Aggarwal</h3>
+      <p><strong>Deloitte UK</strong></p>
+      <p>Partner</p>
+    </div>
+
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Sichao Wang.jpeg" alt="Sichao Wang">
+      <h3>Sichao Wang</h3>
+      <p><strong>Cisco</strong></p>
+      <p>Senior Manager, Product Management</p>
+    </div>
+
+    <div class="card">
+      <img class="avatar" src="assets/headshots/Robert Lincourt.jpeg" alt="Robert Lincourt">
+      <h3>Robert Lincourt</h3>
+      <p><strong>Dell</strong></p>
+      <p>Distinguished Engineer</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
