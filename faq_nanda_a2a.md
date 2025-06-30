@@ -6,13 +6,13 @@ In the context of the recent Linux Foundation Agent2Agent (A2A) project announce
 
 The Agent-to-Agent (A2A) protocol is an open standard created by Google and now hosted by the Linux Foundation. It provides a minimal wire protocol for secure, intelligent communication between AI agents across different platforms, vendors, and frameworks using JSON-RPC 2.0 request/response semantics and lightweight streaming channels.
 
-## Why does A2A matter?
-
-A2A enables agent-to-agent interoperability and collaboration, helping organizations avoid vendor lock-in and accelerate innovation. It provides the foundational "language" for agents to exchange data through standardized syntax rules, message formats, and interaction protocols.
-
 ## What is the Primary goal of A2A?
 
 A2A's primary goal is to provide a minimal wire protocol so two opaque agents can discover each other and collaborate securely. It focuses specifically on the communication layer - defining how agents talk to each other once they're already connected.
+
+## Why does A2A matter?
+
+A2A enables agent-to-agent interoperability and collaboration, helping organizations avoid vendor lock-in and accelerate innovation. It provides the foundational "language" for agents to exchange data through standardized syntax rules, message formats, and interaction protocols.
 
 ## What communication problems does Project NANDA solve?
 
