@@ -58,15 +58,15 @@ Large Population Models, co-learning, Agents across data silos (privacy)
 - Corporate Unlocking: Enabling enterprises to safely deploy agent ecosystems
 
 ## How to participate
-- LinkedIn: Follow Project NANDA company page
+- LinkedIn: Follow Project NANDA company page ( https://www.linkedin.com/company/projectnanda/ )
 - Weekly Webinars: Join regular community calls and technical discussions
 - Discord: Participate in ongoing conversations and working groups
 
 ### Additional Channels:
-- Events: Lu.Ma/nanda
-- YouTube: @ProjectNANDA
-- Newsletter: Sign up form
-- Writing Group: Onboarding process
+- Events: [Lu.Ma/nanda](https://Lu.Ma/nanda)
+- YouTube: [@ProjectNANDA](https://www.youtube.com/@ProjectNANDA)
+- Newsletter: [Sign up form](https://forms.gle/bnVRV2zr8M5Kotfr7)
+- Writing Group: Onboarding process ( https://tinyurl.com/nandawritingonboarding )
 
 ## Current Status
 **Research:** See comprehensive research at NANDA Papers Repository
@@ -222,5 +222,5 @@ The NANDA Adapter automatically translates between these protocols, enabling sea
 Project NANDA provides several working components:
 - **NANDA Index** ( https://index.projectnanda.org): The core indexing layer
 - **AgentFacts** ( https://list39.org): Structured agent metadata
-- **Agent Picker SDK**: Python tools for automated agent deployment
+- **Agent Picker SDK**: ( https://github.com/projnanda/nanda-sdk ) Python tools for automated agent deployment
 - **Chat Interface** ( https://chat39.org): User interface for agent interaction
