@@ -39,7 +39,7 @@ NANDA acts as a universal handshake layer that works with all these protocols. T
 
 Uses Agent-card and agent-facts that are similar. But Agent-facts of Nanda Index uses additional fields for xyz (such as Identity management and credential verification, Economic primitives and payment systems)
 
-## What problems does A2A not solve that NANDA addresses?
+## What problems A2A does not solve that NANDA addresses?
 
 A2A avoids "ancillary" concerns that NANDA treats as essential:
 - Agent index
