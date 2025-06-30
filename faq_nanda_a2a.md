@@ -1,16 +1,18 @@
 # Project Nanda FAQ: Contextualizing with Linux Foundation Agent2Agent Project
 
+In the context of the recent Linux Foundation Agent2Agent (A2A) project announcement and the broader landscape of agentic AI interoperability, here are some common questions about Project Nanda - research and development.
+
 ## What is A2A?
 
 The Agent-to-Agent (A2A) protocol is an open standard created by Google and now hosted by the Linux Foundation. It provides a minimal wire protocol for secure, intelligent communication between AI agents across different platforms, vendors, and frameworks using JSON-RPC 2.0 request/response semantics and lightweight streaming channels.
 
-## Why does A2A matter?
-
-A2A enables agent-to-agent interoperability and collaboration, helping organizations avoid vendor lock-in and accelerate innovation. It provides the foundational "language" for agents to exchange data through standardized syntax rules, message formats, and interaction protocols.
-
 ## What is the Primary goal of A2A?
 
 A2A's primary goal is to provide a minimal wire protocol so two opaque agents can discover each other and collaborate securely. It focuses specifically on the communication layer - defining how agents talk to each other once they're already connected.
+
+## Why does A2A matter?
+
+A2A enables agent-to-agent interoperability and collaboration, helping organizations avoid vendor lock-in and accelerate innovation. It provides the foundational "language" for agents to exchange data through standardized syntax rules, message formats, and interaction protocols.
 
 ## What communication problems does Project NANDA solve?
 
@@ -37,7 +39,7 @@ NANDA acts as a universal handshake layer that works with all these protocols. T
 
 Uses Agent-card and agent-facts that are similar. But Agent-facts of Nanda Index uses additional fields for xyz (such as Identity management and credential verification, Economic primitives and payment systems)
 
-## What problems does A2A not solve that NANDA addresses?
+## What problems A2A does not solve that NANDA addresses?
 
 A2A avoids "ancillary" concerns that NANDA treats as essential:
 - Agent index

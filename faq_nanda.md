@@ -220,7 +220,7 @@ The NANDA Adapter automatically translates between these protocols, enabling sea
 ## What are the current reference implementations?
 
 Project NANDA provides several working components:
-- **NANDA Index** (index.projectnanda.org): The core indexing layer
-- **AgentFacts** (list39.org): Structured agent metadata
+- **NANDA Index** ( https://index.projectnanda.org): The core indexing layer
+- **AgentFacts** ( https://list39.org): Structured agent metadata
 - **Agent Picker SDK**: Python tools for automated agent deployment
-- **Chat Interface** (chat39.org): User interface for agent interaction
+- **Chat Interface** ( https://chat39.org): User interface for agent interaction
