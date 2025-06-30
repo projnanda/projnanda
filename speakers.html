@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -60,21 +59,29 @@
       font-size: 1.1rem;
     }
 
-    .card p {
-      margin: 4px 0;
-      font-size: 0.95rem;
-      color: #555;
+    .role {
+      font-size: 0.85rem;
+      font-weight: 400;
+      color: #6b7280;
+      margin: 2px 0;
     }
 
-    .card a {
-      display: inline-block;
-      margin-top: 10px;
+    .org {
+      color: #8A1C1C !important; /* MIT maroon */
+      font-weight: 500;
+      font-size: 0.95rem;
+      margin: 4px 0;
+    }
+
+    .talk {
+      margin-top: 6px;
       font-size: 0.9rem;
       color: #007bff;
       text-decoration: none;
+      display: inline-block;
     }
 
-    .card a:hover {
+    .talk:hover {
       text-decoration: underline;
     }
 
@@ -82,36 +89,6 @@
       h1 {
         font-size: 1.8rem;
       }
-    }
-    
-    .org {
-      color: #8A1C1C; /* MIT maroon */
-      font-weight: 500;
-      font-size: 0.95rem;
-      margin: 4px 0;
-      font-family: inherit;
-    }
-
-    .role {
-      color: #6b7280;
-      font-size: 0.85rem;
-      font-weight: 400;
-      margin: 2px 0;
-      font-family: inherit;
-    }
-
-    .talk {
-      margin-top: 6px;
-      font-size: 0.7rem;
-      color: #111827;
-      text-decoration: none;
-      display: inline-block;
-      font-weight: 400;
-      font-family: inherit;
-    }
-
-    .talk:hover {
-      text-decoration: underline;
     }
   </style>
 </head>
@@ -141,7 +118,7 @@
       </a>
     </div>
 
-        <div class="card">
+    <div class="card">
       <img class="avatar" src="assets/headshots/Todd Segal.png" alt="Todd Segal">
       <h3>Todd Segal</h3>
       <p class="role">Principal Software Engineer</p>
@@ -164,8 +141,8 @@
     <div class="card">
       <img class="avatar" src="assets/headshots/Jessica Rosenworcel.jpg" alt="Jessica Rosenworcel">
       <h3>Jessica Rosenworcel</h3>
-      <p class="role">Former Chair </p>
-      <p class="org"> FCC </p>
+      <p class="role">Former Chair</p>
+      <p class="org">FCC</p>
       <a class="talk" href="https://youtu.be/qQebYJcITno?si=WQxczwmsewHo9x67" target="_blank">
         System design
       </a>
