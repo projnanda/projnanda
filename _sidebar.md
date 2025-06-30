@@ -1,5 +1,8 @@
 - [Home](/)
 
+- **Featured Speakers**
+  - [Speakers](./speakers.html)
+
 - **Getting Started**
   - [Overview](/#overview)
   - [Quick Start](/quickstart)
