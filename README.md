@@ -1,6 +1,6 @@
 # Project NANDA: Building a Quilt for the Internet of AI Agents
 
-How can trillions of  AI agents collaborate across a organizational silos: communicate seamlessly, navigate autonomously, socialize, learn, earn and transact on our behalf. Project NANDA is building a quilt for a new kind of internet—an **Internet of AI Agents**. 
+How can trillions of  AI agents collaborate across a organizational silos: communicate seamlessly, navigate autonomously, socialize, learn, earn and transact on our behalf. Project NANDA is building a quilt for a new kind of internet i.e. **Internet of AI Agents**. 
 
 NANDA, created at MIT, provides the index of federated agent registries, communication interface, and open-source tooling needed to enable this system in a decentralized, protocol-neutral way.
 
