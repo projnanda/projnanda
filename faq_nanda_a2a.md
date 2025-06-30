@@ -1,5 +1,7 @@
 # Project Nanda FAQ: Contextualizing with Linux Foundation Agent2Agent Project
 
+In the context of the recent Linux Foundation Agent2Agent (A2A) project announcement and the broader landscape of agentic AI interoperability, here are some common questions about Project Nanda - research and development.
+
 ## What is A2A?
 
 The Agent-to-Agent (A2A) protocol is an open standard created by Google and now hosted by the Linux Foundation. It provides a minimal wire protocol for secure, intelligent communication between AI agents across different platforms, vendors, and frameworks using JSON-RPC 2.0 request/response semantics and lightweight streaming channels.
