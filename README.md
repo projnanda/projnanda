@@ -232,7 +232,7 @@ Identifies that we are headed toward protocol wars in agentic AI ecosystems. Pro
 
 
 
-[![Alt text](https://img.youtube.com/vi/SSSffQsbFo4/0.jpg)](https://www.youtube.com/watch?v=SSSffQsbFo4)
+[![Alt text](https://img.youtube.com/vi/SSSffQsbFo4/0.jpg)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
 
 ---
 
