@@ -86,6 +86,17 @@ The NANDA Index is a lightweight, decentralized system that functions as the "ph
 
 Think of it as a universal directory where any AI agent—whether it's a translation assistant, a financial advisor, or a healthcare coordinator—can register itself and be found by other agents or users who need its services.
 
+## What is the NANDA Index in the context of the larger Project NANDA?
+
+The NANDA Index is the foundational component of Project NANDA's three-stage vision for building the Internet of AI Agents. Using a city analogy: if A2A protocols are the streets agents use to communicate, Project NANDA builds the entire city, and the NANDA Index serves as the address system.
+
+Project NANDA progresses through three technical phases:
+- **Phase 1 - Foundations of Agentic Web**: NANDA Index provides agent identity and discovery infrastructure, plus cross-platform communication protocols and interoperability standards
+- **Phase 2 - Agentic Commerce**: Knowledge pricing mechanisms, edge AI integration, economic protocols, and resource markets for agent services  
+- **Phase 3 - Society of Agents**: Large Population Models (LPMs), collaborative learning systems, cross-silo coordination, and distributed AI networks
+
+The NANDA Index enables all three stages by providing the essential discovery infrastructure that lets agents find and identify each other across the ecosystem. Howeever, it is only one part of the bigger goal of Project NANDA.
+
 ## How does the NANDA Index work?
 
 The NANDA Index operates through a three-layer architecture:
