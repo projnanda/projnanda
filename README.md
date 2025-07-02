@@ -228,8 +228,7 @@ Identifies that we are headed toward protocol wars in agentic AI ecosystems. Pro
 - Connect with & Sign up for newsletter: https://forms.gle/bnVRV2zr8M5Kotfr7
 - Homepage: https://projectnanda.org
 - MIT research group: https://nanda.mit.edu
-
-
+- Discord Channel: https://discord.gg/BxnPBEqd88
 
 
 [![YouTube video player](https://img.youtube.com/vi/jlcO19XyQ1I/0.jpg)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
