@@ -1,3 +1,3 @@
 - [Home](/)
-- [GitHub](https://github.com/aidecentralized/nandapapers)
+- [GitHub](https://github.com/projnanda/projnanda)
 - [Papers](https://github.com/aidecentralized/nandapapers) 
