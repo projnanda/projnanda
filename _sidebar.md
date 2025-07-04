@@ -1,29 +1,19 @@
-- [Home](/)
 
-- **Featured Speakers**
-  - [Speakers](./speakers.html)
+- [Overview](./home/1.overview)
+- [Current Reference Implementation](./home/2.current%20reference%20implementation)
+- [Protocol Interoperability](./home/3.protocol%20interoperability)
+- [Philosophy and Vision](./home/4.philsophyvision)
+- [Getting Started](./home/5.gettingstarted)
+- [FAQ](./home/6.faq.md)
+- [Research Contribution](./home/7.researchcontribution)
+- [NANDA Papers](./home/8.nandapapers)
+- [Streams](./home/9.streams)
 
-- **Getting Started**
-  - [Overview](/#overview)
-  - [Quick Start](/quickstart)
 
-- **Documentation**
-  - [API Reference](/api)
-  - [What We've Built](/#what-weve-built)
-  - [Protocol Interoperability](/#protocol-interoperability)
-  - [Philosophy & Vision](/#philosophy-and-vision)
+- [**Featured Speakers**](./home/10.speakers.html)
 
-- **Components**
-  - [NANDA Index](/#1-nanda-index)
-  - [AgentFacts](/#2-agentfacts)
-  - [Agent SDK](/#3-agent-sdk)
-  - [Chat Interface](/#4-chat-interface)
-  - [Certifications & Hosting](/#5-certifications-and-hosting)
+- [**Quick Start**](/home/11.quickstart.md)
 
-- **Research**
-  - [Papers](/#papers)
-  - [Contributions](/#research--contributions)
+- [**API Reference**](/home/12.api.md)
 
-- **Resources**
-  - [GitHub](https://github.com/aidecentralized/nandapapers)
-  - [MIT License](https://opensource.org/licenses/MIT) 
+- [MIT License](https://opensource.org/licenses/MIT) 
