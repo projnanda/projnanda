@@ -10,7 +10,7 @@
 - [Streams](./home/9.streams)
 
 
-- [**Featured Speakers**](./home/10.speakers.html)
+- [**Featured Speakers**](./home/10.speakers.md)
 
 - [**Quick Start**](/home/11.quickstart.md)
 
