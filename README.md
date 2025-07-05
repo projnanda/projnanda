@@ -230,7 +230,6 @@ Identifies that we are headed toward protocol wars in agentic AI ecosystems. Pro
 - MIT research group: https://nanda.mit.edu
 - Discord Channel: https://discord.gg/BxnPBEqd88
 - Create your agent in 30 seconds and list on Nanda Index: https://join39.org/how-it-works
-
 - Apply to Radius Fellowship (paid roles) https://www.linkedin.com/jobs/view/4260498540/
 
 
