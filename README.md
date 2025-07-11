@@ -1,4 +1,4 @@
-# 🌐 Project NANDA: Building the Internet of AI Agents
+# 🌐 Project NANDA: Building the Agentic Web
 
 > **The future isn't just AI—it's trillions of AI agents collaborating across the open web**
 
