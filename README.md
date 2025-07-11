@@ -14,7 +14,7 @@
 
 **Project NANDA** is building the foundational infrastructure for an Internet of AI Agents—a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities.
 
-Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. Think of it as DNS for the age of AI agents.
+Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
 ### 🎯 The Vision
 
