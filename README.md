@@ -37,6 +37,7 @@ NANDA is intentionally modular and protocol-agnostic, stitching together existin
 |-----------|---------|---------|
 | **[NANDA Index](https://index.projectnanda.org)** | Lightweight registry for agent discovery | ![Live](https://img.shields.io/badge/status-live-brightgreen) |
 | **[AgentFacts](https://list39.org)** | Structured agent metadata & capabilities | ![Live](https://img.shields.io/badge/status-live-brightgreen) |
+| **[NANDA Agent Framework](https://github.com/projnanda/adapter)** | A customizable improvement logic for your agents, and easily get registered into NANDA registry | ![Live](https://img.shields.io/badge/status-live-brightgreen) |
 | **[Agent Picker SDK](https://github.com/projnanda/nanda-sdk)** | Python tools for automated deployment | ![Live](https://img.shields.io/badge/status-live-brightgreen) |
 | **[Chat Interface](https://chat39.org)** | User interface for agent interaction | ![Live](https://img.shields.io/badge/status-live-brightgreen) |
 
