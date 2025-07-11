@@ -233,5 +233,6 @@ The NANDA Adapter automatically translates between these protocols, enabling sea
 Project NANDA provides several working components:
 - **NANDA Index** ( https://index.projectnanda.org): The core indexing layer
 - **AgentFacts** ( https://list39.org): Structured agent metadata
+- **NANDA Agent Framework** (https://github.com/projnanda/adapter):| A customizable improvement logic for your agents, and easily get registered into NANDA registry 
 - **Agent Picker SDK**: ( https://github.com/projnanda/nanda-sdk ) Python tools for automated agent deployment
 - **Chat Interface** ( https://chat39.org): User interface for agent interaction
