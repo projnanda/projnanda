@@ -74,7 +74,7 @@ NANDA is intentionally modular and protocol-agnostic, stitching together existin
 - ![Research](https://img.shields.io/badge/status-research-orange) Distributed AI: Split learning and inference across agent networks
 
 ---
-## Goals
+## 🎯 Goals
 
 ### Short term goals
 **Research:** 
