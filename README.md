@@ -93,13 +93,16 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 ### 📚 Latest Papers
 
-1. **[A Perspective on Decentralizing AI](https://github.com/aidecentralized/nandapapers/blob/main/decentralized_ML_perspective-16.pdf)** - Five foundational challenges for decentralized AI systems
+1. **[Upgrade or Switch – The Need for New Registry](v0.3%20Upgrade%20or%20Switch%20-%20Do%20We%20Need%20a%20New%20Registry%20Architecture%20for%20the%20Internet%20of%20AI%20Agents.pdf)** - Analyzes the limitations of DNS and web infrastructure for AI agent systems. Weighs incremental upgrades (e.g., DNS push, SVCB records) against purpose-built registries. Offers analogies like dial-up to broadband and outlines the technical deltas introduced by the agent paradigm.
+   
+2.  **[Scaling Trust Beyond DNS](https://github.com/aidecentralized/nandapapers/blob/main/v0.3%20Beyond%20DNS%20-%20Unlocking%20the%20%20Internet%20of%20AI%20Agents%20via%20the%20NANDA%20Quilt%20of%20Registries%20and%20Verified%20AgentFacts.pdf)** - Details the design of a minimal, privacy-preserving registry architecture for agent discovery. Introduces the AgentFacts schema, TTL-based endpoint resolution, and cryptographic verification for agent capabilities. Offers concrete mechanisms for multi-endpoint routing, least-disclosure queries, and rapid revocation in decentralized agent ecosystems.
+   
+3. **[NANDA + ANS Security Blueprint](v0.2%20NANDA%20+%20ANS%20Security%20Blueprint_%20A%20Federated%20Registry%20Architecture%20for%20Secure,%20Capability-Aware%20Agent%20Discovery.pdf)** - Proposes a federated security architecture that combines NANDA’s minimal registry with the Agent Name Service (ANS) for dual-trust anchoring. Features include verifiable credentials, zero-knowledge proofs, and a modular governance system for agent discovery and capability validation.
 
-2. **[Scaling Trust Beyond DNS](https://github.com/aidecentralized/nandapapers/blob/main/v0.3%20Beyond%20DNS%20-%20Unlocking%20the%20%20Internet%20of%20AI%20Agents%20via%20the%20NANDA%20Quilt%20of%20Registries%20and%20Verified%20AgentFacts.pdf)** - Minimal, privacy-preserving registry architecture
+4. **[Collaborative Agentic AI Needs Interoperability](https://github.com/aidecentralized/nandapapers/blob/main/Collaborative%20Agentic%20AI%20Needs%20Interoperability%20Across%20Ecosystems.pdf)** [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-00ff00.svg)](https://arxiv.org/abs/2505.21550)
 
-3. **[Collaborative Agentic AI Needs Interoperability](https://github.com/aidecentralized/nandapapers/blob/main/Collaborative%20Agentic%20AI%20Needs%20Interoperability%20Across%20Ecosystems.pdf)** [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-00ff00.svg)](https://arxiv.org/abs/2505.21550)
+5. **[Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)** - Comparing MCP, A2A, Microsoft Entra Agent ID, and NANDA
 
-4. **[Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)** - Comparing MCP, A2A, Microsoft Entra Agent ID, and NANDA
 
 📖 **[View All Papers](https://github.com/aidecentralized/nandapapers)** | 🖊️ **[Join Writing Group](https://tinyurl.com/nandawritingonboarding)**
 
