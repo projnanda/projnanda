@@ -1,6 +1,6 @@
 # 🌐 Project NANDA: Building the Agentic Web
 
-> **The future isn't just AI—it's trillions of AI agents collaborating across the open web**
+> **The future isn't just AI - it's trillions of AI agents collaborating across the open web securely**
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 What is Project NANDA?
+## 🚀 Project NANDA
 
 **Project NANDA** is building the foundational infrastructure for an Internet of AI Agents—a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities.
 
