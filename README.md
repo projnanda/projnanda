@@ -12,7 +12,7 @@
 
 ## 🚀 Project NANDA
 
-**Project NANDA** is building the foundational infrastructure for an Internet of AI Agents—a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities.
+**Project NANDA** is building the foundational infrastructure for the Agentic Web - a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities. NANDA addresses the core challenge: how can billions or even trillions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (index, protocols, SDKs) and the governance frameworks needed for a responsible, open Agentic Web.
 
 Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
@@ -77,6 +77,34 @@ NANDA is intentionally modular and protocol-agnostic, stitching together existin
 - ![Research](https://img.shields.io/badge/status-research-orange) Cross-Silo Coordination: Agents working across organizational data boundaries
 - ![Research](https://img.shields.io/badge/status-research-orange) Distributed AI: Split learning and inference across agent networks
 
+---
+## Goals
+
+### Short term goals
+**Research:** 
+- High-quality algorithmic research and perspective papers (see current research at NANDA Papers Repository) 
+- Creating partnerships between companies, startups, and academics
+
+**Impact:** 
+- Awareness: Educating about the need for an open, neutral Internet of AI Agents
+- Responsible Governance: Promoting ethical use and governance frameworks for AI agents
+
+**Lab to market (Tech Transfer and Venture Enablement):**
+- Reference Implementations: Open-source tools and community development
+- Ecosystem Building: Connecting startups, corporations, and investors for robust solutions
+
+### Long terms goals
+**Research**
+- Academic Infrastructure: Establishing journals, conferences, and NSF programs for agentic web research
+- Algorithmic Advancement: Developing algorithms to enable the society of AI agents
+
+**Impact**
+- Open Framework: Creating equitable systems for agentic commerce
+- Global Standards: Establishing protocols for responsible agent interaction
+
+**Lab to Market**
+- Government Engagement: Stimulating public sector adoption and policy development
+- Corporate Unlocking: Enabling enterprises to safely deploy agent ecosystems
 ---
 
 ## 🚀 Quick Start
