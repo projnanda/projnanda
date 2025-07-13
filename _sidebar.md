@@ -1,8 +1,9 @@
 * [Overview](./home/1.overview)
+* [NANDA Index](./home/NANDAIndex.md)
 * [Philosophy and Vision](./home/4.philsophyvision)
 * [Featured Speakers](./home/10.speakers.md)
 * [Research Contribution](./home/7.researchcontribution)
-* [NANDA Papers](./home/8.nandapapers)
+* [NANDA Research Papers](./home/8.nandapapers)
 
 * [**Protocol Interoperability**](./home/3.protocol%20interoperability)
   * [Current Reference Implementation](./home/2.current%20reference%20implementation)
