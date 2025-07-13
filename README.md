@@ -89,7 +89,6 @@ We're moving from:
 - Government Engagement: Stimulating public sector adoption and policy development
 - Corporate Unlocking: Enabling enterprises to safely deploy agent ecosystems
 ---
----
 ## 🏗️ NANDA Index Architecture Overview
 The NANDA Index is the foundational component of Project NANDA's three-stage vision for building the Internet of AI Agents. Using a city analogy: if A2A protocols are the streets agents use to communicate, Project NANDA builds the entire city, and the NANDA Index serves as the address system.
 
