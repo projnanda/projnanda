@@ -33,26 +33,26 @@ Created at MIT, NANDA provides the **index**, **protocols**, and **tools** neede
 
 ##  Development Roadmap
 
-### Phase 1: Foundations of Agentic Web ![In Progress](https://img.shields.io/badge/status-in_progress-yellow)
+### Phase 1: Foundations of Agentic Web 
 **Foundation/Onboarding/Index**
-- ![Complete](https://img.shields.io/badge/status-complete-brightgreen) Index Infrastructure: NANDA Index for agent discovery and identity
-- ![Complete](https://img.shields.io/badge/status-complete-brightgreen) Cross-Platform Communication: Protocol bridges between A2A, MCP, HTTPS
-- ![Complete](https://img.shields.io/badge/status-complete-brightgreen) Agent Onboarding: SDKs and tools for easy agent deployment
-- ![In Progress](https://img.shields.io/badge/status-in_progress-yellow) Interoperability: Standards for agents to work across different platforms
+- Index Infrastructure: NANDA Index for agent discovery and identity
+- Cross-Platform Communication: Protocol bridges between A2A, MCP, HTTPS
+- Agent Onboarding: SDKs and tools for easy agent deployment
+- Interoperability: Standards for agents to work across different platforms
 
-### Phase 2: Agentic Commerce ![Planned](https://img.shields.io/badge/status-planned-blue)
+### Phase 2: Agentic Commerce 
 **Knowledge pricing, edge AI**
-- ![Planned](https://img.shields.io/badge/status-planned-blue) Knowledge Pricing: Mechanisms for agents to value and exchange information
-- ![Planned](https://img.shields.io/badge/status-planned-blue) Edge AI Integration: Distributed intelligence at network edges
-- ![Planned](https://img.shields.io/badge/status-planned-blue) Economic Protocols: Payment and incentive systems for agent services
-- ![Planned](https://img.shields.io/badge/status-planned-blue) Resource Markets: Platforms for trading compute, data, and capabilities
+- Knowledge Pricing: Mechanisms for agents to value and exchange information
+- Edge AI Integration: Distributed intelligence at network edges
+- Economic Protocols: Payment and incentive systems for agent services
+- Resource Markets: Platforms for trading compute, data, and capabilities
 
-### Phase 3: Society of Agents ![Research](https://img.shields.io/badge/status-research-orange)
+### Phase 3: Society of Agents 
 **Large Population Models, co-learning, Agents across data silos**
-- ![Research](https://img.shields.io/badge/status-research-orange) Large Population Models (LPMs): Collective intelligence from agent populations
-- ![Research](https://img.shields.io/badge/status-research-orange) Collaborative Learning: Agents learning together while preserving privacy
-- ![Research](https://img.shields.io/badge/status-research-orange) Cross-Silo Coordination: Agents working across organizational data boundaries
-- ![Research](https://img.shields.io/badge/status-research-orange) Distributed AI: Split learning and inference across agent networks
+- Large Population Models (LPMs): Collective intelligence from agent populations
+- Collaborative Learning: Agents learning together while preserving privacy
+- Cross-Silo Coordination: Agents working across organizational data boundaries
+- Distributed AI: Split learning and inference across agent networks
 
 ---
 ##  Goals
