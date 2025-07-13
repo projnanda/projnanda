@@ -120,7 +120,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 > "We are rapidly entering a world where AI systems will be built using a decentralized network of AI agents, potentially traversing organizational boundaries. The design of such systems demands open protocols to discover, build trust, integrate, orchestrate, and exchange value among a network of intelligent agents. TCS is excited to support and contribute to MIT's decentralized AI program NANDA aimed at realizing this vision."
 
-<img src="https://nanda.media.mit.edu/imgs/harrick.jpg" alt="Dr. Harrick Vin" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/tcs_logo.png" alt="Tata Consultancy Services" width="50" height="50"> <a href="https://www.linkedin.com/in/harrickvin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+<img src="https://nanda.media.mit.edu/imgs/harrick.jpg" alt="Dr. Harrick Vin" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/tcs_logo.png" alt="Tata Consultancy Services" width="50" height="50"> <a href="https://www.linkedin.com/in/harrickvin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 
 ---
 
@@ -129,7 +129,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 > "Open protocols for Internet of AI are critical to trigger new wave of innovations beyond our imagination today. We have been working with NANDA team very closely and will continue to support NANDA R&D."
 
-<img src="https://nanda.media.mit.edu/imgs/zafer.jpg" alt="Zafer Sahinoglu" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/Mitsubishi_Electric_logo.png" alt="Mitsubishi Electric" width="50" height="50"> <a href="https://www.linkedin.com/in/zafer-sahinoglu/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+<img src="https://nanda.media.mit.edu/imgs/zafer.jpg" alt="Zafer Sahinoglu" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/Mitsubishi_Electric_logo.png" alt="Mitsubishi Electric" width="50" height="50"> <a href="https://www.linkedin.com/in/zafer-sahinoglu/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 
 ---
 
@@ -138,7 +138,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 > "The MIT Media Lab's NANDA initiative is creating the infrastructure that will define the next generation of AI. Their commitment to open standards and decentralized architecture aligns perfectly with our vision for ethical AI deployment."
 
-<img src="https://nanda.media.mit.edu/imgs/robert_lincourt.jpg" alt="Robert Lincourt" width="50" height="50"> <a href="https://www.linkedin.com/in/rob-lincourt-11b69114/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+<img src="https://nanda.media.mit.edu/imgs/robert_lincourt.jpg" alt="Robert Lincourt" width="50" height="50"> <a href="https://www.linkedin.com/in/rob-lincourt-11b69114/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 
 ---
 
@@ -147,7 +147,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 > "NANDA paves the way for building transformative technology in a truly inclusive manner. This approach promises to benefit all stakeholders and propel us into a revolutionary future of AI agents. HCLTech is excited to be part of project NANDA."
 
-<img src="https://nanda.media.mit.edu/imgs/vijay.jpg" alt="Vijay Guntur" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/HCLTech.png" alt="HCLTech" width="50" height="50"> <a href="https://www.linkedin.com/in/vijay-guntur/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+<img src="https://nanda.media.mit.edu/imgs/vijay.jpg" alt="Vijay Guntur" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/HCLTech.png" alt="HCLTech" width="50" height="50"> <a href="https://www.linkedin.com/in/vijay-guntur/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 
 ---
 
@@ -156,7 +156,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 > "The Nanda Protocol is pretty cool, and we are excited to be part of this journey."
 
-<img src="https://nanda.media.mit.edu/imgs/Raghu.png" alt="Raghu Bala" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/synergetics.jpg" alt="Synergetics.ai" width="50" height="50"> <a href="https://www.linkedin.com/in/raghubala/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+<img src="https://nanda.media.mit.edu/imgs/Raghu.png" alt="Raghu Bala" width="50" height="50"> <img src="https://nanda.media.mit.edu/imgs/synergetics.jpg" alt="Synergetics.ai" width="50" height="50"> <a href="https://www.linkedin.com/in/raghubala/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 
 ---
 
@@ -165,7 +165,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 > "NANDA allows us to not just understand the emerging dynamics in a world of agents but also shape the frameworks needed for them to work for us and with us."
 
-<img src="https://nanda.media.mit.edu/imgs/tresata_Logo.jpg" alt="Tresata" width="50" height="50"> <a href="https://www.linkedin.com/in/abhishekvirendramehta/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+<img src="https://nanda.media.mit.edu/imgs/tresata_Logo.jpg" alt="Tresata" width="50" height="50"> <a href="https://www.linkedin.com/in/abhishekvirendramehta/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"></a>
 
 ---
 
