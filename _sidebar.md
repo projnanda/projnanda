@@ -1,4 +1,4 @@
-* [NANDA Research Papers](./home/8.nandapapers)
+* [Research](./home/8.nandapapers)
 * [Featured Speakers](./home/10.speakers.md)
 * [**FAQ**](./home/6.faq.md)
   * [Project NANDA](./home/14.faqNANDA.md)
@@ -11,6 +11,6 @@
   * [Current Reference Implementation](./home/2.current%20reference%20implementation)
   * [API Reference](./home/12.api.md)
     
-* [Research Contribution](./home/7.researchcontribution)
+* [Contribution](./home/7.researchcontribution)
 * [**Community & Channels**](./home/9.streams)
 * [MIT License](https://opensource.org/licenses/MIT)
