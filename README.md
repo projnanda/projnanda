@@ -15,9 +15,9 @@
 
 #### Project NANDA’s Three Phases
 
-Phase 1: Agentic Web Foundations – Neutral, Open and Distributed core rails for agent onboarding, discovery 🔍, and trusted indexing 📇 across heterogenous industrywide implementations.
+Phase 1: Agentic Web Foundations – Neutral, Open and Distributed core rails for agent onboarding, discovery, and trusted indexing across heterogenous industrywide implementations.
 
-Phase 2: Agentic Commerce – Market infrastructure for knowledge pricing 💡 and decentralized, edge-native AI services.
+Phase 2: Agentic Commerce – Market infrastructure for knowledge pricing and decentralized, edge-native AI services.
 
 Phase 3: Agent Society – Large-population models that power co-learning and collaboration across data silos.
 
