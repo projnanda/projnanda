@@ -282,6 +282,15 @@ NANDA bridges protocols seamlessly:
 ---
 ## Industry Leaders Supporting Decentralized AI
 
+### Rao Surapaneni
+**VP and GM Business Application Platform** 
+**Google A2A**
+> *"We're proud to support Project Nanda's work as they utilize the Agent2Agent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."*
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="120" height="40">
+
+---
+
 ### Dr. Harrick Vin
 **Chief Technology Officer, Tata Consultancy Services**
 
