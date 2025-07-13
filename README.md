@@ -241,11 +241,45 @@ NANDA bridges protocols seamlessly:
 
 ## 📚 Additional Resources
 
-- **🏠 [Homepage](https://projectnanda.org)** - Official project site
-- **🎓 [MIT Research Group](https://nanda.mit.edu)** - Academic foundation
-- **📖 [Project FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - Comprehensive Q&A
-- **🔗 [NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - Protocol relationships
-- **📁 [GitHub Repositories](https://github.com/projnanda)** - All open-source code
+### 🌟 Project NANDA Resource Map
+
+#### 🌐 Official Sites
+- 🏠 **Home:** [projectnanda.org](https://projectnanda.org)  
+- 🧭 **MIT Media Lab Overview:** [media.mit.edu/projects/mit-nanda](https://www.media.mit.edu/projects/mit-nanda/overview/)  
+- 🎓 **MIT Portal:** [nanda.mit.edu](https://nanda.mit.edu)  
+- 🐙 **Docs (GitHub Pages):** [projnanda.github.io/projnanda](https://projnanda.github.io/projnanda/)  
+- 📅 **July 2025 Summit Site:** [july2025.projectnanda.org](https://july2025.projectnanda.org)  
+
+#### 📰 Articles & Blog Posts
+- ✍️ **“NANDA: The Internet of AI Agents”** — Ramesh Raskar (LinkedIn)  
+  <https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve>  
+- ✍️ **Review of MIT NANDA** — Ben Xiaojun Li (LinkedIn)  
+  <https://www.linkedin.com/pulse/review-mit-nanda-internet-ai-agents-ben-xiaojun-li-am7hc>  
+- 🗞 **Forbes:** *“Line Up and Identify Yourselves — AI Agents Get Organized with NANDA”*  
+  <https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/>  
+- 🗞 **Forbes:** *“Make a Decentralized Internet with AI — NANDA Is Coming”*  
+  <https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/>  
+- 🗞 **Vana:** *MIT Decentralized AI Summit Recap*  
+  <https://www.vana.org/posts/mit-decentralized-ai-summit>  
+
+#### ▶️ Videos & Media
+- 🎬 **Intro to NANDA (YouTube)** — “Network of AI Agents & Decentralized Internet”  
+  <https://www.youtube.com/watch?v=jlcO19XyQ1I>  
+- 🎬 **Project NANDA Overview Talk (YouTube)**  
+  <https://www.youtube.com/watch?v=vCeiA0T8kTM>  
+- 🎬 **Decentralized AI Summit Panel (YouTube)**  
+  <https://www.youtube.com/watch?v=oDRyxMUum4A>  
+
+#### 🤝 Community & Social
+- 💼 **LinkedIn Company Page:** <https://www.linkedin.com/company/projectnanda>  
+- 📣 **Launch Post:** “Intro to NANDA — Network of AI Agents”  
+  <https://www.linkedin.com/posts/projectnanda_intro-to-nanda-network-of-ai-agents-and-activity-7334281216088535041-PeLm>  
+
+#### 📆 Events & Registrations
+- 🏛 **Tech Jobs for Good — Summit Listing:**  
+  <https://techjobsforgood.com/events/projectnanda-2-day-summit-at-mit-intranet-to-internet-of-ai-agents>  
+- 🎟 **RSVP (Lu.ma):** <https://lu.ma/s2d3a797>  
+
 
 ---
 
