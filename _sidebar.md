@@ -1,17 +1,14 @@
-* [Overview](./home/1.overview)
-* [NANDA Index](./home/13.NANDAIndex.md)
-* [Philosophy and Vision](./home/4.philsophyvision)
-* [Featured Speakers](./home/10.speakers.md)
-* [Research Contribution](./home/7.researchcontribution)
 * [NANDA Research Papers](./home/8.nandapapers)
+* [Featured Speakers](./home/10.speakers.md)
+* [FAQ](./home/6.faq.md)
+* [NANDA Index](./home/13.NANDAIndex.md)
+* [**Build with NANDA**](./home/5.gettingstarted)
+  * [Quick Start](./home/11.quickstart.md)
 
 * [**Protocol Interoperability**](./home/3.protocol%20interoperability)
   * [Current Reference Implementation](./home/2.current%20reference%20implementation)
   * [API Reference](./home/12.api.md)
-
-* [**Build with NANDA**](./home/5.gettingstarted)
-  * [Quick Start](./home/11.quickstart.md)
-  * [FAQ](./home/6.faq.md)
-
+    
+* [Research Contribution](./home/7.researchcontribution)
 * [**Community & Channels**](./home/9.streams)
 * [MIT License](https://opensource.org/licenses/MIT)
