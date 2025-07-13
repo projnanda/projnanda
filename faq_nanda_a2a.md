@@ -92,3 +92,15 @@ No, they are complementary layers:
 - The NANDA Index solves how to find, trust, and route to agents
 - A2A solves how two agents exchange work once they're connected
 - A NANDA Index-compliant agent can expose an A2A endpoint, making existing A2A services "NANDA-discoverable" with minimal changes
+
+---
+## Endorsement
+
+> *"We're proud to support Project Nanda's work as they utilize the Agent2Agent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."*
+
+**— Rao Surapaneni**  
+*VP and GM Business Application Platform*  
+*Google A2A*
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="120" height="40">
+---
