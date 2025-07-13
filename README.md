@@ -11,15 +11,15 @@
 ---
 ## 🚀 Project NANDA
 
-**Project NANDA** is building the foundational infrastructure for the **Open Agentic Web** - a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities. NANDA addresses the core challenge: how can billions or even trillions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (index, protocols, SDKs) and the governance frameworks needed for a responsible, **Open Agentic Web**.
+**Project NANDA** is building the foundational infrastructure for the **Open Agentic Web** - a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities. NANDA addresses the core challenge: how can billions or even trillions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (index - interop links between all heterogenous agent registries, protocols, SDKs) and the governance frameworks needed for a responsible, **Open Agentic Web**.
 
-Project NANDA include  -
+Project NANDA’s Three Pillars
 
-**Foundations of Agentic Web** - Foundation/Onboarding/Index,
+🌐 Agentic Web Foundations – Neutral, Open and Distributed core rails for agent onboarding, discovery 🔍, and trusted indexing 📇 across heterogenous industrywide implementations.
 
-**Agentic Commerce** - Knowledge pricing, edge AI and
+💱🤖 Agentic Commerce – Market infrastructure for knowledge pricing 💡 and decentralized, edge-native AI services.
 
-**Society of Agents** - Large Population Models, co-learning, Agents across data silos.
+🧑‍🤝‍🧑📚 Agent Society – Large-population models that power co-learning and collaboration across data silos.
 
 Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
