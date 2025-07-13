@@ -24,7 +24,7 @@ Phase 3: Agent Society – Large-population models that power co-learning and co
 Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
 ###  Know more
-- **[View All Research Papers](https://github.com/aidecentralized/nandapapers)** - Latest reserach papers outlining the architectural, strategic, and technical foundations of the NANDA
+- **[View All Research Papers](https://github.com/aidecentralized/nandapapers)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA
 - **[Project NANDA FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - Comprehensive Q&A about the project
 - **[NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - NANDA Index - contextualizing with Linux Foundation Agent2Agent Project
 - **[GitHub Repositories](https://github.com/projnanda)** - All open-source code for Agents, Index, Adapter SDK
