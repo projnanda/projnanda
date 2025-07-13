@@ -1,5 +1,5 @@
 * [Overview](./home/1.overview)
-* [NANDA Index](./home/NANDAIndex.md)
+* [NANDA Index](./home/13.NANDAIndex.md)
 * [Philosophy and Vision](./home/4.philsophyvision)
 * [Featured Speakers](./home/10.speakers.md)
 * [Research Contribution](./home/7.researchcontribution)
