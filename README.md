@@ -13,7 +13,7 @@
 
 **Project NANDA** is building the foundational infrastructure for the **Open Agentic Web** - a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities. NANDA addresses the core challenge: how can billions or even trillions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (index - interop links between all heterogenous agent registries, protocols, SDKs) and the governance frameworks needed for a responsible, **Open Agentic Web**.
 
-Project NANDA’s Three Pillars
+#### Project NANDA’s Three Pillars
 
 🌐 Agentic Web Foundations – Neutral, Open and Distributed core rails for agent onboarding, discovery 🔍, and trusted indexing 📇 across heterogenous industrywide implementations.
 
@@ -92,7 +92,7 @@ We're moving from:
 ## 🏗️ NANDA Index Architecture Overview
 The NANDA Index is the foundational component of Project NANDA's three-stage vision for building the Internet of AI Agents. Using a city analogy: if A2A protocols are the streets agents use to communicate, Project NANDA builds the entire city, and the NANDA Index serves as the address system.
 
-Project NANDA progresses through three technical phases:
+#### To put NANDA Index in the context of bigger vision Project NANDA, which progresses through three technical phases:
 
 Phase 1 - Foundations of Agentic Web: NANDA Index provides agent identity and discovery infrastructure, plus cross-platform communication protocols and interoperability standards
 
