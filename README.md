@@ -15,23 +15,23 @@
 
 #### Project NANDA’s Three Phases
 
-Phase 1. Agentic Web Foundations – Neutral, Open and Distributed core rails for agent onboarding, discovery 🔍, and trusted indexing 📇 across heterogenous industrywide implementations.
+Phase 1: Agentic Web Foundations – Neutral, Open and Distributed core rails for agent onboarding, discovery 🔍, and trusted indexing 📇 across heterogenous industrywide implementations.
 
-Phase 2. Agentic Commerce – Market infrastructure for knowledge pricing 💡 and decentralized, edge-native AI services.
+Phase 2: Agentic Commerce – Market infrastructure for knowledge pricing 💡 and decentralized, edge-native AI services.
 
-Phase 3. Agent Society – Large-population models that power co-learning and collaboration across data silos.
+Phase 3: Agent Society – Large-population models that power co-learning and collaboration across data silos.
 
 Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
-### 📚 Find out more
-- **📖 [View All Research Papers](https://github.com/aidecentralized/nandapapers)** - Latest reserach papers outlining the architectural, strategic, and technical foundations of the NANDA
-- **📖 [Project NANDA FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - Comprehensive Q&A about the project
-- **🔗 [NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - NANDA Index - contextualizing with Linux Foundation Agent2Agent Project
-- **📁 [GitHub Repositories](https://github.com/projnanda)** - All open-source code for Agents, Index, Adapter SDK
+###  Find out more
+- **[View All Research Papers](https://github.com/aidecentralized/nandapapers)** - Latest reserach papers outlining the architectural, strategic, and technical foundations of the NANDA
+- **[Project NANDA FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - Comprehensive Q&A about the project
+- **[NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - NANDA Index - contextualizing with Linux Foundation Agent2Agent Project
+- **[GitHub Repositories](https://github.com/projnanda)** - All open-source code for Agents, Index, Adapter SDK
 
 ---
 
-## 📈 Development Roadmap
+##  Development Roadmap
 
 ### Phase 1: Foundations of Agentic Web ![In Progress](https://img.shields.io/badge/status-in_progress-yellow)
 **Foundation/Onboarding/Index**
