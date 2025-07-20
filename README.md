@@ -92,6 +92,8 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 **[Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)** - Comparing MCP, A2A, Microsoft Entra Agent ID, and NANDA
 
+**[State of Agentic AI in Business: Report](https://github.com/aidecentralized/nandapapers/blob/main/v0.1State%20of%20AI%20in%20Business%202025%20Report.pdf)** - Investigates the stark disparity in enterprise GenAI and Agentic AI adoption, identifying the critical gap between static tools and learning-capable systems.
+
  **[View All Papers](https://github.com/aidecentralized/nandapapers)** |  **[Join Writing Group](https://tinyurl.com/nandawritingonboarding)**
 
 ---
