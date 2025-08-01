@@ -92,6 +92,8 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 **[Using the NANDA Index Architecture in Practice: An Enterprise Perspective](https://github.com/aidecentralized/nandapapers/blob/main/v0.1%20NANDA%20Index%20Architecture%20in%20Practice%3A%20An%20Enterprise%20Perspective.pdf)** - Presents the NANDA framework for secure AI agent ecosystems and cross-protocol interoperability, and explores enterprise use cases. Introduces Zero Trust Agentic Access (ZTAA) and Agent Visibility & Control (AVC) for enterprise governance of autonomous agent collaboration.
 
+**[Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)** - Compares leading registry architectures - MCP, A2A, Microsoft Entra Agent ID, and NANDA, across security, scalability, authentication, and maintainability. Highlights NANDA’s AgentFacts as a privacy-preserving, cryptographically verifiable schema purpose-built for dynamic, multi-agent systems.
+
 **[Collaborative Agentic AI Needs Interoperability](https://github.com/aidecentralized/nandapapers/blob/main/Collaborative%20Agentic%20AI%20Needs%20Interoperability%20Across%20Ecosystems.pdf)** [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-00ff00.svg)](https://arxiv.org/abs/2505.21550)
 
 **[Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)** - Comparing MCP, A2A, Microsoft Entra Agent ID, and NANDA
