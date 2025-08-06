@@ -16,7 +16,7 @@
 Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
 ###  Learn More
-- **[View All Research Papers](https://github.com/aidecentralized/nandapapers)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA
+- **[View All Research Papers](https://projnanda.github.io/projnanda/#/?id=research-amp-publications)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA
 - **[Project NANDA FAQ](https://projnanda.github.io/projnanda/#/faq_nanda)** - Comprehensive Q&A about the project
 - **[NANDA & A2A FAQ](https://projnanda.github.io/projnanda/#/faq_nanda_a2a)** - NANDA Index - contextualizing with Linux Foundation Agent2Agent Project
 - **[GitHub Repositories](https://github.com/projnanda)** - All open-source code for Agents, Index, Adapter SDK
