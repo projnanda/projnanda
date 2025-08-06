@@ -1,3 +1,3 @@
 - [Home](/)
 - [GitHub](https://github.com/projnanda/projnanda)
-- [Papers](https://github.com/aidecentralized/nandapapers) 
+- [Papers](https://projnanda.github.io/projnanda/#/?id=research-amp-publications) 
