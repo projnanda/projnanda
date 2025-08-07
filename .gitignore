@@ -3,4 +3,5 @@
 *.log
 tmp/
 
+assets/.DS_Store
 node_modules
