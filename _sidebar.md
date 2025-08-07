@@ -1,4 +1,5 @@
 * [Research](./home/8.nandapapers)
+  * [Upgrade or Switch Paper](upgrade_or_switch.md)
 * [Featured Speakers](./home/10.speakers.md)
 * [**FAQ**](./home/6.faq.md)
   * [Project NANDA](./home/14.faqNANDA.md)
