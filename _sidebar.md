@@ -6,7 +6,6 @@
   * [NANDA and A2A](./home/15.faq_NANDA_A2A.md)
 * [NANDA Index](./home/13.NANDAIndex.md)
 * [**Build with NANDA**](./home/5.gettingstarted)
-  * [Quick Start](./home/11.quickstart.md)
 
 * [**Protocol Interoperability**](./home/3.protocol%20interoperability)
   * [Current Reference Implementation](./home/2.current%20reference%20implementation)
