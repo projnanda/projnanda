@@ -97,7 +97,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 **[NANDA + ANS Security Blueprint](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20NANDA%20+%20ANS%20Security%20Blueprint_%20A%20Federated%20Registry%20Architecture%20for%20Secure,%20Capability-Aware%20Agent%20Discovery.pdf)** - Proposes a federated security architecture that combines NANDA’s minimal registry with the Agent Name Service (ANS) for dual-trust anchoring. Features include verifiable credentials, zero-knowledge proofs, and a modular governance system for agent discovery and capability validation.
 
-**[State of Agentic AI in Business: Report](https://github.com/aidecentralized/nandapapers/blob/main/v0.1State%20of%20AI%20in%20Business%202025%20Report.pdf)** - Investigates the stark disparity in enterprise GenAI and Agentic AI adoption, identifying the critical gap between static tools and learning-capable systems.
+**[State of Agentic AI in Business: Report](https://nanda.media.mit.edu)** - Investigates the stark disparity in enterprise GenAI and Agentic AI adoption, identifying the critical gap between static tools and learning-capable systems.
 
  **[View All Papers](https://github.com/aidecentralized/nandapapers)** |  **[Join Writing Group](https://tinyurl.com/nandawritingonboarding)**
 
