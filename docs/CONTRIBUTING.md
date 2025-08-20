@@ -1,5 +1,14 @@
 # Contributing to Project NANDA
 
+> **📋 DOCUMENT STATUS**: Subject to Approval  
+> **📅 DATE**: 2025-01-20  
+> **👤 AUTHOR**: Security & Development Guidelines Team (parmarmanojkumar)  
+> **✅ APPROVAL REQUIRED FROM**:  
+> - [ ] Security Team Lead  
+> - [ ] Engineering Manager  
+> - [ ] Open Source Maintainers  
+> - [ ] Community Manager
+
 Welcome to Project NANDA! We're building the foundational infrastructure for the Internet of AI Agents, and we welcome contributions from the community. This document outlines how to contribute effectively and securely to the project.
 
 ## Code of Conduct
@@ -70,6 +79,22 @@ Examples:
 
 ## Security Requirements
 
+### 🚨 CRITICAL: Current Security Status
+
+**Before contributing, understand the current security posture:**
+
+| Component | Security Level | Contribution Risk |
+|-----------|----------------|-------------------|
+| **NANDA-INDEX** | **Level 0/5** | 🛑 **Emergency fixes only** |
+| **NANDA-AGENT** | **Level 1/5** | 🚨 **CRITICAL - Emergency fixes only** |
+| **NANDA-ADAPTER** | **Level 2/5** | ⚠️ **HIGH - Security hardening priority** |
+
+**All contributions must address security gaps identified through AI security frameworks:**
+- **OWASP LLM Top 10** - LLM application security
+- **OWASP Agentic AI Top 10** - Multi-agent system security  
+- **MITRE ATLAS** - ML-specific attack mitigations
+- **MAESTRO Framework** - Multi-agent orchestration security
+
 ### 🚨 Security-First Development
 
 All contributions must follow security-by-design principles:
@@ -138,6 +163,56 @@ Contributing to NANDA's technical implementation:
 - Cryptographic protocols and libraries
 - Privacy-preserving algorithms
 - Security monitoring and alerting
+
+### Component-Specific Contribution Guidelines
+
+#### NANDA-INDEX Contributions (Registry Service)
+**CRITICAL SECURITY PRIORITY** - Emergency fixes only until baseline security implemented
+
+**Allowed Contributions:**
+- [ ] API authentication implementation
+- [ ] Input validation and sanitization
+- [ ] Database security hardening
+- [ ] Audit logging implementation
+- [ ] Rate limiting and DDoS protection
+
+**Prohibited Until Security Fixed:**
+- ❌ New features or endpoints
+- ❌ Performance optimizations
+- ❌ UI/UX improvements
+- ❌ Documentation-only changes
+
+#### NANDA-AGENT Contributions (Agent Communication)
+**HIGH SECURITY PRIORITY** - Security hardening required
+
+**Priority Contributions:**
+- [ ] Prompt injection detection and sanitization
+- [ ] Secure secrets management
+- [ ] Agent authentication frameworks
+- [ ] Conversation encryption
+- [ ] MCP plugin sandboxing
+
+**AI Security Focus:**
+- [ ] OWASP LLM Top 10 mitigations
+- [ ] Adversarial input detection
+- [ ] Model output validation
+- [ ] Behavioral anomaly monitoring
+
+#### NANDA-ADAPTER Contributions (Framework Integration)
+**MEDIUM SECURITY PRIORITY** - Framework security hardening
+
+**Priority Contributions:**
+- [ ] Framework sandboxing (LangChain/CrewAI)
+- [ ] Input validation at integration boundaries
+- [ ] Framework-specific security controls
+- [ ] Resource limiting and monitoring
+- [ ] Custom function security
+
+**Framework Security Requirements:**
+- [ ] LangChain tool authorization
+- [ ] CrewAI agent capability restrictions
+- [ ] Custom improvement function sandboxing
+- [ ] Framework vulnerability scanning
 
 **Process**:
 1. Check existing issues and roadmap

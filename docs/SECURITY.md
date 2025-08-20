@@ -1,8 +1,35 @@
 # Security Policy
 
+> **📋 DOCUMENT STATUS**: Subject to Approval  
+> **📅 DATE**: 2025-01-20  
+> **👤 AUTHOR**: Security Policy Team (parmarmanojkumar)  
+> **✅ APPROVAL REQUIRED FROM**:  
+> - [ ] Security Team Lead  
+> - [ ] Legal/Compliance Team  
+> - [ ] Engineering Manager  
+> - [ ] Executive Sponsor
+
 ## Project NANDA Security Framework
 
-Project NANDA is committed to building secure infrastructure for the Internet of AI Agents. This document outlines our security policies, vulnerability reporting procedures, and security best practices for contributors.
+Project NANDA is committed to building secure infrastructure for the Internet of AI Agents. Based on comprehensive component-level security assessments using advanced AI security frameworks, this document outlines our security policies, vulnerability reporting procedures, and security best practices for contributors.
+
+## 🚨 CRITICAL SECURITY STATUS
+
+**CURRENT SECURITY POSTURE**: Multiple **CRITICAL** vulnerabilities identified across all components
+
+| Component | Security Level | Status | Action Required |
+|-----------|----------------|--------|-----------------|
+| **NANDA-INDEX** | **Level 0/5** | 🛑 **DO NOT DEPLOY** | Emergency fixes required |
+| **NANDA-AGENT** | **Level 1/5** | ⚠️ **CRITICAL RISK** | Emergency fixes required |
+| **NANDA-ADAPTER** | **Level 2/5** | ⚠️ **HIGH RISK** | Security improvements needed |
+
+### AI Security Framework Assessment
+
+✅ **Applied Security Frameworks:**
+- **OWASP Top 10 for LLM Applications** - Critical vulnerabilities identified
+- **OWASP Top 10 for Agentic AI** - Multi-agent security gaps found  
+- **MITRE ATLAS Framework** - ML-specific attack vectors detected
+- **MAESTRO Framework** - Multi-agent orchestration issues identified
 
 ## Supported Versions
 
@@ -70,6 +97,36 @@ Agents registered with NANDA must:
 - [ ] Follow privacy-preserving data handling practices
 - [ ] Provide Software Bill of Materials (SBOM)
 - [ ] Sign all distributed artifacts
+
+### AI-Specific Security Requirements
+
+**LLM Security (OWASP LLM Top 10):**
+- [ ] Implement prompt injection detection and sanitization
+- [ ] Validate and sanitize all AI model outputs
+- [ ] Protect against model denial of service attacks
+- [ ] Secure handling of training data and model artifacts
+- [ ] Implement adversarial input detection
+
+**Agentic AI Security (OWASP Agentic AI Top 10):**
+- [ ] Define and enforce agent behavioral boundaries
+- [ ] Implement cryptographic agent identity verification
+- [ ] Prevent prompt injection via agent communication
+- [ ] Control and audit agent actions and capabilities
+- [ ] Secure agent lifecycle management
+
+**Multi-Agent Security (MAESTRO Framework):**
+- [ ] Secure multi-agent orchestration and coordination
+- [ ] Implement secure message routing between agents
+- [ ] Isolate agent execution environments
+- [ ] Monitor and control inter-agent communications
+- [ ] Implement consensus mechanisms for critical operations
+
+**ML Security (MITRE ATLAS):**
+- [ ] Protect against adversarial data crafting
+- [ ] Implement model integrity verification
+- [ ] Prevent data exfiltration via ML models
+- [ ] Secure ML supply chain and dependencies
+- [ ] Monitor for ML-specific attack patterns
 
 ### Security Review Requirements
 
