@@ -13,7 +13,7 @@
 
 **Project NANDA** is building the foundational infrastructure for the **Open Agentic Web** - a system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries without bottlenecks or security vulnerabilities. NANDA addresses the core challenge: how can billions or even trillions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities. The project develops both the technical infrastructure (index - interop links between all heterogenous agent registries, protocols, SDKs) and the governance frameworks needed for a responsible, **Open Agentic Web**.
 
-Created at MIT, NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
+NANDA provides the **index**, **protocols**, and **tools** needed to enable this decentralized, protocol-neutral ecosystem. 
 
 ###  Learn More
 - **[View All Research Papers](https://projnanda.github.io/projnanda/#/?id=research-amp-publications)** - Latest research papers outlining the architectural, strategic, and technical foundations of the NANDA
