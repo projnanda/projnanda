@@ -1,5 +1,52 @@
 # Project NANDA FAQ
 
+## Is Project NANDA needed for AI agents?
+
+As AI agents proliferate, it's helpful to have infrastructure beyond basic message passing. A framework like Project NANDA focuses on three layers:
+
+1. **Open discovery and interoperability** so agents can find and address each other across platforms
+2. **Economic primitives** so agents can price, meter, and exchange services  
+3. **Privacy-aware collaboration** so groups of agents can learn together without exposing sensitive data
+
+Without these layers, ecosystems risk fragmenting into isolated silos that limit scale and shared intelligence.
+
+---
+
+## What would NANDA add beyond today's communication standards?
+
+Existing agent standards are strong once two parties are already connected. NANDA aims to complement them by providing:
+
+- **Global discovery & addressing** across platforms and runtimes
+- **Cross-protocol interoperability**, so agents built in different stacks can still interact
+- **Verifiable trust signals** (e.g., attestable capabilities and provenance)
+- **Privacy-preserving lookups** to protect sensitive relationships and intent
+- **Economic building blocks** (quoting, pricing, metering, settlement)
+- **Higher-level collaboration** such as knowledge markets and population-scale learning
+
+---
+
+## Potential benefits and challenges
+
+### Benefits
+
+- **Reduces vendor lock-in** via neutral discovery and standards
+- **Enables cross-organizational collaboration** with privacy safeguards
+- **Supports scaling** to millions/billions of agents
+- **Opens new business models** where agents trade skills, data, and compute
+- **Encourages collective intelligence** through structured, privacy-aware learning
+
+### Challenges
+
+- **Achieving sufficient adoption** and network effects
+- **Governance and interoperability** across diverse stakeholders
+- **Added complexity and potential latency** from verification and cryptography
+- **Abuse resistance** (spam, sybil, and malicious agents)
+- **Balancing openness** with compliance, safety, and auditability
+
+#### Overall, NANDA is positioned as the connective tissue that helps agent ecosystems interoperate, transact, and learn responsibly at scale, across silos.
+
+---
+
 ## What is Project NANDA?
 
 Project NANDA is building the foundational infrastructure for an Internet of AI Agents i.e. the system where trillions of AI agents can collaborate, communicate, and transact across organizational boundaries. Created at MIT, NANDA provides the index, protocols, and tools needed to enable this decentralized, protocol-neutral ecosystem.
