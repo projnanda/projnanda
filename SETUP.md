@@ -31,7 +31,6 @@ This documentation site uses [Docsify](https://docsify.js.org/) to create a ligh
 ├── _navbar.md         # Top navigation bar
 ├── _coverpage.md      # Landing page cover
 ├── quickstart.md      # Quick start guide
-├── api.md            # API documentation
 └── package.json      # Node.js configuration
 ```
 

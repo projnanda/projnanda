@@ -10,7 +10,6 @@
 
 * [**Protocol Interoperability**](./home/3.protocol%20interoperability)
   * [Current Reference Implementation](./home/2.current%20reference%20implementation)
-  * [API Reference](./home/12.api.md)
     
 * [Contribution](./home/7.researchcontribution)
 * [**Community & Channels**](./home/9.streams)

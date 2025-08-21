@@ -256,7 +256,7 @@ The web will evolve from static content to dynamic services to autonomous actors
 
 <div align="center">
 
-**Made with ❤️ by the NANDA Community**
+**Made with ♥ by the NANDA Community**
 
 *Building the Agentic Web*
 

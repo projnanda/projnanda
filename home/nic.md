@@ -8,7 +8,7 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
 
 ---
 
-## 🚀 Join the Innovation Council
+## Join the Innovation Council
 
 We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.  
 
@@ -21,12 +21,12 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 - Engage in workshops, hackathons, and technical deep-dives.  
 - Represent the project at global events and get recognized as a **pioneer member**.  
 
-📌 **Apply Here**: [Application Form](https://forms.gle/Pc44vX1Nd9fXiWA99)  
-🌐 **Learn More**: [Project NANDA Website](https://projectnanda.org) 
+**Apply Here**: [Application Form](https://forms.gle/Pc44vX1Nd9fXiWA99)  
+**Learn More**: [Project NANDA Website](https://projectnanda.org) 
 
 ---
 
-## 🕒 Commitment & Schedule
+## Commitment & Schedule
 
 - **Time Investment**: ~1 hour per week  
 - **Core Meetup**: Once a month (local chapter decides format — in-person or virtual)  
@@ -34,7 +34,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 ---
 
-## 📌 Innovation Council Committees
+## Innovation Council Committees
 
 We’re seeking members and leaders across specialized focus areas:  
 
@@ -61,7 +61,7 @@ We’re seeking members and leaders across specialized focus areas:
 
 ---
 
-## 🌍 How to Set Up a Chapter in Your City
+## How to Set Up a Chapter in Your City
 
 1. **Apply to Become a Chapter Leader**  
    - Fill out the [application form](https://forms.gle/Pc44vX1Nd9fXiWA99) and indicate your interest in founding a new chapter.  
@@ -83,7 +83,7 @@ We’re seeking members and leaders across specialized focus areas:
 
 ---
 
-## 📬 Get Involved
+## Get Involved
 
 - **Apply to Join or Start a Chapter**: [Application Form](https://forms.gle/Pc44vX1Nd9fXiWA99)  
 - **Website**: [projectnanda.org](https://projectnanda.org)  
