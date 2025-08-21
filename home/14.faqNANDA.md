@@ -57,7 +57,7 @@ Large Population Models, co-learning, Agents across data silos (privacy)
 - Government Engagement: Stimulating public sector adoption and policy development
 - Corporate Unlocking: Enabling enterprises to safely deploy agent ecosystems
 
-## Is Project NANDA needed for AI agents?
+## What role does Project NANDA play in the agentic AI space?
 
 As AI agents proliferate, it's helpful to have infrastructure beyond basic message passing. A framework like Project NANDA focuses on three layers:
 
@@ -80,7 +80,7 @@ Existing agent standards are strong once two parties are already connected. NAND
 - **Higher-level collaboration** such as knowledge markets and population-scale learning
 
 
-## Potential benefits and challenges
+## What are some potential benefits and challenges of NANDA in the context of agentic AI?
 
 ### Benefits
 
