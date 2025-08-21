@@ -93,10 +93,7 @@ Our research papers outline the architectural, strategic, and technical foundati
 
 **[Survey of AI Agent Registry Solutions](https://arxiv.org/abs/2508.03095)** - Compares leading registry architectures - MCP, A2A, Microsoft Entra Agent ID, and NANDA, across security, scalability, authentication, and maintainability. Highlights NANDA’s AgentFacts as a privacy-preserving, cryptographically verifiable schema purpose-built for dynamic, multi-agent systems.  [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-00ff00.svg)](https://arxiv.org/abs/2508.03095)
 
-
-**[State of Agentic AI in Business: Report](https://nanda.media.mit.edu)** - Investigates the stark disparity in enterprise GenAI and Agentic AI adoption, identifying the critical gap between static tools and learning-capable systems.
-
- **[View All Papers](https://github.com/aidecentralized/nandapapers)** |  **[Join Writing Group](https://tinyurl.com/nandawritingonboarding)**
+**[Join Writing Group](https://tinyurl.com/nandawritingonboarding)**
 
 ---
 
