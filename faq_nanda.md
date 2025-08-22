@@ -110,7 +110,7 @@ Existing agent standards are strong once two parties are already connected. NAND
 - Events: [Lu.Ma/nanda](https://Lu.Ma/nanda)
 - YouTube: [@ProjectNANDA](https://www.youtube.com/@ProjectNANDA)
 - Newsletter: [Sign up form](https://forms.gle/bnVRV2zr8M5Kotfr7)
-- Writing Group: Onboarding process (https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup.md)
+- Writing Group: [Onboarding process](https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup.md)
 
 ## Current Status
 **Research:** See comprehensive research at NANDA Papers Repository
