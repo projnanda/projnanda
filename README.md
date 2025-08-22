@@ -240,7 +240,7 @@ The web will evolve from static content to dynamic services to autonomous actors
   <https://www.youtube.com/watch?v=oDRyxMUum4A>  
 
 ####  Community & Social
--  **LinkedIn Company Page:** <https://www.linkedin.com/company/projectnanda>  
+-  **LinkedIn Page:** <https://www.linkedin.com/company/projectnanda>  
 -  **Launch Post:** “Intro to NANDA — Network of AI Agents”  
   <https://www.linkedin.com/posts/projectnanda_intro-to-nanda-network-of-ai-agents-and-activity-7334281216088535041-PeLm>  
 
