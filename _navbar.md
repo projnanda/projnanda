@@ -1,3 +1,3 @@
 - [Home](/)
 - [GitHub](https://github.com/projnanda/projnanda)
-- [Papers](/./home/8.nandapapers) 
+- [Research](./home/8.nandapapers) 
