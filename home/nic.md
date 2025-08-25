@@ -14,12 +14,12 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 #### Boston Area - Join [here](https://chat.whatsapp.com/GXWhSLgq1El3Ab0FX72FYr)
 #### San Franscisco Bay Area - Join [here](https://chat.whatsapp.com/KmytCNfs1QD5Fcjeo8qFdy) 
-#### London
-#### Seattle
-#### Singapore
-#### Dubai
-#### Mumbai
-#### Bengluru
+#### London - Join [here](https://chat.whatsapp.com/GN5o8mtfqIUJ2HDmhlywFC)
+#### Seattle - Join [here](https://chat.whatsapp.com/BshTe7McTJgAaoTsm5TtwO)
+#### Mumbai -
+#### Bengluru - Join  [here](https://chat.whatsapp.com/F4FgELgoRqjFdX8XvDn9h2)
+#### Singapore - Coming Soon
+#### Dubai - Comming Soon
 
 ---
 
