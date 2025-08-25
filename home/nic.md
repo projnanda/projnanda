@@ -12,16 +12,16 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
 
 We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.  
 
-### Boston Area - Join [here](https://chat.whatsapp.com/GXWhSLgq1El3Ab0FX72FYr)
-### San Franscisco Bay Area - Join [here](https://chat.whatsapp.com/KmytCNfs1QD5Fcjeo8qFdy) 
-### London
-### Seattle
-### Singapore
-### Dubai
-### Mumbai
-### Bengluru
+#### Boston Area - Join [here](https://chat.whatsapp.com/GXWhSLgq1El3Ab0FX72FYr)
+#### San Franscisco Bay Area - Join [here](https://chat.whatsapp.com/KmytCNfs1QD5Fcjeo8qFdy) 
+#### London
+#### Seattle
+#### Singapore
+#### Dubai
+#### Mumbai
+#### Bengluru
 
-
+---
 
 ### Why Join?
 - Become an early adopter in the next wave of AI innovation.  
