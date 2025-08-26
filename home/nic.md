@@ -20,13 +20,16 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 ### Europe
 - **London** - [Join Group](https://chat.whatsapp.com/GN5o8mtfqIUJ2HDmhlywFC)
 
-### India
+### Asia
 - **Mumbai** - [Join Group](https://chat.whatsapp.com/Es9zEeCABASJglNbYSmaDx?mode=ems_wa_c)
 - **Bengaluru** - [Join Group](https://chat.whatsapp.com/F4FgELgoRqjFdX8XvDn9h2)
 
 ### Coming Soon
 - **Singapore** 
-- **Dubai** 
+- **Dubai**
+- **Toranto**
+- **Sydney**
+- **Tokyo**
 
 ---
 
