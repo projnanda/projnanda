@@ -84,7 +84,7 @@ We’re seeking members and leaders across specialized focus areas:
 ## How to Set Up a Chapter in Your City
 
 1. **Apply to Become a Chapter Leader**  
-   - Fill out the [application form](https://forms.gle/Pc44vX1Nd9fXiWA99) and indicate your interest in founding a new chapter.  
+   - Indicate your interest in founding a new chapter.  
 
 2. **Assemble a Core Team**  
    - Recruit 3–5 motivated members to lead committees (events, research, communications, etc.).  
@@ -105,8 +105,6 @@ We’re seeking members and leaders across specialized focus areas:
 
 ## Get Involved
 
-- **Apply to Join or Start a Chapter**: [Application Form](https://forms.gle/Pc44vX1Nd9fXiWA99)  
 - **Website**: [projectnanda.org](https://projectnanda.org)  
-- **MIT Media Lab NANDA**: [nanda.media.mit.edu](https://nanda.media.mit.edu/)  
 
 Together, let’s pioneer the **Agentic Web** and build the **Internet of AI Agents**.  
