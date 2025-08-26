@@ -27,7 +27,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 ### Coming Soon
 - **Singapore** 
 - **Dubai**
-- **Toranto**
+- **Toronto**
 - **Sydney**
 - **Tokyo**
 
