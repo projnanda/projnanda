@@ -134,7 +134,7 @@ The web will evolve from static content to dynamic services to autonomous actors
 
 **Corporate Coalition**: Multiple companies participating in development and standardization
 
-**Academic Network**: Research partnerships with MIT and leading universities
+**Academic Network**: Research partnerships
 
 **Open Source**: All components distributed under MIT License
 
@@ -148,15 +148,13 @@ The web will evolve from static content to dynamic services to autonomous actors
 
 ####  Official Sites
  **Home:** [projectnanda.org](https://projectnanda.org)  
- **MIT Media Lab Overview:** [media.mit.edu/projects/mit-nanda](https://www.media.mit.edu/projects/mit-nanda/overview/)  
- **MIT Portal:** [nanda.mit.edu](https://nanda.mit.edu)  
  **Docs (GitHub Pages):** [projnanda.github.io/projnanda](https://projnanda.github.io/projnanda/)  
  **July 2025 Summit Site:** [july2025.projectnanda.org](https://july2025.projectnanda.org)  
 
 ####  Articles & Blog Posts
  **“NANDA: The Internet of AI Agents”** — Ramesh Raskar (LinkedIn)  
   <https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve>  
- **Review of MIT NANDA** — Ben Xiaojun Li (LinkedIn)  
+ **Review of NANDA** — Ben Xiaojun Li (LinkedIn)  
   <https://www.linkedin.com/pulse/review-mit-nanda-internet-ai-agents-ben-xiaojun-li-am7hc>  
  **Forbes:** *“Line Up and Identify Yourselves — AI Agents Get Organized with NANDA”*  
   <https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/>  
