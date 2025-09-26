@@ -1,5 +1,7 @@
 * [Research](./home/8.nandapapers)
   * [Onboarding](./home/onboardingwritinggroup.md)
+* [Careers](./home/Careers.md)
+  * [Fellowships](./home/Fellowships.md)
 * [Featured Speakers](./home/10.speakers.md)
 * [**NANDA Innovation Council**](./home/nic.md)
 * [**FAQ**](./home/6.faq.md)
