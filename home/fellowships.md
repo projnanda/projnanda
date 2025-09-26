@@ -6,6 +6,8 @@ Project NANDA is creating the discovery, trust, and economic rails for a web of 
 
 **Tresata** and Project NANDA will select **5 developers** for a **3-month, $15,000 fellowship** to advance the open-source mission of Project NANDA.
 
+[![Fill out the form](https://img.shields.io/badge/Fill%20out-Application%20Form-blue?style=for-the-badge&logo=google)](https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform)
+
 ---
 
 ## WHAT YOU WILL BUILD
