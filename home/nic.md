@@ -13,16 +13,16 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
 We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.  
 
 ### North America
-- **Boston Area** - 
-- **San Francisco Bay Area** - [
-- **Seattle** -
+- **Boston Area**
+- **San Francisco Bay Area**
+- **Seattle** 
 
 ### Europe
-- **London** - 
+- **London** 
 
 ### Asia
-- **Mumbai** - 
-- **Bengaluru** - 
+- **Mumbai** 
+- **Bengaluru** 
 
 ### Coming Soon
 - **Singapore** 
