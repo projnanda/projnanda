@@ -1,7 +1,6 @@
 ![Project NANDA Banner](nyc.png)
 # NANDA Student Ambassador Program (NSAP)
-Join the revolution.
-Register Now: [https://lnkd.in/geXhnAvr](https://tinyurl.com/RegisterNSAP)
+Join the revolution. Register Now: (https://tinyurl.com/RegisterNSAP)
 ## Onboarding Guide
 
 ---
