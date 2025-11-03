@@ -4,6 +4,7 @@
   * [Fellowships](./home/fellowships.md)
 * [Featured Speakers](./home/10.speakers.md)
 * [**NANDA Innovation Council**](./home/nic.md)
+* [**NANDA Youth Chapter**](./home/nyc.md)
 * [**FAQ**](./home/6.faq.md)
   * [Project NANDA](./home/14.faqNANDA.md)
   * [NANDA and A2A](./home/15.faq_NANDA_A2A.md)
