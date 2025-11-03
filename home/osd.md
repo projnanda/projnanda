@@ -1,3 +1,4 @@
+![Project NANDA Banner](osd.png)
 # 🚀 Project NANDA — Open Source Developer Community
 
 Join us in building the foundation for the **Open Agentic Web** — where AI agents can safely discover, verify, and collaborate across systems.
