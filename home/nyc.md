@@ -1,4 +1,4 @@
-
+![Project NANDA Banner](nyc.png)
 # NANDA Student Ambassador Program (NSAP)
 ## Onboarding Guide
 
