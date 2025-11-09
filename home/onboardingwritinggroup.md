@@ -38,13 +38,13 @@ Dive deeper into the technical details. This stage requires you to perform a cri
 
 * **Choose a Paper for Review:** Select *one* of the following NANDA papers for a detailed line-by-line review:
 
-    * [Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?](https://github.com/aidecentralized/nandapapers/blob/main/v0.3%20Upgrade%20or%20Switch%20-%20Do%20We%20Need%20a%20New%20Registry%20Architecture%20for%20the%20Internet%20of%20AI%20Agents.pdf)
+    * [Upgrade or Switch: Do We Need a New Registry Architecture for the Internet of AI Agents?](https://github.com/projnanda/research/blob/main/v0.3%20Upgrade%20or%20Switch%20-%20Do%20We%20Need%20a%20New%20Registry%20Architecture%20for%20the%20Internet%20of%20AI%20Agents.pdf)
 
-    * [Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Quilt of Registries and Verified AgentFacts](https://github.com/aidecentralized/nandapapers/blob/main/v0.3%20Beyond%20DNS%20-%20Unlocking%20the%20%20Internet%20of%20AI%20Agents%20via%20the%20NANDA%20Quilt%20of%20Registries%20and%20Verified%20AgentFacts.pdf)
+    * [Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Quilt of Registries and Verified AgentFacts](https://github.com/projnanda/research/blob/main/v0.3%20Beyond%20DNS%20-%20Unlocking%20the%20%20Internet%20of%20AI%20Agents%20via%20the%20NANDA%20Index%20and%20Verified%20AgentFacts.pdf)
 
-    * [A Survey of AI Agent Registry Solutions](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)
+    * [A Survey of AI Agent Registry Solutions](https://github.com/projnanda/research/blob/main/v0.2%20Survey_of_AI_Agent_Registry_Solutions.pdf)
 
-    * [NANDA+ANS Security Blueprint: A Federated Registry Architecture for Secure, Capability-Aware Agent Discovery](https://github.com/aidecentralized/nandapapers/blob/main/v0.2%20NANDA%20%2B%20ANS%20Security%20Blueprint_%20A%20Federated%20Registry%20Architecture%20for%20Secure%2C%20Capability-Aware%20Agent%20Discovery.pdf)
+    * [NANDA+ANS Security Blueprint: A Federated Registry Architecture for Secure, Capability-Aware Agent Discovery](https://github.com/projnanda/research/blob/main/v0.2%20NANDA%20%2B%20ANS%20Security%20Blueprint_%20A%20Federated%20Registry%20Architecture%20for%20Secure%2C%20Capability-Aware%20Agent%20Discovery.pdf)
 
 * **Conduct Line-by-Line Review:** Create a new document (e.g., Google Doc) where you provide a detailed review, including comments, questions, and suggestions for specific lines or sections.
 
