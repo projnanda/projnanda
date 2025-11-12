@@ -126,13 +126,23 @@ The web will evolve from static content to dynamic services to autonomous actors
 
 ##  See It In Action
 
-[![YouTube video player](https://img.youtube.com/vi/jlcO19XyQ1I/0.jpg)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
+<a href="https://www.youtube.com/watch?v=jlcO19XyQ1I">
+  <img src="https://i.ytimg.com/vi/jlcO19XyQ1I/hqdefault.jpg" width="750" height="500" alt="YouTube video player">
+</a>
+<a href="https://www.youtube.com/watch?v=-S51FOnqF0o">
+  <img src="https://i.ytimg.com/an_webp/-S51FOnqF0o/mqdefault_6s.webp?du=3000&sqp=CMSizsgG&rs=AOn4CLCbxDSMmKwG_yWfACfmro3LJeB2BQ" width="750" height="750" alt="YouTube video player">
+</a>
+
 
 *Click to watch our latest demo*
 
 ---
 
 ##  Partnership & Enterprise
+<img src="https://drive.google.com/uc?export=view&id=1uGDBx9xAK-WFuE9WNF4ewi-yPNB_hP94" 
+     width="1000" 
+     height="1000" 
+     alt="Partnership Image">
 
 **Corporate Coalition**: Multiple companies participating in development and standardization
 
