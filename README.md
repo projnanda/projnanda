@@ -144,6 +144,12 @@ The web will evolve from static content to dynamic services to autonomous actors
      height="1000" 
      alt="Partnership Image">
 
+<img src="assets/NANDA-Speakers-and-Panelists.png" 
+     width="1000" 
+     height="1000" 
+     alt="Speaker Image">
+     
+
 **Corporate Coalition**: Multiple companies participating in development and standardization
 
 **Academic Network**: Research partnerships
