@@ -5,7 +5,6 @@
 * [Featured Speakers](./home/10.speakers.md)
 * [**NANDA Innovation Council**](./home/nic.md)
 * [**NANDA Youth Chapter**](./home/nyc.md)
-* [**NANDA SF Bay Area Chapter Leaders**](./home/bayarealeader.md)
 * [**NANDA Open Source Developers**](./home/osd.md)
 * [**FAQ**](./home/6.faq.md)
   * [Project NANDA](./home/14.faqNANDA.md)
