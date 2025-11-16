@@ -14,7 +14,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 ### North America
 - **Boston Area**
-- [**Agwentic Web: SF Bay Area Chapter Leaders**](./home/bayarealeader.md)
+- [**Agwentic Web: SF Bay Area Chapter Leaders**](./bayarealeader.md)
 - **Seattle** 
 
 ### Europe
