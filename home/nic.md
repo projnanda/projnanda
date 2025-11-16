@@ -14,11 +14,15 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 ### North America
 - **Boston Area**
-- [**Agentic Web: SF Bay Area Chapter Leaders**](./bayarealeader.md)
+- [**Agentic Web: SF Bay Area Chapter**](https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter)
+     - [Leaders](./bayarealeader.md)
 - **Seattle** 
 
 ### Europe
-- **London** 
+- **London**
+
+### MiddleEast
+- **Dubai**
 
 ### Asia
 - **Mumbai** 
@@ -26,7 +30,6 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 ### Coming Soon
 - **Singapore** 
-- **Dubai**
 - **Toronto**
 - **Sydney**
 - **Tokyo**
