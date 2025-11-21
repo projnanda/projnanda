@@ -130,7 +130,7 @@ The web will evolve from static content to dynamic services to autonomous actors
   <img src="https://i.ytimg.com/vi/jlcO19XyQ1I/hqdefault.jpg" width="750" height="500" alt="YouTube video player">
 </a>
 <a href="https://www.youtube.com/watch?v=-S51FOnqF0o">
-  <img src="https://i.ytimg.com/an_webp/-S51FOnqF0o/mqdefault_6s.webp?du=3000&sqp=CMSizsgG&rs=AOn4CLCbxDSMmKwG_yWfACfmro3LJeB2BQ" width="750" height="750" alt="YouTube video player">
+  <img src="https://i.ytimg.com/vi/-S51FOnqF0o/hqdefault.jpg" width="750" height="500" alt="YouTube video player">
 </a>
 
 
@@ -139,14 +139,12 @@ The web will evolve from static content to dynamic services to autonomous actors
 ---
 
 ##  Partnership & Enterprise
-<img src="https://drive.google.com/uc?export=view&id=1uGDBx9xAK-WFuE9WNF4ewi-yPNB_hP94" 
-     width="1000" 
-     height="1000" 
+<img src="https://drive.google.com/thumbnail?id=1uGDBx9xAK-WFuE9WNF4ewi-yPNB_hP94&sz=w1000" 
+     width="800" 
      alt="Partnership Image">
 
 <img src="assets/NANDA-Speakers-and-Panelists.png" 
-     width="1000" 
-     height="1000" 
+     width="800" 
      alt="Speaker Image">
      
 
