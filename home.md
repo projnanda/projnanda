@@ -10,8 +10,7 @@
 
 <div align = "left">
 
-# Project NANDA
-### Building the Internet of AI Agents
+# Project NANDA: Building the Internet of AI Agents
 
 > **The future isn't just AI — it's trillions of AI agents collaborating across the open web securely.**
 
@@ -355,6 +354,16 @@ Our research outlines the architectural and strategic foundations of the Agentic
     <div class="media-title">NANDA: The Internet of AI Agents</div>
     <div class="media-source">LinkedIn (Ramesh Raskar)</div>
   </a>
+
+  <a href="https://www.linkedin.com/pulse/review-mit-nanda-internet-ai-agents-ben-xiaojun-li-am7hc" class="media-card">
+    <div class="media-title">Review of NANDA</div>
+    <div class="media-source">LinkedIn (Ben Xiaojun Li)</div>
+  </a>
+
+  <a href="https://www.vana.org/posts/mit-decentralized-ai-summit" class="media-card">
+    <div class="media-title">MIT Decentralized AI Summit Recap</div>
+    <div class="media-source">Vana</div>
+  </a>
 </div>
 
 ---
@@ -451,11 +460,27 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 </div>
 
 ---
+## Additional Resources
 
+### Videos & Media
 
+* [Intro to NANDA (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I) 
+* [Project NANDA Overview Talk (YouTube)](https://www.youtube.com/watch?v=vCeiA0T8kTM)
+* [Decentralized AI Summit Panel (YouTube)](https://www.youtube.com/watch?v=oDRyxMUum4A)
+
+### Prior Work
+
+* [Decentralized AI](https://youtu.be/RXs6saNBnAE?si=fQIPkDJ4rxfBBel0)
+* [No Peek Privacy](https://youtu.be/BEav6MIjmyk?si=q89DFaDybvEc0d8p)
+* [Apple Workshop on Machine Learning for Health: Web3 and Decentralized AI (DecAI)](https://machinelearning.apple.com/video/web3-decai)
+* [Target AI Video](https://youtu.be/nqJySV2LQGw?si=oeEwu4NjvSrfcy_M)
+
+---
 
 <div align="center">
 
-**Made with ♥ by the NANDA Community** *Building the Open Agentic Web*
+**Made with ♥ by the NANDA Community** 
+
+*Building the Open Agentic Web*
 
 </div>
