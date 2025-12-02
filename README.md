@@ -203,6 +203,6 @@ The web will evolve from static content to dynamic services to autonomous actors
 
 **Made with ♥ by the NANDA Community**
 
-*Building the Agentic Web*
+*Building the Open Agentic Web*
 
 </div>
