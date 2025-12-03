@@ -284,6 +284,8 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 * [**Intro to NANDA** (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
 * [**NANDA Demo** (YouTube)](https://www.youtube.com/watch?v=-S51FOnqF0o)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT819iZm15T-AGmNQl4b4kQd0t2q4_vKHocvoy5ohV3SI0qWmfhKzwf4YdSxCLTEA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   
 </div>
 
