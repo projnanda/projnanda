@@ -271,7 +271,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 ---
 
-### Partners
+### Orgs Speakers, & Advisors
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="assets/SpeakerOne.png" width="80%" alt="Partner 1">
   <img src="assets/SpeakerTwo.png" width="80%" alt="Partner 2">
@@ -280,106 +280,11 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 ---
 
-## Media Coverage
-
-<style>
-  .media-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    margin: 30px 0;
-  }
-
-  .media-card {
-    display: flex;
-    flex-direction: column;
-    background: #fff;
-    border: 1px solid #eee;
-    padding: 25px;
-    border-radius: 12px;
-    text-decoration: none !important;
-    color: inherit !important;
-    transition: all 0.3s ease;
-    height: 100%;
-    text-align: left;
-  }
-
-  .media-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-    border-color: #000;
-  }
-
-  .media-title {
-    font-family: "Poppins", sans-serif;
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #000;
-    line-height: 1.4;
-    margin-bottom: 15px;
-  }
-
-  .media-source {
-    font-size: 0.85rem;
-    font-weight: 700;
-    color: #666;
-    letter-spacing: 1px;
-    margin-top: auto;
-    display: flex;
-    align-items: center;
-  }
-  
-  .media-source::before {
-    content: '';
-    display: inline-block;
-    width: 20px;
-    height: 1px;
-    background: #ccc;
-    margin-right: 10px;
-  }
-</style>
-
-<div class="media-grid">
-  <a href="https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/" class="media-card">
-    <div class="media-title">Line Up and Identify Yourselves — AI Agents Get Organized with NANDA</div>
-    <div class="media-source">Forbes</div>
-  </a>
-
-  <a href="https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/" class="media-card">
-    <div class="media-title">Make a Decentralized Internet with AI — NANDA Is Coming</div>
-    <div class="media-source">Forbes</div>
-  </a>
-
-  <a href="https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve" class="media-card">
-    <div class="media-title">NANDA: The Internet of AI Agents</div>
-    <div class="media-source">LinkedIn (Ramesh Raskar)</div>
-  </a>
-
-  <a href="https://www.linkedin.com/pulse/review-mit-nanda-internet-ai-agents-ben-xiaojun-li-am7hc" class="media-card">
-    <div class="media-title">Review of NANDA</div>
-    <div class="media-source">LinkedIn (Ben Xiaojun Li)</div>
-  </a>
-
-  <a href="https://www.vana.org/posts/mit-decentralized-ai-summit" class="media-card">
-    <div class="media-title">MIT Decentralized AI Summit Recap</div>
-    <div class="media-source">Vana</div>
-  </a>
-</div>
-
----
-
 ## See It In Action
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=jlcO19XyQ1I">
-    <img src="https://i.ytimg.com/vi/jlcO19XyQ1I/hqdefault.jpg" width="45%" alt="Intro to NANDA">
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/watch?v=-S51FOnqF0o">
-    <img src="https://i.ytimg.com/vi/-S51FOnqF0o/hqdefault.jpg" width="45%" alt="NANDA Demo">
-  </a>
+* [**Intro to NANDA** (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
+* [**NANDA Demo** (YouTube)](https://www.youtube.com/watch?v=-S51FOnqF0o)
   
-  <p><em>Click thumbnails to watch demos</em></p>
 </div>
 
 ---
