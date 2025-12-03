@@ -168,7 +168,7 @@ NANDA provides the **index**, **protocols**, and **tools** needed to enable a de
 
 Our research outlines the architectural and strategic foundations of the Agentic Web.
 
-### Core Papers
+### Foundational Architecture Papers
 
 | Paper Title | Description | Links |
 | :--- | :--- | :--- |
@@ -177,6 +177,17 @@ Our research outlines the architectural and strategic foundations of the Agentic
 | **NANDA Adaptive Resolver** | A dynamic microservice architecture for agent name resolution in distributed environments. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03113-B31B1B)](https://arxiv.org/abs/2508.03113) |
 | **NANDA in Practice: Enterprise Perspective** | Explores Zero Trust Agentic Access (ZTAA) and governance for enterprise agent ecosystems. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03101-B31B1B)](https://arxiv.org/abs/2508.03101) |
 | **Survey of AI Agent Registry Solutions** | Compares NANDA, MCP, A2A, and MS Entra across security, scalability, and maintainability. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
+
+### Interoperability & Specialized Research Papers
+
+| Paper Title | Description | Links |
+| :--- | :--- | :--- |
+| **Towards Sandboxes for the Internet of Agents** | Proposes a network of domain-specialized sandboxes to verify agent capabilities via signed, replayable attestations. | [![SSRN](https://img.shields.io/badge/SSRN-Abstract_5801322-194175)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5801322) |
+| **Collaborative Agentic AI Needs Interoperability Across Ecosystems** | Proposes "Web of Agents," a minimal architectural foundation to ensure interoperability and prevent ecosystem fragmentation. | [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-B31B1B)](https://arxiv.org/abs/2505.21550) |
+| **The Iceberg Index: Measuring Workforce Exposure Across the AI Economy** | Introduces the Iceberg Index using Large Population Models to measure workforce exposure to AI based on underlying skills. | [![arXiv](https://img.shields.io/badge/arXiv-2510.25137-B31B1B)](https://arxiv.org/abs/2510.25137) |
+| **Ripple Effect Protocol: Coordinating Agent Populations** | Introduces a protocol enabling faster agent coordination by sharing decision sensitivities alongside choices. | [![arXiv](https://img.shields.io/badge/arXiv-2510.16572-B31B1B)](https://arxiv.org/abs/2510.16572) |
+| **Evolution of AI Agent Registry Solutions** | Analyzes five registry approaches (including AGNTCY and MS Entra) and offers design recommendations for verifiable identity. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
+| **The Trust Fabric: Decentralized Interoperability** | Presents the Nanda Unified Architecture for decentralized trust and economic coordination via micropayments. | [![arXiv](https://img.shields.io/badge/arXiv-2507.07901-B31B1B)](https://arxiv.org/abs/2507.07901) |
 
 **[Join our Writing Group](https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup)** to contribute to upcoming research.
 
