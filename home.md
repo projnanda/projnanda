@@ -195,6 +195,54 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 ---
 
+# System Architecture & Frameworks
+*Visualizing the core protocols, logic flows, and infrastructure of the NANDA ecosystem.*
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss5.png" alt="Traditional Web vs Internet of Agents" style="width: 100%; height: auto;">
+    <p align="center"><strong>The Paradigm Shift:</strong> Comparing the reactive Traditional Web with the proactive, stateful Internet of AI Agents.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss8.png" alt="Setting Up Agents vs Websites" style="width: 100%; height: auto;">
+    <p align="center"><strong>Lifecycle Management:</strong> The parallel processes of Domain Registration vs. Agent Registration and discovery.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss3.png" alt="NANDA Index Architecture" style="width: 100%; height: auto;">
+    <p align="center"><strong>Core Stack:</strong> The NANDA Index, AgentFacts Layer, and Dynamic Resolution Layer.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss4.png" alt="Resolution Flow Steps" style="width: 100%; height: auto;">
+    <p align="center"><strong>Resolution Protocol:</strong> The cryptographic handshake and privacy-preserving lookup flow.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss9.png" alt="Enterprise Web vs Agentic Arch" style="width: 100%; height: auto;">
+    <p align="center"><strong>Enterprise Infrastructure:</strong> Moving from WAF/LB/CDN stacks to Agentic A2A/MCP architectures.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss10.png" alt="Enterprise Use Case" style="width: 100%; height: auto;">
+    <p align="center"><strong>Applied Operations:</strong> A Product Operations agentic workflow using MCP and A2A protocols.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss6.png" alt="Recursive Resolver" style="width: 100%; height: auto;">
+    <p align="center"><strong>Recursive Resolution:</strong> How the NANDA Adaptive Resolver queries Namespaces and Intermediates.</p>
+  </div>
+
+  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+    <img src="assets/diagrams/ss7.png" alt="Negotiation Flow" style="width: 100%; height: auto;">
+    <p align="center"><strong>Connection Negotiation:</strong> The detailed flow of establishing trust and communication specs between agents.</p>
+  </div>
+
+</div>
+---
+
 ## Development Roadmap
 
 <style>
