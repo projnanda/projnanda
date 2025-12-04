@@ -1,7 +1,9 @@
-### Opportunities
+# Careers → FAN Fellowships
 
-- **Research**: Contribute to papers and algorithmic development
-- **Development**: Fork SDKs, build integrations, propose improvements
-- **Ecosystem**: Connect startups, corporations, and academic institutions
-- **[Tresata Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform)** - Paid Roles Available
-- **[Radius Fellowship](https://www.linkedin.com/jobs/view/4260498540/)** - Paid roles available
+All opportunities are now consolidated on the FAN Fellowships page.
+
+- Research contributors, open-source developers, and ecosystem connectors
+- Paid fellowships with Tresata and Radius
+- Sponsor-led cohorts and the flagship FAN Core Fellowship
+
+**Go to the new page:** [FAN Fellowships](./fellowship.md)

@@ -10,26 +10,30 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
 
 ## Join the Innovation Council
 
-We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.  
+We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.
 
 ### North America
+
 - **Boston Area**
 - [**Agentic Web: SF Bay Area Chapter**](https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter)
-     - [Leaders](./bayarealeader.md)
-- **Seattle** 
+- **Seattle**
 
 ### Europe
+
 - **London**
 
 ### MiddleEast
+
 - **Dubai**
 
 ### Asia
-- **Mumbai** 
-- **Bengaluru** 
+
+- **Mumbai**
+- **Bengaluru**
 
 ### Coming Soon
-- **Singapore** 
+
+- **Singapore**
 - **Toronto**
 - **Sydney**
 - **Tokyo**
@@ -37,77 +41,89 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 ---
 
 ### Why Join?
-- Become an early adopter in the next wave of AI innovation.  
-- Gain deep expertise in **decentralized AI** — a critical skill for the next decade.  
-- Collaborate with **15+ AI universities** pioneering distributed AI.  
-- Get **early access** to technical specifications, white papers, and commercialization pathways.  
-- Connect with the **startup and VC ecosystem** building on NANDA foundations.  
-- Engage in workshops, hackathons, and technical deep-dives.  
-- Represent the project at global events and get recognized as a **pioneer member**.  
 
-**Learn More**: [Project NANDA Website](https://projectnanda.org) 
+- Become an early adopter in the next wave of AI innovation.
+- Gain deep expertise in **decentralized AI** — a critical skill for the next decade.
+- Collaborate with **15+ AI universities** pioneering distributed AI.
+- Get **early access** to technical specifications, white papers, and commercialization pathways.
+- Connect with the **startup and VC ecosystem** building on NANDA foundations.
+- Engage in workshops, hackathons, and technical deep-dives.
+- Represent the project at global events and get recognized as a **pioneer member**.
+
+**Learn More**: [Project NANDA Website](https://projectnanda.org)
 
 ---
 
 ## Commitment & Schedule
 
-- **Time Investment**: ~1 hour per week  
-- **Core Meetup**: Once a month (local chapter decides format — in-person or virtual)  
-- **Additional Work**: Committee-specific tasks, collaboration between meetings  
+- **Time Investment**: ~1 hour per week
+- **Core Meetup**: Once a month (local chapter decides format — in-person or virtual)
+- **Additional Work**: Committee-specific tasks, collaboration between meetings
 
 ---
 
 ## Innovation Council Committees
 
-We’re seeking members and leaders across specialized focus areas:  
+We’re seeking members and leaders across specialized focus areas:
 
-1. **Startup and Developer Connectors**  
-   - Partner with AI startups, DevRel teams, and open-source communities.  
+1. **Startup and Developer Connectors**
 
-2. **VC & Investor Relations**  
-   - Bridge NANDA’s ecosystem with VCs and investors.  
+   - Partner with AI startups, DevRel teams, and open-source communities.
 
-3. **External Relations & Policy Council**  
-   - Engage with regulators, nonprofits, and ecosystem partners.  
+2. **VC & Investor Relations**
 
-4. **Communications & Social Media**  
-   - Amplify NANDA’s mission across digital and professional networks.  
+   - Bridge NANDA’s ecosystem with VCs and investors.
 
-5. **Events Committee**  
-   - Organize meetups, hackathons, workshops, and demo days.  
+3. **External Relations & Policy Council**
 
-6. **Academic Relations**  
-   - Build partnerships with universities and research institutions.  
+   - Engage with regulators, nonprofits, and ecosystem partners.
 
-7. **Research & Publications**  
-   - Contribute to white papers, technical documentation, and thought leadership.  
+4. **Communications & Social Media**
+
+   - Amplify NANDA’s mission across digital and professional networks.
+
+5. **Events Committee**
+
+   - Organize meetups, hackathons, workshops, and demo days.
+
+6. **Academic Relations**
+
+   - Build partnerships with universities and research institutions.
+
+7. **Research & Publications**
+   - Contribute to white papers, technical documentation, and thought leadership.
 
 ---
 
 ## How to Set Up a Chapter in Your City
 
-1. **Apply to Become a Chapter Leader**  
-   - Indicate your interest in founding a new chapter.  
+1. **Apply to Become a Chapter Leader**
 
-2. **Assemble a Core Team**  
-   - Recruit 3–5 motivated members to lead committees (events, research, communications, etc.).  
+   - Indicate your interest in founding a new chapter.
 
-3. **Host an Introductory Meetup**  
-   - Organize a launch event (online or offline) to introduce Project NANDA and gather local interest.  
+2. **Assemble a Core Team**
 
-4. **Build Partnerships**  
-   - Reach out to local universities, startups, tech communities, and policymakers.  
+   - Recruit 3–5 motivated members to lead committees (events, research, communications, etc.).
 
-5. **Collaborate Globally**  
-   - Connect your chapter with other NANDA councils across the world to share resources and insights.  
+3. **Host an Introductory Meetup**
 
-6. **Contribute to NANDA Initiatives**  
-   - Engage in open-source projects, research papers, hackathons, and global events.  
+   - Organize a launch event (online or offline) to introduce Project NANDA and gather local interest.
+
+4. **Build Partnerships**
+
+   - Reach out to local universities, startups, tech communities, and policymakers.
+
+5. **Collaborate Globally**
+
+   - Connect your chapter with other NANDA councils across the world to share resources and insights.
+
+6. **Contribute to NANDA Initiatives**
+   - Engage in open-source projects, research papers, hackathons, and global events.
 
 ---
 
 ## Get Involved
 
-- **Website**: [projectnanda.org](https://projectnanda.org)  
+- **Website**: [projectnanda.org](https://projectnanda.org)
 
-Together, let’s pioneer the **Agentic Web** and build the **Internet of AI Agents**.  
+Together, let’s pioneer the **Agentic Web** and build the **Internet of AI Agents**.
