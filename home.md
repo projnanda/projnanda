@@ -10,18 +10,18 @@
 
 <div align = "left">
 
-# Project NANDA: Building the Internet of AI Agents
+# Project NANDA: Architecting Internet of AI Agents
 
-> **The future isn't just AI, it's trillions of AI agents collaborating across the open web securely.**
+> **The future isn't just AI, it's trillions of AI agents collaborating across the open web, securely.**
 
 </div>
-
+Explore more details at: 
 <div align = "center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/projectnanda/)
-[![arXiv](https://img.shields.io/badge/arXiv-Read_Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.14263)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/BxPnPBEqd88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/projectnanda/)
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.14263)
 
 </div>
 
@@ -29,15 +29,23 @@
 
 ## What is Project NANDA?
 
-**Project NANDA** is the foundational infrastructure for the **Open Agentic Web**.
+**Project NANDA** is archtecting the foundational infrastructure for the **Open Agentic Web**.
 
 We are solving the core challenge of the next decade: <span style="font-weight: 600; font-style: italic;">How can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities?</span>
 
-NANDA provides the **index**, **protocols**, and **tools** needed to enable a decentralized, protocol-neutral ecosystem.
+Project ​​​​NANDA (Networked AI Agents in Decentralized Architecture) which originated at MIT aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus driven innovation: 'DNS', 'CA', 'Orchestration', and 'Attestation'.
 
-* **Infrastructure**: Interop links between heterogeneous agent registries (A2A, MCP, HTTPS).
-* **Governance**: Frameworks for a responsible, open agentic web.
-* **Discovery**: A privacy-preserving registry architecture.
+Project ​​​NANDA is pioneering the foundational infrastructure for the Internet of AI Agents — enabling autonomous systems to interact, transact, and collaborate seamlessly.
+
+Project ​​​NANDA employs a three-pronged approach: 
+
+(i) Technology: Building technology, standards, and reference implementations through a collective of top minds. 
+
+(ii) Social Mission: Working to maintain an open Agentic Web for innovators while ensuring safety for vulnerable populations. 
+
+(iii) Venture Ecosystem: Fostering a wide coalition of founders and investors.
+
+Project ​​​​NANDA's development draws on proven MIT research in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
 
 <div align="center" style="
   background-color: #f8f9fa; 
