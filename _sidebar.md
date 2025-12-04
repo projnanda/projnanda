@@ -3,7 +3,7 @@
 * [Careers](./home/Careers.md)
   * [Fellowships](./home/fellowships.md)
 * [Featured Speakers](./home/10.speakers.md)
-* [Events](./home/16.events.md)
+* [Events](./home/18.events.md)
 * [NANDA Innovation Council](./home/nic.md)
 * [NANDA Youth Chapter](./home/nyc.md)
 * [NANDA Open Source Developers](./home/osd.md)
