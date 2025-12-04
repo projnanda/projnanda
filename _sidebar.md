@@ -1,5 +1,4 @@
-- [Research](./home/8.nandapapers)
-  - [Onboarding](./home/onboardingwritinggroup.md)
+- [Research + Writing Lab](./home/8.nandapapers)
 - [FAN Fellowships](./home/fellowship.md)
 - [Featured Speakers](./home/10.speakers.md)
 - [Events](./home/18.events.md)
