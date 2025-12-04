@@ -10,7 +10,7 @@
   <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px; flex-wrap: wrap;">
     <img src="assets/Golden + Black Text Logo.svg" alt="Project NANDA" style="height: 50px;">
     <h1 style="font-size: 2rem; font-weight: 700; color: var(--nanda-black); margin: 0; line-height: 1.2;">
-      Architecting Internet of AI Agents
+      Architecting the Internet of AI Agents
     </h1>
   </div>
 
@@ -89,7 +89,55 @@
 
 ---
 
-## Key Voices Leading the Agentic Web
+## Live Projects (Shipping Now)
+
+<div id="projects" style="
+  background: linear-gradient(135deg, rgba(255, 215, 0, 0.08), rgba(255, 237, 78, 0.12));
+  border: 2px solid var(--nanda-yellow);
+  border-radius: 16px;
+  padding: 30px 28px;
+  margin: 30px 0;
+  box-shadow: 0 8px 28px rgba(255, 215, 0, 0.25);">
+  <p style="margin-top: 0; color: #2c3e50; line-height: 1.6; font-weight: 600;">
+    The Agentic Web is not theoretical. These live properties are where we battle-test protocols, build civic-grade coordination, and invite builders to play.
+  </p>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin-top: 18px;">
+
+    <div style="background: #ffffff; border: 2px solid var(--nanda-black); border-radius: 14px; padding: 18px; box-shadow: 0 6px 16px rgba(0,0,0,0.08); display: flex; flex-direction: column; gap: 10px;">
+      <div style="font-size: 0.9rem; font-weight: 800; color: #000;">NEST</div>
+      <h4 style="margin: 0; color: var(--nanda-black); font-size: 1.15rem;">Networked Experiments & Stress Tests</h4>
+      <p style="margin: 0; color: #444; line-height: 1.6;">Open proving ground for agent-to-agent reliability: discovery, orchestration, handoffs, and failure drills.</p>
+      <a href="https://nest.projectnanda.org/" style="align-self: flex-start; padding: 8px 12px; background: #ffd700; color: #000; font-weight: 800; border-radius: 10px; text-decoration: none; border: 1px solid #000;">Launch NEST</a>
+    </div>
+
+    <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 18px; box-shadow: 0 6px 16px rgba(0,0,0,0.08); display: flex; flex-direction: column; gap: 10px;">
+      <div style="font-size: 0.9rem; font-weight: 800; color: #000;">join39.org</div>
+      <h4 style="margin: 0; color: var(--nanda-black); font-size: 1.15rem;">Coalition On-Ramp</h4>
+      <p style="margin: 0; color: #444; line-height: 1.6;">Front door to pledge, volunteer, and help steward responsible agent networks with the 39 community.</p>
+      <a href="https://join39.org/" style="align-self: flex-start; padding: 8px 12px; background: #000; color: #ffd700; font-weight: 800; border-radius: 10px; text-decoration: none; border: 1px solid #000;">Join 39</a>
+    </div>
+
+    <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 18px; box-shadow: 0 6px 16px rgba(0,0,0,0.08); display: flex; flex-direction: column; gap: 10px;">
+      <div style="font-size: 0.9rem; font-weight: 800; color: #000;">list39.org</div>
+      <h4 style="margin: 0; color: var(--nanda-black); font-size: 1.15rem;">Signals & Deployments</h4>
+      <p style="margin: 0; color: #444; line-height: 1.6;">Living directory of experiments, pilots, and public-good projects aligned with the 39 principles.</p>
+      <a href="https://list39.org/" style="align-self: flex-start; padding: 8px 12px; background: #ffd700; color: #000; font-weight: 800; border-radius: 10px; text-decoration: none; border: 1px solid #000;">Browse List</a>
+    </div>
+
+    <div style="background: #ffffff; border: 2px solid var(--nanda-black); border-radius: 14px; padding: 18px; box-shadow: 0 6px 16px rgba(0,0,0,0.08); display: flex; flex-direction: column; gap: 10px;">
+      <div style="font-size: 0.9rem; font-weight: 800; color: #000;">a39.org</div>
+      <h4 style="margin: 0; color: var(--nanda-black); font-size: 1.15rem;">Attestation Playground</h4>
+      <p style="margin: 0; color: #444; line-height: 1.6;">Exploring accountability layers: safety checklists, verifiable claims, and shared stewardship patterns.</p>
+      <a href="https://a39.org/" style="align-self: flex-start; padding: 8px 12px; background: #000; color: #ffd700; font-weight: 800; border-radius: 10px; text-decoration: none; border: 1px solid #000;">Visit A39</a>
+    </div>
+
+  </div>
+</div>
+
+---
+
+## Key Voices Leading the Agentic Web at Project NANDA
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px; margin: 20px 0;">
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
