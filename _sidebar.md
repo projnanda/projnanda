@@ -1,11 +1,13 @@
 - [**FAN Fellowships** <span style="background:#ffd700; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](./home/fellowship.md)
 
 - **Research & Standards**
+
   - [Research Lab](./home/8.nandapapers)
   - [Protocols](./home/3.protocol%20interoperability.md)
   - [NANDA Index](./home/13.NANDAIndex.md)
 
 - **Build & Community**
+
   - [Build with NANDA <span style="background:#ffd700; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/5.gettingstarted.md)
   - [Events](./home/18.events.md)
   - [Global Chapters <span style="background:#ffd700; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/nic.md)
@@ -14,13 +16,14 @@
   - [Community & Channels](./home/9.streams.md)
 
 - **Live Projects**
+
   - [NANDA Projects](./home/projects.md)
   - [NEST](https://nest.projectnanda.org/)
   - [join39.org](https://join39.org/)
   - [list39.org](https://list39.org/)
-  - [a39.org](https://a39.org/)
 
 - **People & Talent**
+
   - [Featured Speakers](./home/10.speakers.md)
   - [Contribution](./home/7.researchcontribution.md)
 

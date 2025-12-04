@@ -18,7 +18,6 @@ Project NANDA’s experiments are already running in the wild. Explore the livin
 
 - **Join39.org:** Entry point to pledge, volunteer, and collaborate with the 39 coalition focused on resilient agent ecosystems. [Join the coalition](https://join39.org/)
 - **List39.org:** A living directory of initiatives, pilots, and public-good deployments aligned with the 39 principles. [Browse the list](https://list39.org/)
-- **A39.org:** Experimental accountability layer exploring attestations, safety checklists, and stewardship patterns for agent networks. [Visit A39](https://a39.org/)
 
 ---
 
