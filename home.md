@@ -26,22 +26,6 @@
     </p>
   </div>
 
-  <!-- Social Badges -->
-  <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 30px;">
-    <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://discord.gg/BxnPBEqd88" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="https://www.linkedin.com/company/projectnanda/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://arxiv.org/abs/2507.14263" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
-    </a>
-  </div>
-
 </div>
 
 ---

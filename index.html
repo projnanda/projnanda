@@ -46,15 +46,14 @@
       font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
     }
 
-    /* Hide sidebar if any container remains */
-    .sidebar { display: none !important; }
-    .sidebar-toggle, .sidebar-toggle-button { display: none !important; }
     body { overflow-x: hidden; }
 
     .markdown-section {
-      max-width: 800px;
+      max-width: 1100px;
+      padding: 24px 32px;
       background: #ffffff;
       color: #2c3e50;
+      margin: 0 auto;
     }
 
     .markdown-section h1 {
@@ -168,7 +167,7 @@
       name: '<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 140px; margin: 20px 0 10px 0;">',
       repo: 'https://github.com/projnanda/projnanda',
       homepage: 'home.md',
-      loadSidebar: false,
+      loadSidebar: true,
       loadNavbar: true,
       coverpage: false,
       auto2top: true,
@@ -176,6 +175,7 @@
       subMaxLevel: 2,
       relativePath: false,
       alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md'
       },
       search: {
