@@ -1,27 +1,46 @@
-<style>
-  /* 1. Load the Font from Google */
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+<div style="
+  background: linear-gradient(135deg, #fffef5 0%, #ffffff 100%);
+  border: 3px solid var(--nanda-yellow);
+  border-radius: 24px;
+  padding: 40px 60px;
+  margin: 0 0 40px 0;
+  box-shadow: 0 10px 40px rgba(255, 215, 0, 0.25);">
 
-  /* 2. Force the Site to use it */
-  body, h1, h2, h3, h4, h5, h6, p, span, div, a {
-    font-family: "Poppins", sans-serif !important;
-  }
-</style>
+  <!-- Logo and Headline in Single Line -->
+  <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 30px; flex-wrap: wrap;">
+    <img src="assets/Golden + Black Text Logo.svg" alt="Project NANDA" style="height: 50px;">
+    <h1 style="font-size: 2rem; font-weight: 700; color: var(--nanda-black); margin: 0; line-height: 1.2;">
+      Architecting Internet of AI Agents
+    </h1>
+  </div>
 
-<div align = "left">
+  <!-- Mission Statement - Big and Prominent -->
+  <div style="
+    background: linear-gradient(135deg, #FFD700 0%, #FFC700 100%);
+    border-radius: 16px;
+    padding: 30px 40px;
+    margin-bottom: 25px;
+    box-shadow: 0 8px 30px rgba(255, 215, 0, 0.3);">
+    <p style="font-size: 1.35rem; font-weight: 600; color: #000; margin: 0; line-height: 1.6; text-align: center;">
+      The future isn't just AI, it's <strong>trillions of AI agents collaborating across the open web, securely.</strong>
+    </p>
+  </div>
 
-# Project NANDA: Architecting Internet of AI Agents
-
-> **The future isn't just AI, it's trillions of AI agents collaborating across the open web, securely.**
-
-</div>
-Explore more details at: 
-<div align = "center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/BxPnPBEqd88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/projectnanda/)
-[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.14263)
+  <!-- Social Badges -->
+  <div style="display: flex; gap: 12px; justify-content: center; align-items: center; flex-wrap: wrap; margin-top: 30px;">
+    <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="https://discord.gg/BxnPBEqd88" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://www.linkedin.com/company/projectnanda/" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://arxiv.org/abs/2507.14263" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+    </a>
+  </div>
 
 </div>
 
@@ -29,52 +48,73 @@ Explore more details at:
 
 ## What is Project NANDA?
 
-**Project NANDA** is archtecting the foundational infrastructure for the **Open Agentic Web**.
-
-We are solving the core challenge of the next decade: <span style="font-weight: 600; font-style: italic;">How can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities?</span>
-
-Project ​​​​NANDA (Networked AI Agents in Decentralized Architecture) which originated at MIT aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus driven innovation: 'DNS', 'CA', 'Orchestration', and 'Attestation'.
-
-Project ​​​NANDA is pioneering the foundational infrastructure for the Internet of AI Agents — enabling autonomous systems to interact, transact, and collaborate seamlessly.
-
-Project ​​​NANDA employs a three-pronged approach: 
-
-(i) Technology: Building technology, standards, and reference implementations through a collective of top minds. 
-
-(ii) Social Mission: Working to maintain an open Agentic Web for innovators while ensuring safety for vulnerable populations. 
-
-(iii) Venture Ecosystem: Fostering a wide coalition of founders and investors.
-
-Project ​​​​NANDA's development draws on proven MIT research in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
-
-<div align="center" style="
-  background-color: #f8f9fa; 
-  border: 2px solid #000; 
-  border-radius: 16px; 
-  padding: 40px; 
-  margin: 40px 0;">
-  
-  <h2 style="margin-top: 0; font-size: 2.2rem; margin-bottom: 15px; color: #111;">
-    Architect the Internet of Agents
-  </h2>
-  
-  <p style="max-width: 650px; color: #555; font-size: 1.1rem; line-height: 1.6; margin-bottom: 35px;">
-    Don't just watch the AI revolution, <strong>build the infrastructure that powers it.</strong> 
-    Join a select cohort of visionaries working directly with the NANDA core team to define the protocols of tomorrow.
+<div style="background: linear-gradient(135deg, #fffef5, #ffffff); border-left: 5px solid var(--nanda-yellow); padding: 30px 40px; border-radius: 12px; margin: 30px 0; box-shadow: 0 4px 20px rgba(255, 215, 0, 0.15);">
+  <p style="font-size: 1.2rem; font-weight: 600; color: var(--nanda-black); margin: 0 0 20px 0; line-height: 1.6;">
+    Project NANDA is architecting the foundational infrastructure for the <strong style="color: var(--nanda-yellow-dark);">Open Agentic Web</strong>.
   </p>
-  
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="
-    background-color: #000; 
-    color: white; 
-    padding: 16px 32px; 
-    border-radius: 8px; 
-    text-decoration: none; 
-    font-weight: 600; 
-    font-size: 1.1rem; 
-    transition: all 0.2s ease;
-    display: inline-block;">
-    Apply for FAN Fellowship &rarr;
-  </a>
+  <p style="font-size: 1.05rem; color: #2c3e50; margin: 0; line-height: 1.7; font-style: italic;">
+    We are solving the core challenge of the next decade: <strong>How can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities?</strong>
+  </p>
+</div>
+
+<div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 35px; margin: 30px 0; box-shadow: 0 6px 25px rgba(255, 215, 0, 0.2);">
+  <h3 style="color: var(--nanda-black); margin-top: 0; margin-bottom: 20px; font-size: 1.4rem; border-left: none; padding-left: 0;">About NANDA</h3>
+  <p style="color: #2c3e50; line-height: 1.8; margin-bottom: 20px;">
+    <strong>Project NANDA</strong> (Networked AI Agents in Decentralized Architecture) originated at MIT and aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus-driven innovation:
+  </p>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; margin: 25px 0;">
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(255, 215, 0, 0.3);">DNS</div>
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(255, 215, 0, 0.3);">CA</div>
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(255, 215, 0, 0.3);">Orchestration</div>
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(255, 215, 0, 0.3);">Attestation</div>
+  </div>
+  <p style="color: #2c3e50; line-height: 1.8; margin-top: 25px;">
+    We are pioneering the foundational infrastructure for the Internet of AI Agents — enabling autonomous systems to <strong>interact, transact, and collaborate seamlessly</strong>.
+  </p>
+</div>
+
+### Our Three-Pronged Approach
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 30px 0;">
+
+  <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 30px; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.35)'; this.style.borderColor='#000';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.borderColor='#FFD700';">
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; font-weight: 800; font-size: 1.5rem; color: #000; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);">1</div>
+    <h4 style="color: var(--nanda-black); margin: 0 0 15px 0; font-size: 1.25rem;">Technology</h4>
+    <p style="color: #555; line-height: 1.7; margin: 0;">Building technology, standards, and reference implementations through a collective of top minds.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 30px; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.35)'; this.style.borderColor='#000';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.borderColor='#FFD700';">
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; font-weight: 800; font-size: 1.5rem; color: #000; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);">2</div>
+    <h4 style="color: var(--nanda-black); margin: 0 0 15px 0; font-size: 1.25rem;">Social Mission</h4>
+    <p style="color: #555; line-height: 1.7; margin: 0;">Working to maintain an open Agentic Web for innovators while ensuring safety for vulnerable populations.</p>
+  </div>
+
+  <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 30px; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.35)'; this.style.borderColor='#000';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.borderColor='#FFD700';">
+    <div style="background: linear-gradient(135deg, #FFD700, #FFC700); width: 50px; height: 50px; border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; font-weight: 800; font-size: 1.5rem; color: #000; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.4);">3</div>
+    <h4 style="color: var(--nanda-black); margin: 0 0 15px 0; font-size: 1.25rem;">Venture Ecosystem</h4>
+    <p style="color: #555; line-height: 1.7; margin: 0;">Fostering a wide coalition of founders and investors.</p>
+  </div>
+
+</div>
+
+<div style="background: linear-gradient(135deg, rgba(255, 215, 0, 0.08), rgba(255, 237, 78, 0.05)); border: 2px solid var(--nanda-yellow); border-radius: 12px; padding: 30px 40px; margin: 30px 0;">
+  <p style="color: #2c3e50; line-height: 1.8; margin: 0; font-size: 1.05rem;">
+    <strong style="color: var(--nanda-black);">Built on proven MIT research</strong> in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
+  </p>
+</div>
+
+---
+
+## Community Mentions
+
+<div style="background: linear-gradient(135deg, #fffef5, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 40px 50px; margin: 30px 0; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2);">
+  <p style="color: #555; font-size: 1rem; line-height: 1.8; margin: 0 0 25px 0; text-align: center;">
+    Project NANDA discussions have included speakers, advisors, and contributors from:
+  </p>
+
+  <div style="text-align: center; color: #2c3e50; font-size: 1.05rem; line-height: 2; font-weight: 500;">
+    MIT • Dell Technologies • Microsoft • OpenAI • Google • Qualcomm • Deloitte • Akamai • Salesforce • Snowflake • Coinbase • Capgemini • UC Berkeley • Nutanix • NVIDIA • Indeed • Stanford • Ericsson • Cisco • AWS • Zapier • GoDaddy • Meta • Intel • Zscaler • FCC • Audible • EPFL • Tresata • Vana • Radius • MyLife • Head Held High Foundation • Stony Brook University • NSE • TCS • HADERA • Mayfield Ventures • WestWave Capital
+  </div>
 </div>
 
 <style>
@@ -106,22 +146,23 @@ Project ​​​​NANDA's development draws on proven MIT research in AutoML, 
     justify-content: center;
     padding: 30px 20px;
     background: #ffffff;
-    border: 1px solid #eaeaea;
+    border: 2px solid var(--nanda-yellow);
     border-radius: 16px;
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+    box-shadow: 0 4px 20px rgba(255, 215, 0, 0.2);
   }
 
   .nanda-stat-item:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0,0,0,0.08);
-    border-color: #000000;
+    transform: translateY(-8px);
+    box-shadow: 0 15px 40px rgba(255, 215, 0, 0.4);
+    border-color: var(--nanda-black);
+    background: linear-gradient(135deg, #fffef5, #ffffff);
   }
 
   .stat-number {
     font-size: 3.2rem;
     font-weight: 700;
-    color: #000000;
+    color: var(--nanda-black);
     line-height: 1;
     margin-bottom: 12px;
     letter-spacing: -1.5px;
@@ -130,7 +171,7 @@ Project ​​​​NANDA's development draws on proven MIT research in AutoML, 
   .stat-label {
     font-size: 0.95rem;
     font-weight: 600;
-    color: #333333;
+    color: var(--nanda-yellow-dark);
     margin-bottom: 6px;
     text-transform: uppercase;
     letter-spacing: 1.2px;
@@ -138,7 +179,7 @@ Project ​​​​NANDA's development draws on proven MIT research in AutoML, 
 
   .stat-sub {
     font-size: 0.85rem;
-    color: #777777;
+    color: #555555;
     line-height: 1.5;
     font-weight: 400;
   }
@@ -234,46 +275,46 @@ Our research outlines the architectural and strategic foundations of the Agentic
 # System Architecture & Frameworks
 *Visualizing the core protocols, logic flows, and infrastructure of the NANDA ecosystem.*
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin: 30px 0;">
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss5.png" alt="Traditional Web vs Internet of Agents" style="width: 100%; height: auto;">
-    <p align="center"><strong>The Paradigm Shift:</strong> Comparing the reactive Traditional Web with the proactive, stateful Internet of AI Agents.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss5.png" alt="Traditional Web vs Internet of Agents" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">The Paradigm Shift:</strong> Comparing the reactive Traditional Web with the proactive, stateful Internet of AI Agents.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss8.png" alt="Setting Up Agents vs Websites" style="width: 100%; height: auto;">
-    <p align="center"><strong>Lifecycle Management:</strong> The parallel processes of Domain Registration vs. Agent Registration and discovery.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss8.png" alt="Setting Up Agents vs Websites" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Lifecycle Management:</strong> The parallel processes of Domain Registration vs. Agent Registration and discovery.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss3.png" alt="NANDA Index Architecture" style="width: 100%; height: auto;">
-    <p align="center"><strong>Core Stack:</strong> The NANDA Index, AgentFacts Layer, and Dynamic Resolution Layer.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss3.png" alt="NANDA Index Architecture" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Core Stack:</strong> The NANDA Index, AgentFacts Layer, and Dynamic Resolution Layer.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss4.png" alt="Resolution Flow Steps" style="width: 100%; height: auto;">
-    <p align="center"><strong>Resolution Protocol:</strong> The cryptographic handshake and privacy-preserving lookup flow.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss4.png" alt="Resolution Flow Steps" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Resolution Protocol:</strong> The cryptographic handshake and privacy-preserving lookup flow.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss9.png" alt="Enterprise Web vs Agentic Arch" style="width: 100%; height: auto;">
-    <p align="center"><strong>Enterprise Infrastructure:</strong> Moving from WAF/LB/CDN stacks to Agentic A2A/MCP architectures.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss9.png" alt="Enterprise Web vs Agentic Arch" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Enterprise Infrastructure:</strong> Moving from WAF/LB/CDN stacks to Agentic A2A/MCP architectures.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss10.png" alt="Enterprise Use Case" style="width: 100%; height: auto;">
-    <p align="center"><strong>Applied Operations:</strong> A Product Operations agentic workflow using MCP and A2A protocols.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss10.png" alt="Enterprise Use Case" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Applied Operations:</strong> A Product Operations agentic workflow using MCP and A2A protocols.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss6.png" alt="Recursive Resolver" style="width: 100%; height: auto;">
-    <p align="center"><strong>Recursive Resolution:</strong> How the NANDA Adaptive Resolver queries Namespaces and Intermediates.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss6.png" alt="Recursive Resolver" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Recursive Resolution:</strong> How the NANDA Adaptive Resolver queries Namespaces and Intermediates.</p>
   </div>
 
-  <div style="border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
-    <img src="assets/diagrams/ss7.png" alt="Negotiation Flow" style="width: 100%; height: auto;">
-    <p align="center"><strong>Connection Negotiation:</strong> The detailed flow of establishing trust and communication specs between agents.</p>
+  <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(255, 215, 0, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(255, 215, 0, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#FFD700';">
+    <img src="assets/diagrams/ss7.png" alt="Negotiation Flow" style="width: 100%; height: auto; border-radius: 8px;">
+    <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Connection Negotiation:</strong> The detailed flow of establishing trust and communication specs between agents.</p>
   </div>
 
 </div>
@@ -285,46 +326,76 @@ Our research outlines the architectural and strategic foundations of the Agentic
   .nanda-roadmap {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 24px;
     justify-content: center;
-    margin-top: 20px;
+    margin-top: 30px;
   }
-  
+
   .nanda-card {
     flex: 1;
-    min-width: 300px; /* Stacks vertically on mobile */
-    background: #fff;
-    border: 1px solid #e0e0e0;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    min-width: 300px;
+    background: #ffffff;
+    border: 2px solid var(--nanda-yellow);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 8px 25px rgba(255, 215, 0, 0.2);
     transition: all 0.3s ease;
-    border-top: 4px solid #ddd; /* Default top border */
-    color: #000000;
+    border-top: 5px solid var(--nanda-yellow-dark);
+    color: #2c3e50;
   }
 
   /* Hover Animation */
   .nanda-card:hover {
-    transform: translateY(-7px);
-    box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+    transform: translateY(-10px);
+    box-shadow: 0 15px 45px rgba(255, 215, 0, 0.4);
+    border-color: var(--nanda-black);
+    background: linear-gradient(135deg, #fffef5, #ffffff);
   }
 
   /* Specific Colors for Phases */
-  .phase-1:hover { border-top-color: #0A66C2; } /* Blue */
-  .phase-2:hover { border-top-color: #B31B1B; } /* Red/Maroon */
-  .phase-3:hover { border-top-color: #008000; } /* Green */
+  .phase-1:hover { border-top-color: var(--nanda-yellow); box-shadow: 0 15px 45px rgba(255, 215, 0, 0.5); }
+  .phase-2:hover { border-top-color: var(--nanda-yellow-light); box-shadow: 0 15px 45px rgba(255, 237, 78, 0.5); }
+  .phase-3:hover { border-top-color: var(--nanda-yellow-dark); box-shadow: 0 15px 45px rgba(255, 199, 0, 0.5); }
 
-  .nanda-card h3 { margin-top: 0; margin-bottom: 10px; }
+  .nanda-card h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--nanda-black);
+    font-size: 1.5rem;
+  }
+
+  .nanda-card p {
+    color: #2c3e50;
+  }
+
+  .nanda-card ul {
+    color: #2c3e50;
+  }
+
+  .nanda-card b {
+    color: var(--nanda-black);
+  }
+
   .nanda-badge {
     display: inline-block;
-    padding: 2px 8px;
+    padding: 6px 14px;
     font-size: 0.75rem;
-    border-radius: 4px;
-    background: #eee;
-    color: #555;
-    margin-bottom: 10px;
+    border-radius: 6px;
+    background: rgba(255, 215, 0, 0.1);
+    color: #999;
+    margin-bottom: 15px;
+    border: 1px solid #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
   }
-  .badge-active { background: #d1f7c4; color: #006400; font-weight: bold; }
+
+  .badge-active {
+    background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark));
+    color: #000;
+    font-weight: 700;
+    border-color: var(--nanda-yellow);
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);
+  }
 </style>
 
 <div class="nanda-roadmap">
@@ -426,36 +497,42 @@ We believe the web must evolve from static content to autonomous actors. **Join 
   .engage-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 20px;
-    margin: 30px 0;
+    gap: 24px;
+    margin: 40px 0;
   }
-  
+
   .engage-card {
       display: flex;
       flex-direction: column;
       text-decoration: none !important;
       color: inherit !important;
-      background: #fff;
-      border: 1px solid #eee;
-      padding: 20px;
-      border-radius: 12px;
+      background: #ffffff;
+      border: 2px solid var(--nanda-yellow);
+      padding: 25px;
+      border-radius: 16px;
       transition: all 0.3s ease;
       text-align: left;
+      box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2);
   }
+
   .engage-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-      border-color: #000;
+      transform: translateY(-5px);
+      box-shadow: 0 12px 35px rgba(255, 215, 0, 0.4);
+      border-color: var(--nanda-black);
+      background: linear-gradient(135deg, #fffef5, #ffffff);
   }
+
   .engage-title {
       font-weight: 700;
-      font-size: 1.1rem;
-      color: #000;
-      margin-bottom: 5px;
+      font-size: 1.2rem;
+      color: var(--nanda-black);
+      margin-bottom: 8px;
   }
+
   .engage-text {
-      font-size: 0.9rem;
-      color: #555;
+      font-size: 0.95rem;
+      color: #555555;
+      line-height: 1.6;
   }
 </style>
 

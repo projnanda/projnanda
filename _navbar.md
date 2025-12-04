@@ -1,4 +1,5 @@
+- [<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="height: 24px; vertical-align: middle; margin-right: 20px;">](/)
 - [Home](/)
 - [GitHub](https://github.com/projnanda/projnanda)
-- [Research](./home/8.nandapapers) 
+- [Research](./home/8.nandapapers)
 - [<span style="background-color: #000; color: white; padding: 8px 16px; border-radius: 8px; font-weight: 600; border: 1px solid #000;">Apply for FAN Fellowship &rarr;</span>](https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform)

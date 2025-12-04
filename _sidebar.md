@@ -11,11 +11,11 @@
   * [Project NANDA](./home/14.faqNANDA.md)
   * [NANDA and A2A](./home/15.faq_NANDA_A2A.md)
 * [NANDA Index](./home/13.NANDAIndex.md)
-* [**Build with NANDA**](./home/5.gettingstarted)
+* [**Build with NANDA**](./home/5.gettingstarted.md)
 
-* [**Protocol Interoperability**](./home/3.protocol%20interoperability)
-  * [Current Reference Implementation](./home/2.current%20reference%20implementation)
+* [**Protocol Interoperability**](./home/3.protocol%20interoperability.md)
+  * [Current Reference Implementation](./home/2.current%20reference%20implementation.md)
     
-* [Contribution](./home/7.researchcontribution)
-* [**Community & Channels**](./home/9.streams)
+* [Contribution](./home/7.researchcontribution.md)
+* [**Community & Channels**](./home/9.streams.md)
 * [MIT License](https://opensource.org/licenses/MIT)
