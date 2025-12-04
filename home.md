@@ -12,7 +12,7 @@
 
 # Project NANDA: Building the Internet of AI Agents
 
-> **The future isn't just AI — it's trillions of AI agents collaborating across the open web securely.**
+> **The future isn't just AI, it's trillions of AI agents collaborating across the open web securely.**
 
 </div>
 
@@ -39,7 +39,35 @@ NANDA provides the **index**, **protocols**, and **tools** needed to enable a de
 * **Governance**: Frameworks for a responsible, open agentic web.
 * **Discovery**: A privacy-preserving registry architecture.
 
-
+<div align="center" style="
+  background-color: #f8f9fa; 
+  border: 2px solid #000; 
+  border-radius: 16px; 
+  padding: 40px; 
+  margin: 40px 0;">
+  
+  <h2 style="margin-top: 0; font-size: 2.2rem; margin-bottom: 15px; color: #111;">
+    Architect the Internet of Agents
+  </h2>
+  
+  <p style="max-width: 650px; color: #555; font-size: 1.1rem; line-height: 1.6; margin-bottom: 35px;">
+    Don't just watch the AI revolution, <strong>build the infrastructure that powers it.</strong> 
+    Join a select cohort of visionaries working directly with the NANDA core team to define the protocols of tomorrow.
+  </p>
+  
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="
+    background-color: #000; 
+    color: white; 
+    padding: 16px 32px; 
+    border-radius: 8px; 
+    text-decoration: none; 
+    font-weight: 600; 
+    font-size: 1.1rem; 
+    transition: all 0.2s ease;
+    display: inline-block;">
+    Apply for FAN Fellowship &rarr;
+  </a>
+</div>
 
 <style>
   .nanda-stats-grid {
@@ -443,26 +471,49 @@ We believe the web must evolve from static content to autonomous actors. **Join 
     <div class="engage-title">FAN Fellowship</div>
     <div class="engage-text">Applications are open.</div>
   </a>
-
+<!--
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform" class="engage-card">
     <div class="engage-title">Tresata Fellowship</div>
     <div class="engage-text">Apply for paid roles.</div>
   </a>
-
   <a href="https://www.linkedin.com/jobs/view/4260498540/" class="engage-card">
     <div class="engage-title">Radius Fellowship</div>
     <div class="engage-text">Apply for paid roles.</div>
   </a>
+ -->
 </div>
 
+
 ---
-## Additional Resources
+### Selected Talks & Resources
 
-### Videos & Media
+* [**Infrastructure for the Internet of AI Agents**](https://www.youtube.com/watch?v=jlcO19XyQ1I) <br>
+  **MIT IIA** — *Index & Vision*
 
-* [Intro to NANDA (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I) 
-* [Project NANDA Overview Talk (YouTube)](https://www.youtube.com/watch?v=vCeiA0T8kTM)
-* [Decentralized AI Summit Panel (YouTube)](https://www.youtube.com/watch?v=oDRyxMUum4A)
+* [**Agent-to-Agent (A2A) Protocol Standard**](https://www.youtube.com/watch?v=_4oBITv0hbs)<br>
+  **Rao Surapaneni (VP Google Cloud)** — *NANDA Summit 2025*
+
+* [**Composable MCP: Emergent Properties of Agent Tooling**](https://www.youtube.com/watch?v=S2ksXKHbOUU)<br>
+  **Nick Cooper (OpenAI)** — *Model Context Protocol*
+
+* [**Reflections on the History of Autonomous Software Agents**](https://www.youtube.com/watch?v=SA3n2o5q07c)<br>
+  **Prof. Pattie Maes - Mother of Software Agents** - *NANDA Summit 2025*
+
+* [**Decentralized AI: The Four Pillars of Trust**](https://www.youtube.com/watch?v=SSSffQsbFo4)<br>
+  **MIT Horizon** — *Privacy-Preserving Machine Learning*
+
+* [**The Dawn of the Agent Economy: From Intranet to Internet of AI Agents**](https://www.youtube.com/watch?v=s1KdGo2_8Lo&pp=ygUNcmFtZXNoIHJhc2thcg%3D%3D)<br>
+  **Prof. Ramesh Raskar** — *MIT Media Lab*
+
+* [**Cognitive Architectures: The Secret to Intelligence (Brains vs. AI)**](https://www.youtube.com/watch?v=zdm6pkW15pE&t=368s)<br>
+  **Prof. Ramesh Raskar** — *Inner Cosmos Podcast*
+
+* [**Networked AI Agents in Decentralized Architectures**](https://www.youtube.com/watch?v=k85IJfbRmXo)<br>
+  **Prof. Ramesh Raskar** — *ADIA Lab Symposium 2025*
+
+* [**Agent Safety Protocols: Child Safety in the Age of AI Toys**](https://www.youtube.com/watch?v=cf_PQKaaYW4)<br>
+  **Chris Aw & Prof. Ramesh Raskar** — *Governance & Ethics*
+
 
 ### Prior Work
 
