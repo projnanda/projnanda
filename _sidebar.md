@@ -6,8 +6,6 @@
 - [NANDA Youth Chapter](./home/nyc.md)
 - [NANDA Open Source Developers](./home/osd.md)
 - [FAQ](./home/6.faq.md)
-  - [Project NANDA](./home/14.faqNANDA.md)
-  - [NANDA and A2A](./home/15.faq_NANDA_A2A.md)
 - [NANDA Index](./home/13.NANDAIndex.md)
 - [**Build with NANDA**](./home/5.gettingstarted.md)
 
