@@ -152,6 +152,18 @@
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <div style="width: 44px; height: 44px; border-radius: 12px; background: #ffd700; color: #000; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">PM</div>
+      <div>
+        <div style="font-weight: 800; color: var(--nanda-black);">Paul V. Mockapetris</div>
+        <div style="color: #444; font-size: 0.95rem;">Inventor of DNS</div>
+      </div>
+    </div>
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #f0e07a; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+      <iframe src="https://www.youtube.com/embed/MFWHSwD-EZ8" title="Paul V. Mockapetris - DNS & Agents" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+  </div>
+  <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
       <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #ffd700; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">RG</div>
       <div>
         <div style="font-weight: 800; color: var(--nanda-black);">R.V. Guha</div>
@@ -160,6 +172,30 @@
     </div>
     <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #f0e07a; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
       <iframe src="https://www.youtube.com/embed/P0YKIRD8eQk" title="R.V. Guha - Rewiring the Web" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+  </div>
+  <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #ffd700; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">JR</div>
+      <div>
+        <div style="font-weight: 800; color: var(--nanda-black);">Jessica Rosenworcel</div>
+        <div style="color: #444; font-size: 0.95rem;">Former FCC Chairwoman</div>
+      </div>
+    </div>
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #f0e07a; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+      <iframe src="https://www.youtube.com/embed/qQebYJclTno" title="Jessica Rosenworcel - System Design" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+  </div>
+  <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #ffd700; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">ER</div>
+      <div>
+        <div style="font-weight: 800; color: var(--nanda-black);">Erik Reppel</div>
+        <div style="color: #444; font-size: 0.95rem;">Engineering Leader, Coinbase</div>
+      </div>
+    </div>
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #f0e07a; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+      <iframe src="https://www.youtube.com/embed/sm-KoiDZLgg" title="Erik Reppel - Coinbase" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
   </div>
 </div>
