@@ -1,4 +1,4 @@
-# Careers → FAN Fellowships
+# Careers -> FAN Fellowships
 
 All opportunities are now consolidated on the FAN Fellowships page.
 

@@ -9,7 +9,7 @@
   </p>
   <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #FFD700; box-shadow: 0 8px 30px rgba(255, 215, 0, 0.45);">
-      Apply for FAN Fellowship →
+      Apply for FAN Fellowship ->
     </a>
     <a href="#sponsor" style="background: transparent; color: #FFD700; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #FFD700;">
       Become a Sponsor
@@ -34,12 +34,12 @@
       <li>Direct collaboration with NANDA core team</li>
       <li>Focus: open-source infrastructure, interoperability, safety</li>
     </ul>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #FFD700;">Apply to FAN Core →</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #FFD700;">Apply to FAN Core -></a>
   </div>
 
   <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 28px; box-shadow: 0 8px 26px rgba(255, 215, 0, 0.18);">
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;">
-      <h3 style="margin: 0; font-size: 1.35rem; color: var(--nanda-black);">NANDA × Tresata Developer Fellowship</h3>
+      <h3 style="margin: 0; font-size: 1.35rem; color: var(--nanda-black);">NANDA x Tresata Developer Fellowship</h3>
       <span style="background: var(--nanda-yellow); color: #000; padding: 6px 14px; border-radius: 12px; font-weight: 700; font-size: 0.85rem;">Paid</span>
     </div>
     <p style="color: #444; line-height: 1.7; margin: 10px 0 16px 0;">Advance open-source rails for agent discovery, trust, and orchestration alongside Tresata engineers.</p>
@@ -55,16 +55,16 @@
       <li>Integrations with Tresata data infrastructure and governance</li>
       <li>Capstone you design, build, and demo</li>
     </ul>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #FFD700;">Apply to Tresata Fellowship →</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #FFD700;">Apply to Tresata Fellowship -></a>
   </div>
 
   <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 28px; box-shadow: 0 8px 26px rgba(255, 215, 0, 0.18);">
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;">
-      <h3 style="margin: 0; font-size: 1.35rem; color: var(--nanda-black);">NANDA × Radius Fellowship</h3>
+      <h3 style="margin: 0; font-size: 1.35rem; color: var(--nanda-black);">NANDA x Radius Fellowship</h3>
       <span style="background: var(--nanda-yellow); color: #000; padding: 6px 14px; border-radius: 12px; font-weight: 700; font-size: 0.85rem;">Paid</span>
     </div>
     <p style="color: #444; line-height: 1.7; margin: 10px 0 16px 0;">Ecosystem and developer-experience track focusing on SDKs, docs, and community tooling for the agentic web.</p>
-    <a href="https://www.linkedin.com/jobs/view/4260498540/" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #FFD700;">Apply to Radius Fellowship →</a>
+    <a href="https://www.linkedin.com/jobs/view/4260498540/" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #FFD700;">Apply to Radius Fellowship -></a>
   </div>
 
 </div>
@@ -134,17 +134,17 @@
     <div style="background: #111; border: 1px solid #FFD700; border-radius: 12px; padding: 16px;">
       <div style="color: #FFD700; font-weight: 800; font-size: 1.1rem;">Bronze</div>
       <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$25K</div>
-      <div style="color: #d0d0d0; font-size: 0.95rem;">Support 1–2 fellows</div>
+      <div style="color: #d0d0d0; font-size: 0.95rem;">Support 1-2 fellows</div>
     </div>
     <div style="background: #111; border: 1px solid #FFD700; border-radius: 12px; padding: 16px;">
       <div style="color: #FFD700; font-weight: 800; font-size: 1.1rem;">Silver</div>
       <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$50K</div>
-      <div style="color: #d0d0d0; font-size: 0.95rem;">Support 3–4 fellows</div>
+      <div style="color: #d0d0d0; font-size: 0.95rem;">Support 3-4 fellows</div>
     </div>
     <div style="background: #111; border: 1px solid #FFD700; border-radius: 12px; padding: 16px;">
       <div style="color: #FFD700; font-weight: 800; font-size: 1.1rem;">Gold</div>
       <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$100K</div>
-      <div style="color: #d0d0d0; font-size: 0.95rem;">Support 5–8 fellows</div>
+      <div style="color: #d0d0d0; font-size: 0.95rem;">Support 5-8 fellows</div>
     </div>
     <div style="background: #111; border: 2px solid #FFD700; border-radius: 12px; padding: 16px;">
       <div style="color: #FFD700; font-weight: 800; font-size: 1.1rem;">Platinum</div>
@@ -154,7 +154,7 @@
   </div>
 
   <div style="text-align: center; margin-top: 10px;">
-    <a href="mailto:partnerships@projectnanda.orgxsubject=FAN%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #FFD700; box-shadow: 0 8px 30px rgba(255, 215, 0, 0.45);">Contact partnerships →</a>
+    <a href="mailto:partnerships@projectnanda.org?subject=FAN%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #FFD700, #FFC700); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #FFD700; box-shadow: 0 8px 30px rgba(255, 215, 0, 0.45);">Contact partnerships -></a>
   </div>
 </div>
 
