@@ -848,13 +848,13 @@ Our research outlines the architectural and strategic foundations of the Agentic
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
-      <img src="assets/headshots/Ayush Chopra.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #f0e07a; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
+      <img src="https://dummyimage.com/100x100/fff7d1/000000&text=AC" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #f0e07a; box-shadow:0 4px 10px rgba(0,0,0,0.12);" alt="Ayush Chopra placeholder">
       <div class="speaker-card-text"><strong>Ayush Chopra</strong><br>Researcher & Builder<br><em>Project NANDA</em><br><a href="https://www.youtube.com/watch?v=liae1oF9RAg" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
-      <img src="assets/headshots/Raymond Lio.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #f0e07a; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
+      <img src="https://dummyimage.com/100x100/fff7d1/000000&text=RL" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #f0e07a; box-shadow:0 4px 10px rgba(0,0,0,0.12);" alt="Raymond Lio placeholder">
       <div class="speaker-card-text"><strong>Raymond Lio</strong><br>Founder & Managing Director<br><em>Samsung NEXT Ventures</em><br><a href="https://www.youtube.com/watch?v=i1L32XDRG5o" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
