@@ -342,23 +342,23 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 ### Foundational Architecture Papers
 
-| Paper Title                                         | Description                                                                                                       | Links                                                                                              |
-| :-------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
+| Paper Title                                                      | Description                                                                                                              | Links                                                                                              |
+| :--------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
 | <strong>Beyond DNS: Unlocking the Internet of AI Agents</strong> | <em>The foundational paper.</em> Details the design of the NANDA Index, AgentFacts schema, and Verified Agent Discovery. | [![arXiv](https://img.shields.io/badge/arXiv-2507.14263-B31B1B)](https://arxiv.org/abs/2507.14263) |
-| <strong>Upgrade or Switch: The Need for New Registry</strong>    | Analyzes why DNS fails for AI agents and weighs incremental upgrades against purpose-built registries.            | [![arXiv](https://img.shields.io/badge/arXiv-2506.12003-B31B1B)](https://arxiv.org/abs/2506.12003) |
-| <strong>NANDA Adaptive Resolver</strong>                         | A dynamic microservice architecture for agent name resolution in distributed environments.                        | [![arXiv](https://img.shields.io/badge/arXiv-2508.03113-B31B1B)](https://arxiv.org/abs/2508.03113) |
-| <strong>NANDA in Practice: Enterprise Perspective</strong>       | Explores Zero Trust Agentic Access (ZTAA) and governance for enterprise agent ecosystems.                         | [![arXiv](https://img.shields.io/badge/arXiv-2508.03101-B31B1B)](https://arxiv.org/abs/2508.03101) |
-| <strong>Survey of AI Agent Registry Solutions</strong>           | Compares NANDA, MCP, A2A, and MS Entra across security, scalability, and maintainability.                         | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
+| <strong>Upgrade or Switch: The Need for New Registry</strong>    | Analyzes why DNS fails for AI agents and weighs incremental upgrades against purpose-built registries.                   | [![arXiv](https://img.shields.io/badge/arXiv-2506.12003-B31B1B)](https://arxiv.org/abs/2506.12003) |
+| <strong>NANDA Adaptive Resolver</strong>                         | A dynamic microservice architecture for agent name resolution in distributed environments.                               | [![arXiv](https://img.shields.io/badge/arXiv-2508.03113-B31B1B)](https://arxiv.org/abs/2508.03113) |
+| <strong>NANDA in Practice: Enterprise Perspective</strong>       | Explores Zero Trust Agentic Access (ZTAA) and governance for enterprise agent ecosystems.                                | [![arXiv](https://img.shields.io/badge/arXiv-2508.03101-B31B1B)](https://arxiv.org/abs/2508.03101) |
+| <strong>Survey of AI Agent Registry Solutions</strong>           | Compares NANDA, MCP, A2A, and MS Entra across security, scalability, and maintainability.                                | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
 
 ### Interoperability & Specialized Research Papers
 
-| Paper Title                                                               | Description                                                                                                                  | Links                                                                                                                             |
-| :------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| Paper Title                                                                            | Description                                                                                                                  | Links                                                                                                                               |
+| :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
 | <strong>Towards Sandboxes for the Internet of Agents</strong>                          | Proposes a network of domain-specialized sandboxes to verify agent capabilities via signed, replayable attestations.         | [![SSRN](https://img.shields.io/badge/SSRN-Abstract%205801322-194175)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5801322) |
-| <strong>Collaborative Agentic AI Needs Interoperability Across Ecosystems</strong>     | Proposes "Web of Agents," a minimal architectural foundation to ensure interoperability and prevent ecosystem fragmentation. | [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-B31B1B)](https://arxiv.org/abs/2505.21550)                                |
-| <strong>The Iceberg Index: Measuring Workforce Exposure Across the AI Economy</strong> | Introduces the Iceberg Index using Large Population Models to measure workforce exposure to AI based on underlying skills.   | [![arXiv](https://img.shields.io/badge/arXiv-2510.25137-B31B1B)](https://arxiv.org/abs/2510.25137)                                |
-| <strong>Ripple Effect Protocol: Coordinating Agent Populations</strong>                | Introduces a protocol enabling faster agent coordination by sharing decision sensitivities alongside choices.                | [![arXiv](https://img.shields.io/badge/arXiv-2510.16572-B31B1B)](https://arxiv.org/abs/2510.16572)                                |
-| <strong>Evolution of AI Agent Registry Solutions</strong>                              | Analyzes five registry approaches (including AGNTCY and MS Entra) and offers design recommendations for verifiable identity. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095)                                |
+| <strong>Collaborative Agentic AI Needs Interoperability Across Ecosystems</strong>     | Proposes "Web of Agents," a minimal architectural foundation to ensure interoperability and prevent ecosystem fragmentation. | [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-B31B1B)](https://arxiv.org/abs/2505.21550)                                  |
+| <strong>The Iceberg Index: Measuring Workforce Exposure Across the AI Economy</strong> | Introduces the Iceberg Index using Large Population Models to measure workforce exposure to AI based on underlying skills.   | [![arXiv](https://img.shields.io/badge/arXiv-2510.25137-B31B1B)](https://arxiv.org/abs/2510.25137)                                  |
+| <strong>Ripple Effect Protocol: Coordinating Agent Populations</strong>                | Introduces a protocol enabling faster agent coordination by sharing decision sensitivities alongside choices.                | [![arXiv](https://img.shields.io/badge/arXiv-2510.16572-B31B1B)](https://arxiv.org/abs/2510.16572)                                  |
+| <strong>Evolution of AI Agent Registry Solutions</strong>                              | Analyzes five registry approaches (including AGNTCY and MS Entra) and offers design recommendations for verifiable identity. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095)                                  |
 
 <strong><a href="https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup">Join our Writing Group</a></strong> to contribute to upcoming research.
 
@@ -532,6 +532,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 ---
 
 ### Orgs, Speakers, & Advisors
+
 <style>
   .speaker-showcase { position: relative; background: linear-gradient(135deg, #fffef5, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 18px; padding: 22px 24px; margin: 16px 0 24px 0; box-shadow: 0 14px 32px rgba(255, 215, 0, 0.22); overflow: hidden; }
   .speaker-showcase::after { content: ""; position: absolute; inset: -38% -12% auto auto; width: 280px; height: 280px; background: radial-gradient(circle at center, rgba(255,215,0,0.16), rgba(255,215,0,0)); transform: rotate(8deg); pointer-events: none; }
@@ -1058,9 +1059,143 @@ Our research outlines the architectural and strategic foundations of the Agentic
   </div>
   </div>
 </div>
+
 ## See It In Action
 
+- [**Intro to NANDA** (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
+- [**NANDA Demo** (YouTube)](https://www.youtube.com/watch?v=-S51FOnqF0o)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT819iZm15T-AGmNQl4b4kQd0t2q4_vKHocvoy5ohV3SI0qWmfhKzwf4YdSxCLTEA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  
+</div>
 
+---
 
+## Community & Collaboration
 
+We believe the web must evolve from static content to autonomous actors. **Join us in building the next layer of the web.**
+
+### How to Engage
+
+<style>
+  .engage-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    margin: 40px 0;
+  }
+
+  .engage-card {
+      display: flex;
+      flex-direction: column;
+      text-decoration: none !important;
+      color: inherit !important;
+      background: #ffffff;
+      border: 2px solid var(--nanda-yellow);
+      padding: 25px;
+      border-radius: 16px;
+      transition: all 0.3s ease;
+      text-align: left;
+      box-shadow: 0 5px 20px rgba(255, 215, 0, 0.2);
+  }
+
+  .engage-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 35px rgba(255, 215, 0, 0.4);
+      border-color: var(--nanda-black);
+      background: linear-gradient(135deg, #fffef5, #ffffff);
+  }
+
+  .engage-title {
+      font-weight: 700;
+      font-size: 1.2rem;
+      color: var(--nanda-black);
+      margin-bottom: 8px;
+  }
+
+  .engage-text {
+      font-size: 0.95rem;
+      color: #555555;
+      line-height: 1.6;
+  }
+</style>
+
+<div class="engage-grid">
+  <a href="https://discord.gg/BxnPBEqd88" class="engage-card">
+    <div class="engage-title">Discord</div>
+    <div class="engage-text">For technical discussions and community chat.</div>
+  </a>
+  
+  <a href="https://Lu.Ma/nanda" class="engage-card">
+    <div class="engage-title">Events (Lu.ma)</div>
+    <div class="engage-text">Join our weekly webinars and summits.</div>
+  </a>
+
+  <a href="https://github.com/projnanda" class="engage-card">
+    <div class="engage-title">GitHub</div>
+    <div class="engage-text">Explore our code and repositories.</div>
+  </a>
+
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" class="engage-card">
+    <div class="engage-title">FAN Fellowship</div>
+    <div class="engage-text">Applications are open.</div>
+  </a>
+<!--
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform" class="engage-card">
+    <div class="engage-title">Tresata Fellowship</div>
+    <div class="engage-text">Apply for paid roles.</div>
+  </a>
+  <a href="https://www.linkedin.com/jobs/view/4260498540/" class="engage-card">
+    <div class="engage-title">Radius Fellowship</div>
+    <div class="engage-text">Apply for paid roles.</div>
+  </a>
+ -->
+</div>
+
+---
+
+### Selected Talks & Resources
+
+- [**Infrastructure for the Internet of AI Agents**](https://www.youtube.com/watch?v=jlcO19XyQ1I) <br>
+  **MIT IIA** — _Index & Vision_
+
+- [**Agent-to-Agent (A2A) Protocol Standard**](https://www.youtube.com/watch?v=_4oBITv0hbs)<br>
+  **Rao Surapaneni (VP Google Cloud)** — _NANDA Summit 2025_
+
+- [**Composable MCP: Emergent Properties of Agent Tooling**](https://www.youtube.com/watch?v=S2ksXKHbOUU)<br>
+  **Nick Cooper (OpenAI)** — _Model Context Protocol_
+
+- [**Reflections on the History of Autonomous Software Agents**](https://www.youtube.com/watch?v=SA3n2o5q07c)<br>
+  **Prof. Pattie Maes - Mother of Software Agents** - _NANDA Summit 2025_
+
+- [**Decentralized AI: The Four Pillars of Trust**](https://www.youtube.com/watch?v=SSSffQsbFo4)<br>
+  **MIT Horizon** — _Privacy-Preserving Machine Learning_
+
+- [**The Dawn of the Agent Economy: From Intranet to Internet of AI Agents**](https://www.youtube.com/watch?v=s1KdGo2_8Lo&pp=ygUNcmFtZXNoIHJhc2thcg%3D%3D)<br>
+  **Prof. Ramesh Raskar** — _MIT Media Lab_
+
+- [**Cognitive Architectures: The Secret to Intelligence (Brains vs. AI)**](https://www.youtube.com/watch?v=zdm6pkW15pE&t=368s)<br>
+  **Prof. Ramesh Raskar** — _Inner Cosmos Podcast_
+
+- [**Networked AI Agents in Decentralized Architectures**](https://www.youtube.com/watch?v=k85IJfbRmXo)<br>
+  **Prof. Ramesh Raskar** — _ADIA Lab Symposium 2025_
+
+- [**Agent Safety Protocols: Child Safety in the Age of AI Toys**](https://www.youtube.com/watch?v=cf_PQKaaYW4)<br>
+  **Chris Aw & Prof. Ramesh Raskar** — _Governance & Ethics_
+
+### Prior Work
+
+- [Decentralized AI](https://youtu.be/RXs6saNBnAE?si=fQIPkDJ4rxfBBel0)
+- [No Peek Privacy](https://youtu.be/BEav6MIjmyk?si=q89DFaDybvEc0d8p)
+- [Apple Workshop on Machine Learning for Health: Web3 and Decentralized AI (DecAI)](https://machinelearning.apple.com/video/web3-decai)
+- [Target AI Video](https://youtu.be/nqJySV2LQGw?si=oeEwu4NjvSrfcy_M)
+
+---
+
+<div align="center">
+
+**Made with ♥ by the NANDA Community**
+
+_Building the Open Agentic Web_
+
+</div>
