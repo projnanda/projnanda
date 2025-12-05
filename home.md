@@ -152,14 +152,14 @@
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
     <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #f8db04; color: #000; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">JR</div>
+      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #ffd700; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">FP</div>
       <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Jessica Rosenworcel</div>
-        <div style="color: #444; font-size: 0.95rem;">Former FCC Chairwoman</div>
+        <div style="font-weight: 800; color: var(--nanda-black);">Fatih Porikli</div>
+        <div style="color: #444; font-size: 0.95rem;">Sr. Director, Global AI Agents, Qualcomm</div>
       </div>
     </div>
     <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #f0e07a; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-      <iframe src="https://www.youtube.com/embed/qQebYJclTno" title="Jessica Rosenworcel - System Design" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+      <iframe src="https://www.youtube.com/embed/lrklrvn8P7A" title="Fatih Porikli - On Device Agentic AI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(255, 215, 0, 0.2);">
@@ -621,7 +621,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Fatih Porikli.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #f0e07a; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Fatih Porikli</strong><br>Sr. Director, Global AI Agents<br><em>Qualcomm</em><br><a href="https://youtu.be/lrkIrvn8P7A?si=u1diMvgsq3JggBa-" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Fatih Porikli</strong><br>Sr. Director, Global AI Agents<br><em>Qualcomm</em><br><a href="https://youtu.be/lrklrvn8P7A" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
