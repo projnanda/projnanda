@@ -1,8 +1,8 @@
-![Project NANDA Banner](banner.png)
+﻿![Project NANDA Banner](banner.png)
 
 # Agentic Web: Innovation Council for Project NANDA
 
-The **NANDA (Networked AI Agents in Decentralized Architecture)** project, which originated at MIT, is pioneering the foundational infrastructure for a true **“Internet of AI Agents”** — imagine billions of specialized AI agents collaborating across a decentralized architecture, performing discrete functions while communicating seamlessly, learning, earning, and transacting on our behalf.
+The **NANDA (Networked AI Agents in Decentralized Architecture)** project, which originated at MIT, is pioneering the foundational infrastructure for a true **â€œInternet of AI Agentsâ€** â€” imagine billions of specialized AI agents collaborating across a decentralized architecture, performing discrete functions while communicating seamlessly, learning, earning, and transacting on our behalf.
 
 The **Agentic Web: Innovation Council for Project NANDA** is a global initiative to build, organize, and expand communities around decentralized AI. Councils worldwide are contributing to research, open-source code, events, startup partnerships, policy frameworks, and educational initiatives.
 
@@ -43,7 +43,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 ### Why Join?
 
 - Become an early adopter in the next wave of AI innovation.
-- Gain deep expertise in **decentralized AI** — a critical skill for the next decade.
+- Gain deep expertise in **decentralized AI** â€” a critical skill for the next decade.
 - Collaborate with **15+ AI universities** pioneering distributed AI.
 - Get **early access** to technical specifications, white papers, and commercialization pathways.
 - Connect with the **startup and VC ecosystem** building on NANDA foundations.
@@ -57,14 +57,14 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 ## Commitment & Schedule
 
 - **Time Investment**: ~1 hour per week
-- **Core Meetup**: Once a month (local chapter decides format — in-person or virtual)
+- **Core Meetup**: Once a month (local chapter decides format â€” in-person or virtual)
 - **Additional Work**: Committee-specific tasks, collaboration between meetings
 
 ---
 
 ## Innovation Council Committees
 
-We’re seeking members and leaders across specialized focus areas:
+Weâ€™re seeking members and leaders across specialized focus areas:
 
 1. **Startup and Developer Connectors**
 
@@ -72,7 +72,7 @@ We’re seeking members and leaders across specialized focus areas:
 
 2. **VC & Investor Relations**
 
-   - Bridge NANDA’s ecosystem with VCs and investors.
+   - Bridge NANDAâ€™s ecosystem with VCs and investors.
 
 3. **External Relations & Policy Council**
 
@@ -80,7 +80,7 @@ We’re seeking members and leaders across specialized focus areas:
 
 4. **Communications & Social Media**
 
-   - Amplify NANDA’s mission across digital and professional networks.
+   - Amplify NANDAâ€™s mission across digital and professional networks.
 
 5. **Events Committee**
 
@@ -103,7 +103,7 @@ We’re seeking members and leaders across specialized focus areas:
 
 2. **Assemble a Core Team**
 
-   - Recruit 3–5 motivated members to lead committees (events, research, communications, etc.).
+   - Recruit 3â€“5 motivated members to lead committees (events, research, communications, etc.).
 
 3. **Host an Introductory Meetup**
 
@@ -126,4 +126,6 @@ We’re seeking members and leaders across specialized focus areas:
 
 - **Website**: [projectnanda.org](https://projectnanda.org)
 
-Together, let’s pioneer the **Agentic Web** and build the **Internet of AI Agents**.
+Together, letâ€™s pioneer the **Agentic Web** and build the **Internet of AI Agents**.
+
+

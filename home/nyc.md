@@ -1,4 +1,4 @@
-![Project NANDA Banner](nyc.png)
+﻿![Project NANDA Banner](nyc.png)
 # NANDA Student Ambassador Program (NSAP)
 Join the revolution. Register Now: (https://tinyurl.com/RegisterNSAP)
 ## Onboarding Guide
@@ -7,13 +7,13 @@ Join the revolution. Register Now: (https://tinyurl.com/RegisterNSAP)
 
 ## Welcome to the Movement
 
-Welcome to Project NANDA's Student Ambassador Program (NSAP) — a global movement where the next generation of innovators helps shape the foundation of the Open Agentic Web. As an ambassador, you're not just joining a research initiative; you're becoming part of an international community of student leaders building the Internet of AI Agents — an open, ethical, and decentralized future for artificial intelligence.
+Welcome to Project NANDA's Student Ambassador Program (NSAP) â€” a global movement where the next generation of innovators helps shape the foundation of the Open Agentic Web. As an ambassador, you're not just joining a research initiative; you're becoming part of an international community of student leaders building the Internet of AI Agents â€” an open, ethical, and decentralized future for artificial intelligence.
 
-You'll collaborate with leading researchers, technologists, and policymakers, learning how to design technologies that are open, explainable, and human-aligned. Your role is to infuse this mission with fresh energy, curiosity, and creativity — connecting insights from classrooms, labs, and communities to the real-world architectures that will power the Agentic Web.
+You'll collaborate with leading researchers, technologists, and policymakers, learning how to design technologies that are open, explainable, and human-aligned. Your role is to infuse this mission with fresh energy, curiosity, and creativity â€” connecting insights from classrooms, labs, and communities to the real-world architectures that will power the Agentic Web.
 
 In the months ahead, you'll explore how AI agents can earn trust, how networks can remain open and verifiable, and how humans and machines can co-create responsibly. Each workshop, hackathon, and community event will offer you the chance to contribute to something far greater than any single system: a future where intelligence itself becomes a shared public good.
 
-**We're thrilled to have you with us as we take on this historic challenge. Together, we're not just imagining the next Internet — we're building it.**
+**We're thrilled to have you with us as we take on this historic challenge. Together, we're not just imagining the next Internet â€” we're building it.**
 
 ---
 
@@ -21,21 +21,21 @@ In the months ahead, you'll explore how AI agents can earn trust, how networks c
 
 Project NANDA ([projectnanda.org](https://projectnanda.org)) is a global research and innovation initiative led by Professor Ramesh Raskar (MIT) under the Foundation for Agentic Networks (FAN).
 
-The project is building the foundational infrastructure for the **Open Agentic Web** — a new, open layer of the Internet where trillions of AI agents can safely collaborate, communicate, and transact across organizational and geographic boundaries.
+The project is building the foundational infrastructure for the **Open Agentic Web** â€” a new, open layer of the Internet where trillions of AI agents can safely collaborate, communicate, and transact across organizational and geographic boundaries.
 
 ### The Core Challenge
 
-At its core, NANDA addresses a defining challenge of the AI era: **How can billions of autonomous agents discover each other, verify trust, and coordinate tasks—without bottlenecks or security vulnerabilities?**
+At its core, NANDA addresses a defining challenge of the AI era: **How can billions of autonomous agents discover each other, verify trust, and coordinate tasksâ€”without bottlenecks or security vulnerabilities?**
 
 ### Our Solution
 
 NANDA is developing both the technical infrastructure and the governance frameworks that make the Agentic Web possible, including:
 
-- **NANDA Index** — A decentralized registry for agent discovery and verification
-- **AgentFacts Layer** — Metadata schema for agent capabilities and trust
-- **NANDA Adapter** — Interoperability protocols for heterogeneous agent ecosystems
+- **NANDA Index** â€” A decentralized registry for agent discovery and verification
+- **AgentFacts Layer** â€” Metadata schema for agent capabilities and trust
+- **NANDA Adapter** â€” Interoperability protocols for heterogeneous agent ecosystems
 
-Project NANDA brings together students, researchers, technologists, and policymakers to co-create the standards, infrastructure, and ethics for this next evolution of the Internet—one where humans and agents work side by side toward transparent, responsible intelligence.
+Project NANDA brings together students, researchers, technologists, and policymakers to co-create the standards, infrastructure, and ethics for this next evolution of the Internetâ€”one where humans and agents work side by side toward transparent, responsible intelligence.
 
 ---
 
@@ -43,39 +43,39 @@ Project NANDA brings together students, researchers, technologists, and policyma
 
 ### Core Responsibilities
 
-#### ☑ Spread Awareness
+#### â˜‘ Spread Awareness
 - Introduce your peers to NANDA through class visits, club presentations, and social media
 - Share informational content, including explainer videos, social soundbites, and sample agent demos
 
-#### ☑ Host Events
+#### â˜‘ Host Events
 - Organize a **minimum of 3 NANDA events per semester** (e.g., workshop, speaker panel, or hackathon)
 - Use our Event Toolkit to access slide decks, posters, and event guides
 
-#### ☑ Build a Chapter
+#### â˜‘ Build a Chapter
 - Start or join a NANDA chapter on your campus
 - Recruit fellow students to join your core team
 - Coordinate with faculty/staff for long-term institutional support
 
-#### ☑ Engage with the Global Network
+#### â˜‘ Engage with the Global Network
 - Attend monthly virtual check-ins with other ambassadors
 - Get matched with NANDA mentors from academia, industry, and open-source communities
 - Contribute to working groups or open-source tools
 
 ### What You'll Receive
 
-- ✔ **Training & Toolkits:** Short onboarding videos, slides, and talking points
-- ✔ **Mentorship:** Direct access to researchers and industry leaders in AI
-- ✔ **Opportunities:** Early access to hackathons, research collaborations, and open calls
-- ✔ **Certification:** A digital credential for active participation
+- âœ” **Training & Toolkits:** Short onboarding videos, slides, and talking points
+- âœ” **Mentorship:** Direct access to researchers and industry leaders in AI
+- âœ” **Opportunities:** Early access to hackathons, research collaborations, and open calls
+- âœ” **Certification:** A digital credential for active participation
 
 ---
 
 ## Your First 30 Days
 
-- 🗓 **Week 1:** Attend the Ambassador Onboarding Call & join the Discord
-- 🗓 **Week 2:** Meet your local co-ambassadors (if any) & schedule a launch strategy call
-- 🗓 **Week 3:** Share your first post about NANDA on social media using our templates
-- 🗓 **Week 4:** Choose your first event type (e.g., intro talk, discussion, etc.) and confirm the date
+- ðŸ—“ **Week 1:** Attend the Ambassador Onboarding Call & join the Discord
+- ðŸ—“ **Week 2:** Meet your local co-ambassadors (if any) & schedule a launch strategy call
+- ðŸ—“ **Week 3:** Share your first post about NANDA on social media using our templates
+- ðŸ—“ **Week 4:** Choose your first event type (e.g., intro talk, discussion, etc.) and confirm the date
 
 ---
 
@@ -83,9 +83,9 @@ Project NANDA brings together students, researchers, technologists, and policyma
 
 ### What is NANDA?
 
-**NANDA** stands for **Networked AI Agents in Decentralized Architecture**. It's a global research and infrastructure initiative under the Foundation for Agentic Networks (FAN) — a non-profit organization dedicated to building the foundation for the Open Agentic Web.
+**NANDA** stands for **Networked AI Agents in Decentralized Architecture**. It's a global research and infrastructure initiative under the Foundation for Agentic Networks (FAN) â€” a non-profit organization dedicated to building the foundation for the Open Agentic Web.
 
-If the early Internet connected computers, and the Web connected people, the **Agentic Web will connect autonomous AI agents** — intelligent software entities that can act, learn, and collaborate on behalf of humans and organizations.
+If the early Internet connected computers, and the Web connected people, the **Agentic Web will connect autonomous AI agents** â€” intelligent software entities that can act, learn, and collaborate on behalf of humans and organizations.
 
 ### Why NANDA Matters
 
@@ -108,21 +108,21 @@ The Agentic Web represents a shift from human-operated systems to networks where
 - A local environmental agent analyzing pollution data and reporting it directly to a city dashboard
 - Agents representing organizations negotiating contracts, managing logistics, or even co-writing research papers
 
-These agents won't just operate within single apps or platforms; they'll move fluidly across the entire Internet. But for that to work, they need a new kind of infrastructure—something more flexible, secure, and transparent than today's systems.
+These agents won't just operate within single apps or platforms; they'll move fluidly across the entire Internet. But for that to work, they need a new kind of infrastructureâ€”something more flexible, secure, and transparent than today's systems.
 
 **That's where NANDA comes in.**
 
 ### What NANDA Builds
 
 #### The NANDA Index
-A new kind of registry that allows AI agents to be discovered, verified, and trusted. Think of it as a **decentralized phonebook for the Agentic Web**—one that lets agents find each other, verify credentials, and exchange information safely.
+A new kind of registry that allows AI agents to be discovered, verified, and trusted. Think of it as a **decentralized phonebook for the Agentic Web**â€”one that lets agents find each other, verify credentials, and exchange information safely.
 
 Unlike centralized systems like DNS or corporate app stores, the NANDA Index is open and lightweight. It uses **AgentFacts**, a metadata schema that allows each agent to describe its capabilities, trust level, and connections in a verifiable way.
 
 #### Decentralization and Trust
 NANDA's architecture embraces decentralization to prevent control from consolidating in a few hands. Multiple organizations, developers, and communities can host their own NANDA registries, creating a network of interoperable systems rather than a single gatekeeper.
 
-It also integrates concepts from **Zero Trust security**—every agent must verify another's identity and capabilities before interaction.
+It also integrates concepts from **Zero Trust security**â€”every agent must verify another's identity and capabilities before interaction.
 
 #### Interoperability Across Platforms
 NANDA research shows how its system can interoperate with existing frameworks like Anthropic's MCP, Google's Agent-to-Agent (A2A), and Microsoft's NLWeb, bridging these separate ecosystems into a single, open web of agents.
@@ -134,7 +134,7 @@ NANDA research shows how its system can interoperate with existing frameworks li
 ### Learning from the Past
 The story of the Internet shows us a pattern: each technological revolution begins with idealism, only to be shaped later by whoever controls its infrastructure. For the Agentic Web, we still have a choice.
 
-If young researchers, students, and technologists don't participate now, the same pattern of consolidation could repeat—only faster and at a larger scale. **The youth of today will inherit the infrastructure of tomorrow**, so the architecture of the Agentic Web must reflect our generation's values: openness, transparency, diversity, and shared progress.
+If young researchers, students, and technologists don't participate now, the same pattern of consolidation could repeatâ€”only faster and at a larger scale. **The youth of today will inherit the infrastructure of tomorrow**, so the architecture of the Agentic Web must reflect our generation's values: openness, transparency, diversity, and shared progress.
 
 ### Youth as Architects of the Future
 
@@ -189,7 +189,7 @@ NANDA research is organized into three broad tracks that guide ambassador activi
 **Suggested Activities:**
 - Create technical demos or tutorials on safe agent frameworks
 - Partner with local coding clubs or research groups to explore agentic simulations
-- Use AI² Studios or open datasets to prototype experiments
+- Use AIÂ² Studios or open datasets to prototype experiments
 
 ### Track 3: Visions of the Agentic Web
 
@@ -333,7 +333,7 @@ Ambassadors who demonstrate consistent engagement, leadership, and reflection wi
 
 ### Why Youth Are Central
 
-The Agentic Web is being built now—and it must be shaped by those who will live in it. Youth ambassadors bring the creativity, ethical awareness, and global diversity needed to ensure this next phase of the internet remains open, just, and human-centered.
+The Agentic Web is being built nowâ€”and it must be shaped by those who will live in it. Youth ambassadors bring the creativity, ethical awareness, and global diversity needed to ensure this next phase of the internet remains open, just, and human-centered.
 
 ---
 
@@ -362,7 +362,7 @@ As a representative of NSAP, you're expected to:
 
 The Internet was once a place of radical openness, a network built on trust and curiosity. But over time, it became shaped by economic incentives and centralized control.
 
-**The Agentic Web represents a second chance to get it right.** If we design its architecture carefully—building systems that are transparent, decentralized, and human-aligned—we can create a web that amplifies human creativity rather than exploits it.
+**The Agentic Web represents a second chance to get it right.** If we design its architecture carefullyâ€”building systems that are transparent, decentralized, and human-alignedâ€”we can create a web that amplifies human creativity rather than exploits it.
 
 For students joining the NANDA Ambassador Program, this is not just about learning technology; **it's about helping to write the next chapter of the Internet's story.** The choices we make now will determine whether the Agentic Web becomes a tool for empowerment or another system of control.
 
@@ -372,4 +372,6 @@ For students joining the NANDA Ambassador Program, this is not just about learni
 
 ---
 
-*Let's build the Internet of Agents — together.*
+*Let's build the Internet of Agents â€” together.*
+
+

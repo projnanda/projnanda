@@ -1,4 +1,4 @@
-# Upgrade or Switch: Do We Need a Next-Gen Trusted Architecture for the Internet of AI Agents?
+﻿# Upgrade or Switch: Do We Need a Next-Gen Trusted Architecture for the Internet of AI Agents?
 
 **Authors:** Ramesh Raskar (MIT), Pradyumna Chari (MIT), Jared James Grogan, Mahesh Lambe (UnifyDynamics), Robert Lincourt (Dell), Raghu Bala (Synergetics AI), Aditi Joshi, Abhishek Singh (MIT), Ayush Chopra (MIT), Rajesh Ranjan (CMU), Shailja Gupta (CMU), Dimitris Stripelis (Flower AI), Maria Gorskikh, Sichao Wang (CISCO)
 
@@ -16,7 +16,7 @@ The web is on the cusp of a profound transformation. Despite advances in automat
 
 Unlike traditional web components that remain idle until triggered by a user or a client issues a request, these AI agents are long-lived, goal-oriented, proactive computational entities with built-in reasoning capabilities that can anticipate needs, take initiative, maintain ongoing state, retain contextual memory and work towards defined goals without constant human direction. AI Agents leverage advanced machine learning models to interpret ambiguous instructions, adapt to changing circumstances, and make context-sensitive decisions within their domain of operation - capabilities that move far beyond the web's traditional, stateless request-response paradigm and exist on a continuum of autonomy.
 
-AI agents, operating with varying degrees of autonomy, are poised to reshape both human–computer interaction and agent-to-agent interaction with digital systems and with each other through digital intermediaries. Figure 1 contrasts today's reactive page/API model with this proactive, memory-driven architecture.
+AI agents, operating with varying degrees of autonomy, are poised to reshape both humanâ€“computer interaction and agent-to-agent interaction with digital systems and with each other through digital intermediaries. Figure 1 contrasts today's reactive page/API model with this proactive, memory-driven architecture.
 
 ![Traditional Web vs Internet of AI Agents](assets/figure1_traditional_vs_agents.png)
 
@@ -32,16 +32,16 @@ AI agents, operating with varying degrees of autonomy, are poised to reshape bot
 | **Lifecycle** | Immutable file; versioned manually | Ephemeral (per-request); no memory between calls | Persistent process / container; maintains long-term state & memory |
 | **Execution context** | Web server, no compute after render | Isolated runtime (e.g., AWS Lambda) spun up per call | Event loop with scheduler, tool-calling sandbox, vector store, policy layer |
 | **State management** | External DB or none | Must externalise state every call | Internal memory + external stores; can self-modify plans |
-| **Autonomy level** | 0 – passive | 1 – reactive | 2-3 – proactive (can set sub-goals, spawn agents) |
-| **Concurrency model** | One request ↔ one response | Many isolated calls; no inter-call coordination | Parallel, asynchronous task graph; may coordinate with peer agents |
+| **Autonomy level** | 0 â€“ passive | 1 â€“ reactive | 2-3 â€“ proactive (can set sub-goals, spawn agents) |
+| **Concurrency model** | One request â†” one response | Many isolated calls; no inter-call coordination | Parallel, asynchronous task graph; may coordinate with peer agents |
 | **Addressing & identity** | DNS + TLS cert bound to domain | Same as static, plus API keys | Needs cryptographic Decentralized Identifiers (Machine Readable Identifiers) and capability attestation; identity may migrate |
 | **Security surface** | XSS, CSRF | Injection, auth bypass | Prompt injection, tool-chain abuse, autonomous exfiltration |
-| **Typical latency budget** | ≥ 100 ms round-trip (human perception threshold) | 10-100 ms service-to-service RPC | Internal loop: < 250 ms; External goal fulfilment: 0.25–3 s (LLM inference + network) |
+| **Typical latency budget** | â‰¥ 100 ms round-trip (human perception threshold) | 10-100 ms service-to-service RPC | Internal loop: < 250 ms; External goal fulfilment: 0.25â€“3 s (LLM inference + network) |
 | **Failure semantics** | 404 / 5xx | Retry logic | Must handle goal re-planning, degraded tools, dynamic trust revocation |
 
 ## A Primer on WWW Architecture and Hierarchy
 
-Today's web stack hinges on four interlocking layers—DNS, WHOIS, IP addressing, and Certificate Authorities—each optimised for human-initiated traffic.
+Today's web stack hinges on four interlocking layersâ€”DNS, WHOIS, IP addressing, and Certificate Authoritiesâ€”each optimised for human-initiated traffic.
 
 ### Domain Name System (DNS)
 The Domain Name System (DNS) is a globally distributed, hierarchical namespace which maps human-readable domain names to machine-readable IP addresses. This system provides globally unique identifiers for websites, a hierarchical namespace structure (root, top-level domains, second-level domains), distributed management through multiple registrars, and resolution services with propagation times typically measured in hours.
@@ -55,7 +55,7 @@ IP Addressing provides unique identifiers for devices connected to the internet.
 ### Certificate Authorities
 Certificate Authorities issue digital certificates that authenticate website identities and enable secure communication. They validate domain ownership, issue certificates with expiration dates, maintain certificate revocation lists, and operate at human-oriented speeds and verification levels.
 
-## Lessons from Dial-up → Broadband
+## Lessons from Dial-up â†’ Broadband
 
 The transition from dialup to broadband internet provides valuable insights into how we might approach the shift to the Internet of AI agents. When the internet was first commercialized, existing telephone infrastructure seemed like a natural fit - it already connected most homes and businesses. However, as internet usage evolved, fundamental limitations of dial-up became apparent.
 
@@ -65,7 +65,7 @@ Dialup's limitations (max 56 kbps downstream vs. >1Mbps early DSL) revealed the 
 
 ### How We Dealt with Known Unknowns
 
-Engineers could plainly see that dial-up's 56 kbps ceiling and ≈ 200 ms modem latency would strangle bandwidth-hungry, interactive apps. So they designed last-mile upgrades—DSL, cable, then fiber—that offered > 1 Mbps downstream and sub-30 ms RTTs while staying 'always-on.'
+Engineers could plainly see that dial-up's 56 kbps ceiling and â‰ˆ 200 ms modem latency would strangle bandwidth-hungry, interactive apps. So they designed last-mile upgradesâ€”DSL, cable, then fiberâ€”that offered > 1 Mbps downstream and sub-30 ms RTTs while staying 'always-on.'
 
 ### How We Prevented Unknown Unknowns
 
@@ -76,7 +76,7 @@ The move to packet-switched, layered networks with TCP/IP created a flexible fou
 When the Web is described as moving "from web pages to agents," it is easy to imagine a sudden, binary leap. In practice the evolution is gradual, and most of the infrastructure we rely on today was stretched, sometimes painfully, at each intermediate step.
 
 ### 1. Endpoints: The Stateless Web
-The original Web exposed static endpoints—HTML files, images, style sheets and, later, simple CGI scripts. A user (or crawler) made an explicit request, the server returned a byte stream, and the conversation ended.
+The original Web exposed static endpointsâ€”HTML files, images, style sheets and, later, simple CGI scripts. A user (or crawler) made an explicit request, the server returned a byte stream, and the conversation ended.
 
 ### 2. Services: Always-On APIs
 The next layer of capability arrived when businesses wrapped their databases in REST and GraphQL services. Now machines, not just humans, were first-class clients, and data mutated continuously rather than on release nights.
@@ -95,7 +95,7 @@ At this stage three new thresholds appear:
 
 ## Challenges in Scaling
 
-As we consider the transition to an Internet of AI Agents, three categories of scaling challenges emerge: addressing & routing, real-time trust propagation, and governance—each a critical 'crossover point' where legacy web systems begin to fail.
+As we consider the transition to an Internet of AI Agents, three categories of scaling challenges emerge: addressing & routing, real-time trust propagation, and governanceâ€”each a critical 'crossover point' where legacy web systems begin to fail.
 
 ### Known Unknowns
 
@@ -180,7 +180,7 @@ The transition to the Internet of AI agents represents a fundamental shift compa
 
 The history of technology transitions suggests that hybrid approaches often emerge during periods of rapid change. We may see centralized registries for critical agents alongside decentralized systems for specialized agents, with bridge protocols enabling interoperability.
 
-Rather than simply extending human-oriented web infrastructure, we have an opportunity to design systems specifically for agent-to-agent interactions, potentially unlocking entirely new categories of applications and services. Whether through upgrade or switch—or most likely, some combination of both—the architecture for the Internet of AI agents will be a critical foundation for the next era of digital innovation.
+Rather than simply extending human-oriented web infrastructure, we have an opportunity to design systems specifically for agent-to-agent interactions, potentially unlocking entirely new categories of applications and services. Whether through upgrade or switchâ€”or most likely, some combination of bothâ€”the architecture for the Internet of AI agents will be a critical foundation for the next era of digital innovation.
 
 ---
 
@@ -218,4 +218,5 @@ Rather than simply extending human-oriented web infrastructure, we have an oppor
 
 ---
 
-*© 2025 Project NANDA. This work is licensed under the MIT License.* 
+*Â© 2025 Project NANDA. This work is licensed under the MIT License.* 
+

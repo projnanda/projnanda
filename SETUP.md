@@ -1,4 +1,4 @@
-# NANDA Documentation Setup
+﻿# NANDA Documentation Setup
 
 This documentation site uses [Docsify](https://docsify.js.org/) to create a lightweight, clean documentation experience similar to GitHub's docs.
 
@@ -25,13 +25,13 @@ This documentation site uses [Docsify](https://docsify.js.org/) to create a ligh
 
 ```
 .
-├── index.html          # Main HTML file with Docsify config
-├── README.md           # Home page content
-├── _sidebar.md         # Navigation sidebar
-├── _navbar.md         # Top navigation bar
-├── _coverpage.md      # Landing page cover
-├── quickstart.md      # Quick start guide
-└── package.json      # Node.js configuration
+â”œâ”€â”€ index.html          # Main HTML file with Docsify config
+â”œâ”€â”€ README.md           # Home page content
+â”œâ”€â”€ _sidebar.md         # Navigation sidebar
+â”œâ”€â”€ _navbar.md         # Top navigation bar
+â”œâ”€â”€ _coverpage.md      # Landing page cover
+â”œâ”€â”€ quickstart.md      # Quick start guide
+â””â”€â”€ package.json      # Node.js configuration
 ```
 
 ## Customization
@@ -69,13 +69,13 @@ This documentation site uses [Docsify](https://docsify.js.org/) to create a ligh
 
 ## Features
 
-- ✅ Responsive design
-- ✅ Search functionality
-- ✅ Syntax highlighting for code blocks
-- ✅ GitHub integration
-- ✅ Clean, minimal styling
-- ✅ Fast loading (no build step)
-- ✅ SEO friendly
+- âœ… Responsive design
+- âœ… Search functionality
+- âœ… Syntax highlighting for code blocks
+- âœ… GitHub integration
+- âœ… Clean, minimal styling
+- âœ… Fast loading (no build step)
+- âœ… SEO friendly
 
 ## Contributing
 
@@ -89,3 +89,4 @@ For major changes, please open an issue first to discuss.
 ## License
 
 MIT License - feel free to use this setup for your own documentation projects. 
+

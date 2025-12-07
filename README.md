@@ -1,9 +1,9 @@
-<div align="center">
+﻿<div align="center">
 
 # Project NANDA
 ### Building the Internet of AI Agents
 
-> **The future isn't just AI — it's trillions of AI agents collaborating across the open web securely.**
+> **The future isn't just AI â€” it's trillions of AI agents collaborating across the open web securely.**
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
@@ -16,11 +16,11 @@
 
 ## What is Project NANDA?
 
-**​​​Project NANDA** (Networked AI Agents in Decentralized Architecture) which originated at MIT aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus driven innovation: 'DNS', 'CA', 'Orchestration', and 'Attestation'.
+**â€‹â€‹â€‹Project NANDA** (Networked AI Agents in Decentralized Architecture) which originated at MIT aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus driven innovation: 'DNS', 'CA', 'Orchestration', and 'Attestation'.
 
-**​​​Project NANDA** is pioneering the foundational infrastructure for the Internet of AI Agents — enabling autonomous systems to interact, transact, and collaborate seamlessly.
+**â€‹â€‹â€‹Project NANDA** is pioneering the foundational infrastructure for the Internet of AI Agents â€” enabling autonomous systems to interact, transact, and collaborate seamlessly.
 
-​​​**​​​Project NANDA**  employs a three-pronged approach: 
+â€‹â€‹â€‹**â€‹â€‹â€‹Project NANDA**  employs a three-pronged approach: 
 
   (i) Technology: Building technology, standards, and reference implementations through a collective of top minds. 
   
@@ -28,7 +28,7 @@
   
   (iii) Venture Ecosystem: Fostering a wide coalition of founders and investors.
 
-Project ​​​​NANDA's development draws on proven MIT research in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
+Project â€‹â€‹â€‹â€‹NANDA's development draws on proven MIT research in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
 
 ### Project Impact
 * **6000+** Community Members
@@ -80,8 +80,8 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 ## Media Coverage
 
-* [**Forbes:** Line Up and Identify Yourselves — AI Agents Get Organized with NANDA](https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/)
-* [**Forbes:** Make a Decentralized Internet with AI — NANDA Is Coming](https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/)
+* [**Forbes:** Line Up and Identify Yourselves â€” AI Agents Get Organized with NANDA](https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/)
+* [**Forbes:** Make a Decentralized Internet with AI â€” NANDA Is Coming](https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/)
 * [**LinkedIn:** NANDA: The Internet of AI Agents (Ramesh Raskar)](https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve)
 
 ---
@@ -109,8 +109,10 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 
 <div align="center">
 
-**Made with ♥ by the NANDA Community**
+**Made with â™¥ by the NANDA Community**
 
 *Building the Open Agentic Web*
 
 </div>
+
+

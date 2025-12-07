@@ -1,4 +1,4 @@
-<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 300px; margin-bottom: 20px;">
+﻿<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 300px; margin-bottom: 20px;">
 
 <small>v1.0</small>
 
@@ -15,3 +15,5 @@ Open, vendor-neutral protocol for intelligent agent communications. NANDA provid
 <!-- background color -->
 
 ![color](#f8f9fa)
+
+

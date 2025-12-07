@@ -1,7 +1,9 @@
-<div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 8px 14px; background: #ffffff; border-bottom: 1px solid #f0f0f0;">
+﻿<div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px; padding: 8px 14px; background: #ffffff; border-bottom: 1px solid #f0f0f0;">
   <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" style="width: 28px; height: 28px; border-radius: 50%; background: #ff0000; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; text-decoration: none; font-size: 12px;" aria-label="YouTube">YT</a>
   <a href="https://discord.gg/BxnPBEqd88" target="_blank" style="width: 28px; height: 28px; border-radius: 50%; background: #5865f2; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; text-decoration: none; font-size: 12px;" aria-label="Discord">D</a>
   <a href="https://www.linkedin.com/company/projectnanda/" target="_blank" style="width: 28px; height: 28px; border-radius: 50%; background: #0a66c2; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; text-decoration: none; font-size: 12px;" aria-label="LinkedIn">in</a>
   <a href="https://arxiv.org/abs/2507.14263" target="_blank" style="width: 28px; height: 28px; border-radius: 50%; background: #b31b1b; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; text-decoration: none; font-size: 12px;" aria-label="arXiv">ax</a>
   <a href="https://github.com/projnanda" target="_blank" style="width: 28px; height: 28px; border-radius: 50%; background: #000; display: inline-flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; text-decoration: none; font-size: 12px;" aria-label="GitHub">GH</a>
 </div>
+
+

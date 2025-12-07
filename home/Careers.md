@@ -1,4 +1,4 @@
-# Careers -> FAN Fellowships
+﻿# Careers -> FAN Fellowships
 
 All opportunities are now consolidated on the FAN Fellowships page.
 
@@ -7,3 +7,5 @@ All opportunities are now consolidated on the FAN Fellowships page.
 - Sponsor-led cohorts and the flagship FAN Core Fellowship
 
 **Go to the new page:** [FAN Fellowships](./fellowship.md)
+
+

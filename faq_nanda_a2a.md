@@ -1,4 +1,4 @@
-# NANDA Index FAQ: Contextualizing with Linux Foundation Agent2Agent Project
+﻿# NANDA Index FAQ: Contextualizing with Linux Foundation Agent2Agent Project
 
 In the context of the recent Linux Foundation Agent2Agent (A2A) project announcement and the broader landscape of agentic AI interoperability, here are some common questions about the NANDA Index - the lightweight index system for agent discovery.
 
@@ -98,9 +98,11 @@ No, they are complementary layers:
 
 > *"We're proud to support Project Nanda's work as they utilize the Agent2Agent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."*
 
-**— Rao Surapaneni**  
+**â€” Rao Surapaneni**  
 *VP and GM Business Application Platform*  
 *Google A2A*
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="120" height="40">
 ---
+
+
