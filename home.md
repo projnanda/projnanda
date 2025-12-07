@@ -244,126 +244,124 @@
     <div style="width: 110px; height: 60px; display: flex; align-items: center; justify-content: center; background: #fff; border: 1px solid #e2e5eb; border-radius: 10px; padding: 10px;"><img src="assets/companylogos/westwave_logo.svg" alt="WestWave Capital" style="max-height: 40px; max-width: 90px; object-fit: contain;"></div>
   </div>
 </div><style>
-  .nanda-stats-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 24px;
-    margin: 50px 0;
-    text-align: center;
+  .nanda-metrics-wrap {
+    position: relative;
+    margin: 48px 0;
+    padding: 16px 0 4px;
     font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   }
-
-@media (max-width: 900px) {
-.nanda-stats-grid {
-grid-template-columns: repeat(2, 1fr);
-}
-}
-
-@media (max-width: 500px) {
-.nanda-stats-grid {
-grid-template-columns: 1fr;
-}
-}
-
-.nanda-stat-item {
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center;
-padding: 30px 20px;
-background: #ffffff;
-border: 2px solid var(--nanda-yellow);
-border-radius: 16px;
-transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-box-shadow: 0 4px 20px rgba(217, 221, 229, 0.2);
-}
-
-.nanda-stat-item:hover {
-transform: translateY(-8px);
-box-shadow: 0 15px 40px rgba(217, 221, 229, 0.4);
-border-color: var(--nanda-black);
-background: linear-gradient(135deg, #f7f9fc, #ffffff);
-}
-
-.stat-number {
-font-size: 3.2rem;
-font-weight: 700;
-color: var(--nanda-black);
-line-height: 1;
-margin-bottom: 12px;
-letter-spacing: -1.5px;
-}
-
-.stat-label {
-font-size: 0.95rem;
-font-weight: 600;
-color: var(--nanda-yellow-dark);
-margin-bottom: 6px;
-text-transform: uppercase;
-letter-spacing: 1.2px;
-}
-
-.stat-sub {
-font-size: 0.85rem;
-color: #555555;
-line-height: 1.5;
-font-weight: 400;
-}
+  .nanda-metrics-wrap::before {
+    content: "";
+    position: absolute;
+    inset: -8% 4%;
+    background:
+      radial-gradient(1200px 700px at 15% 20%, rgba(248, 250, 253, 0.9), rgba(240, 243, 247, 0)),
+      radial-gradient(900px 600px at 82% 18%, rgba(216, 221, 229, 0.7), rgba(216, 221, 229, 0)),
+      linear-gradient(135deg, #f7f9fc, #e6eaf1 50%, #cdd3de);
+    border-radius: 32px;
+    filter: blur(6px);
+    z-index: 0;
+    opacity: 0.9;
+  }
+  .nanda-metrics-grid {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+  }
+  .metric-card {
+    position: relative;
+    overflow: hidden;
+    padding: 22px 20px;
+    border-radius: 18px;
+    background: linear-gradient(145deg, #ffffff, #f4f6fa);
+    border: 1px solid #e2e5eb;
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.7);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  .metric-card::after {
+    content: "";
+    position: absolute;
+    top: -35%;
+    right: -20%;
+    width: 160px;
+    height: 160px;
+    background: radial-gradient(circle, rgba(216, 221, 229, 0.55), rgba(216, 221, 229, 0));
+    transform: rotate(18deg);
+  }
+  .metric-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 48px rgba(0, 0, 0, 0.16);
+  }
+  .metric-number {
+    font-size: 2.8rem;
+    font-weight: 800;
+    color: #000;
+    letter-spacing: -1px;
+    margin: 0 0 8px 0;
+  }
+  .metric-label {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #111;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    margin: 0 0 6px 0;
+  }
+  .metric-sub {
+    font-size: 0.9rem;
+    color: #333;
+    margin: 0;
+    line-height: 1.5;
+    font-weight: 500;
+  }
 </style>
 
-<div class="nanda-stats-grid">
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">6000+</div>
-    <div class="stat-label">Community Members</div>
-    <div class="stat-sub">Global Network Participants</div>
+<div class="nanda-metrics-wrap">
+  <div class="nanda-metrics-grid">
+    <div class="metric-card">
+      <div class="metric-number">6000+</div>
+      <div class="metric-label">Community Members</div>
+      <div class="metric-sub">Global Network Participants</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">61</div>
+      <div class="metric-label">Collaborations</div>
+      <div class="metric-sub">Leading Organizations</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">15+</div>
+      <div class="metric-label">Papers</div>
+      <div class="metric-sub">Research Publications</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">50+</div>
+      <div class="metric-label">Webinars</div>
+      <div class="metric-sub">Education Sessions</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">12</div>
+      <div class="metric-label">Hackathons</div>
+      <div class="metric-sub">Innovation Challenges</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">100+</div>
+      <div class="metric-label">Speakers</div>
+      <div class="metric-sub">Industry Experts</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">75+</div>
+      <div class="metric-label">Projects</div>
+      <div class="metric-sub">Active Initiatives</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">18</div>
+      <div class="metric-label">Locations</div>
+      <div class="metric-sub">Global Chapters</div>
+    </div>
   </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">61</div>
-    <div class="stat-label">Collaborations</div>
-    <div class="stat-sub">Leading Organizations</div>
-  </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">15+</div>
-    <div class="stat-label">Papers</div>
-    <div class="stat-sub">Research Publications</div>
-  </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">50+</div>
-    <div class="stat-label">Webinars</div>
-    <div class="stat-sub">Education Sessions</div>
-  </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">12</div>
-    <div class="stat-label">Hackathons</div>
-    <div class="stat-sub">Innovation Challenges</div>
-  </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">100+</div>
-    <div class="stat-label">Speakers</div>
-    <div class="stat-sub">Industry Experts</div>
-  </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">75+</div>
-    <div class="stat-label">Projects</div>
-    <div class="stat-sub">Active Initiatives</div>
-  </div>
-
-  <div class="nanda-stat-item">
-    <div class="stat-number">18</div>
-    <div class="stat-label">Locations</div>
-    <div class="stat-sub">Global Chapters</div>
-  </div>
-
 </div>
-
-<div align="center">
 
 ## Research & Publications
 
