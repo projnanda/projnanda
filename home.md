@@ -1,4 +1,4 @@
-﻿<div style="margin: 0 0 32px 0; padding: 0;">
+<div style="margin: 0 0 32px 0; padding: 0;">
 
   <!-- Logo and Headline -->
   <div style="display: flex; align-items: center; gap: 26px; margin-bottom: 18px; flex-wrap: wrap; position: relative; z-index: 1;">
@@ -20,20 +20,20 @@
     margin-top: 8px;
     box-shadow: 0 12px 34px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255,255,255,0.08);">
     <p style="font-size: 1.3rem; font-weight: 700; color: #000; margin: 0; line-height: 1.6; text-align: center;">
-      The future isn't just AI — it's <strong style="color: #000;">trillions of AI agents</strong> collaborating across the open web, securely.
+      The future isn't just AI - it's <strong style="color: #000;">trillions of AI agents</strong> collaborating across the open web, securely.
     </p>
   </div>
 
 </div>
 
-## What is Project NANDA?
+## What is Project NANDA
 
 <div style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border-left: 5px solid var(--nanda-yellow); padding: 30px 40px; border-radius: 12px; margin: 30px 0; box-shadow: 0 4px 20px rgba(217, 221, 229, 0.15);">
   <p style="font-size: 1.2rem; font-weight: 600; color: var(--nanda-black); margin: 0 0 20px 0; line-height: 1.6;">
-    Project NANDA is architecting the foundational infrastructure for the <strong style="color: var(--nanda-yellow-dark);">Open Agentic Web</strong>.
+    Project NANDA is architecting the foundational infrastructure for the <strong style="color: #FFD700;text-decoration: underline;">Open Agentic Web</strong>.
   </p>
   <p style="font-size: 1.05rem; color: #2c3e50; margin: 0; line-height: 1.7; font-style: italic;">
-    We are solving the core challenge of the next decade: <strong>How can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities?</strong>
+    We are solving the core challenge of the next decade: <strong>How can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities.</strong>
   </p>
 </div>
 
@@ -49,7 +49,7 @@
     <div style="background: linear-gradient(135deg, #d8dde5, #a7adb8); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(217, 221, 229, 0.3);">Attestation</div>
   </div>
   <p style="color: #2c3e50; line-height: 1.8; margin-top: 25px;">
-    We are pioneering the foundational infrastructure for the Internet of AI Agents â€” enabling autonomous systems to <strong>interact, transact, and collaborate seamlessly</strong>.
+    We are pioneering the foundational infrastructure for the Internet of AI Agents - enabling autonomous systems to <strong>interact, transact, and collaborate seamlessly</strong>.
   </p>
 </div>
 
@@ -381,7 +381,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 | Paper Title                                                                            | Description                                                                                                                  | Links                                                                                                                               |
 | :------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| <strong>Towards Sandboxes for the Internet of Agents</strong>                          | Proposes a network of domain-specialized sandboxes to verify agent capabilities via signed, replayable attestations.         | [![SSRN](https://img.shields.io/badge/SSRN-Abstract%205801322-194175)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5801322) |
+| <strong>Towards Sandboxes for the Internet of Agents</strong>                          | Proposes a network of domain-specialized sandboxes to verify agent capabilities via signed, replayable attestations.         | [![SSRN](https://img.shields.io/badge/SSRN-Abstract%205801322-194175)](https://papers.ssrn.com/sol3/papers.cfm-abstract_id=5801322) |
 | <strong>Collaborative Agentic AI Needs Interoperability Across Ecosystems</strong>     | Proposes "Web of Agents," a minimal architectural foundation to ensure interoperability and prevent ecosystem fragmentation. | [![arXiv](https://img.shields.io/badge/arXiv-2505.21550-B31B1B)](https://arxiv.org/abs/2505.21550)                                  |
 | <strong>The Iceberg Index: Measuring Workforce Exposure Across the AI Economy</strong> | Introduces the Iceberg Index using Large Population Models to measure workforce exposure to AI based on underlying skills.   | [![arXiv](https://img.shields.io/badge/arXiv-2510.25137-B31B1B)](https://arxiv.org/abs/2510.25137)                                  |
 | <strong>Ripple Effect Protocol: Coordinating Agent Populations</strong>                | Introduces a protocol enabling faster agent coordination by sharing decision sensitivities alongside choices.                | [![arXiv](https://img.shields.io/badge/arXiv-2510.16572-B31B1B)](https://arxiv.org/abs/2510.16572)                                  |
@@ -589,61 +589,61 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Ramesh Raskar.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Ramesh Raskar</strong><br>Professor & Founder<br><em>MIT & Project NANDA</em><br><a href="https://youtu.be/yXxHb3LMygw?si=BTKbSOqJX53dsfJm" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Ramesh Raskar</strong><br>Professor & Founder<br><em>MIT & Project NANDA</em><br><a href="https://youtu.be/yXxHb3LMygw-si=BTKbSOqJX53dsfJm" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/John Roese.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>John Roese</strong><br>Global CTO & Chief AI Officer<br><em>Dell Technologies</em><br><a href="https://youtu.be/WJ3xGAKqmGs?si=FM1CL7LCF8JYninQ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>John Roese</strong><br>Global CTO & Chief AI Officer<br><em>Dell Technologies</em><br><a href="https://youtu.be/WJ3xGAKqmGs-si=FM1CL7LCF8JYninQ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Guha.jpg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>R.V. Guha</strong><br>Tech Fellow & Creator<br><em>Microsoft & NLWeb</em><br><a href="https://www.youtube.com/watch?v=P0YKIRD8eQk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>R.V. Guha</strong><br>Tech Fellow & Creator<br><em>Microsoft & NLWeb</em><br><a href="https://www.youtube.com/watch-v=P0YKIRD8eQk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Jessica Rosenworcel.jpg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Jessica Rosenworcel</strong><br>Former Chair<br><em>FCC</em><br><a href="https://youtu.be/qQebYJcITno?si=WQxczwmsewHo9x67" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Jessica Rosenworcel</strong><br>Former Chair<br><em>FCC</em><br><a href="https://youtu.be/qQebYJcITno-si=WQxczwmsewHo9x67" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Peeyush Aggarwal.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Peeyush Aggarwal</strong><br>Partner<br><em>Deloitte UK</em><br><a href="https://youtu.be/ne-ErV-UJOTc?si=7YvBSq3zrPFSC4_N" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Peeyush Aggarwal</strong><br>Partner<br><em>Deloitte UK</em><br><a href="https://youtu.be/ne-ErV-UJOTc-si=7YvBSq3zrPFSC4_N" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Nick Cooper.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Nick Cooper</strong><br>Member of Technical Staff<br><em>OpenAI</em><br><a href="https://youtu.be/S2ksXKHbOUU?si=fEQcgaPe5pyWTT4k" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Nick Cooper</strong><br>Member of Technical Staff<br><em>OpenAI</em><br><a href="https://youtu.be/S2ksXKHbOUU-si=fEQcgaPe5pyWTT4k" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/pradyumna.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Pradyumna Chari</strong><br>Decentralized AI<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch?v=R8ukwg1V1SU" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Pradyumna Chari</strong><br>Decentralized AI<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch-v=R8ukwg1V1SU" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/maheshlambe.png" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Mahesh Lambe</strong><br>Project NANDA<br><em>Unify Dynamics</em><br><a href="https://www.youtube.com/watch?v=RD9ANgSvSZE" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Mahesh Lambe</strong><br>Project NANDA<br><em>Unify Dynamics</em><br><a href="https://www.youtube.com/watch-v=RD9ANgSvSZE" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Todd Segal.png" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Todd Segal</strong><br>Principal Software Engineer<br><em>Google</em><br><a href="https://youtu.be/_a1yVB04OLk?si=_LXtgOusUILsz-EX" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Todd Segal</strong><br>Principal Software Engineer<br><em>Google</em><br><a href="https://youtu.be/_a1yVB04OLk-si=_LXtgOusUILsz-EX" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Ashish Bhatia.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Ashish Bhatia</strong><br>Senior Product Manager<br><em>Audible</em><br><a href="https://youtu.be/szO2nzV4ezY?si=KUbWiNxrVNejgaxL" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Ashish Bhatia</strong><br>Senior Product Manager<br><em>Audible</em><br><a href="https://youtu.be/szO2nzV4ezY-si=KUbWiNxrVNejgaxL" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -655,19 +655,19 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Rakesh Gohel.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Rakesh Gohel</strong><br>Founder<br><em>JUTEQ</em><br><a href="https://youtu.be/_FxSpIXxT_w?si=sAJE1-fdtGRtZRiT" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Rakesh Gohel</strong><br>Founder<br><em>JUTEQ</em><br><a href="https://youtu.be/_FxSpIXxT_w-si=sAJE1-fdtGRtZRiT" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/John Zinky.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>John Zinky</strong><br>Principal Performance Engineer<br><em>Akamai</em><br><a href="https://youtu.be/6VpiZAJ9MKw?si=SmPc7AHfFrwVtyzk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>John Zinky</strong><br>Principal Performance Engineer<br><em>Akamai</em><br><a href="https://youtu.be/6VpiZAJ9MKw-si=SmPc7AHfFrwVtyzk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Samuel Saraf.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Samuel Saraf</strong><br>Senior Director, Product Mgmt<br><em>Salesforce</em><br><a href="https://youtu.be/APL5nsd4cnU?si=qgugqAkULNtPVpqZ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Samuel Saraf</strong><br>Senior Director, Product Mgmt<br><em>Salesforce</em><br><a href="https://youtu.be/APL5nsd4cnU-si=qgugqAkULNtPVpqZ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -739,7 +739,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/chrispease.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Chris Pease</strong><br>Founder & CEO<br><em>AgentiCorp</em><br><a href="https://www.youtube.com/watch?v=jIHiMkOcQ0s" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Chris Pease</strong><br>Founder & CEO<br><em>AgentiCorp</em><br><a href="https://www.youtube.com/watch-v=jIHiMkOcQ0s" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -871,19 +871,19 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/maria.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Maria Gorskikh</strong><br>Research<br><em>MIT</em><br><a href="https://www.youtube.com/watch?v=1M8rInGBhvc" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Maria Gorskikh</strong><br>Research<br><em>MIT</em><br><a href="https://www.youtube.com/watch-v=1M8rInGBhvc" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="https://dummyimage.com/100x100/fff7d1/000000&text=AC" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);" alt="Ayush Chopra placeholder">
-      <div class="speaker-card-text"><strong>Ayush Chopra</strong><br>Researcher & Builder<br><em>Project NANDA</em><br><a href="https://www.youtube.com/watch?v=liae1oF9RAg" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Ayush Chopra</strong><br>Researcher & Builder<br><em>Project NANDA</em><br><a href="https://www.youtube.com/watch-v=liae1oF9RAg" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="https://dummyimage.com/100x100/fff7d1/000000&text=RL" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);" alt="Raymond Lio placeholder">
-      <div class="speaker-card-text"><strong>Raymond Lio</strong><br>Founder & Managing Director<br><em>Samsung NEXT Ventures</em><br><a href="https://www.youtube.com/watch?v=i1L32XDRG5o" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Raymond Lio</strong><br>Founder & Managing Director<br><em>Samsung NEXT Ventures</em><br><a href="https://www.youtube.com/watch-v=i1L32XDRG5o" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -919,7 +919,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/pattiemaes.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Prof. Pattie Maes</strong><br>Software Agents<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch?v=SA3n2o5q07c" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Prof. Pattie Maes</strong><br>Software Agents<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch-v=SA3n2o5q07c" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -1063,7 +1063,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/vijayreddy.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Vijay Reddy</strong><br>Partner<br><em>Mayfield Ventures</em><br><a href="https://www.youtube.com/watch?v=0xDeDcx3fkA" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Vijay Reddy</strong><br>Partner<br><em>Mayfield Ventures</em><br><a href="https://www.youtube.com/watch-v=0xDeDcx3fkA" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -1092,7 +1092,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 - [**Intro to NANDA** (YouTube)](https://www.youtube.com/watch?v=jlcO19XyQ1I)
 - [**NANDA Demo** (YouTube)](https://www.youtube.com/watch?v=-S51FOnqF0o)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT819iZm15T-AGmNQl4b4kQd0t2q4_vKHocvoy5ohV3SI0qWmfhKzwf4YdSxCLTEA/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT819iZm15T-AGmNQl4b4kQd0t2q4_vKHocvoy5ohV3SI0qWmfhKzwf4YdSxCLTEA/pubembed-start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
   
 </div>
 
@@ -1102,120 +1102,41 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 We believe the web must evolve from static content to autonomous actors. **Join us in building the next layer of the web.**
 
-### How to Engage
-
-<style>
-  .engage-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 24px;
-    margin: 40px 0;
-  }
-
-  .engage-card {
-      display: flex;
-      flex-direction: column;
-      text-decoration: none !important;
-      color: inherit !important;
-      background: #ffffff;
-      border: 2px solid var(--nanda-yellow);
-      padding: 25px;
-      border-radius: 16px;
-      transition: all 0.3s ease;
-      text-align: left;
-      box-shadow: 0 5px 20px rgba(217, 221, 229, 0.2);
-  }
-
-  .engage-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 12px 35px rgba(217, 221, 229, 0.4);
-      border-color: var(--nanda-black);
-      background: linear-gradient(135deg, #f7f9fc, #ffffff);
-  }
-
-  .engage-title {
-      font-weight: 700;
-      font-size: 1.2rem;
-      color: var(--nanda-black);
-      margin-bottom: 8px;
-  }
-
-  .engage-text {
-      font-size: 0.95rem;
-      color: #555555;
-      line-height: 1.6;
-  }
-</style>
-
-<div class="engage-grid">
-  <a href="https://discord.gg/BxnPBEqd88" class="engage-card">
-    <div class="engage-title">Discord</div>
-    <div class="engage-text">For technical discussions and community chat.</div>
-  </a>
-  
-  <a href="https://Lu.Ma/nanda" class="engage-card">
-    <div class="engage-title">Events (Lu.ma)</div>
-    <div class="engage-text">Join our weekly webinars and summits.</div>
-  </a>
-
-  <a href="https://github.com/projnanda" class="engage-card">
-    <div class="engage-title">GitHub</div>
-    <div class="engage-text">Explore our code and repositories.</div>
-  </a>
-
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" class="engage-card">
-    <div class="engage-title">FAN Fellowship</div>
-    <div class="engage-text">Applications are open.</div>
-  </a>
-<!--
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform" class="engage-card">
-    <div class="engage-title">Tresata Fellowship</div>
-    <div class="engage-text">Apply for paid roles.</div>
-  </a>
-  <a href="https://www.linkedin.com/jobs/view/4260498540/" class="engage-card">
-    <div class="engage-title">Radius Fellowship</div>
-    <div class="engage-text">Apply for paid roles.</div>
-  </a>
- -->
-</div>
-
----
-
 ### Selected Talks & Resources
 
-- [**Infrastructure for the Internet of AI Agents**](https://www.youtube.com/watch?v=jlcO19XyQ1I) <br>
-  **MIT IIA** â€” _Index & Vision_
+- [**Infrastructure for the Internet of AI Agents**](https://www.youtube.com/watch?v=jlcO19XyQ1I)<br>
+  **MIT IIA** - _Index & Vision_
 
-- [**Agent-to-Agent (A2A) Protocol Standard**](https://www.youtube.com/watch?v=_4oBITv0hbs)<br>
-  **Rao Surapaneni (VP Google Cloud)** â€” _NANDA Summit 2025_
+- [**Agent-to-Agent (A2A) Protocol Standard**](https://www.youtube.com/watch?v=4oBITv0hbs)<br>
+  **Rao Surapaneni (VP Google Cloud)** - _NANDA Summit 2025_
 
 - [**Composable MCP: Emergent Properties of Agent Tooling**](https://www.youtube.com/watch?v=S2ksXKHbOUU)<br>
-  **Nick Cooper (OpenAI)** â€” _Model Context Protocol_
+  **Nick Cooper (OpenAI)** - _Model Context Protocol_
 
 - [**Reflections on the History of Autonomous Software Agents**](https://www.youtube.com/watch?v=SA3n2o5q07c)<br>
   **Prof. Pattie Maes - Mother of Software Agents** - _NANDA Summit 2025_
 
 - [**Decentralized AI: The Four Pillars of Trust**](https://www.youtube.com/watch?v=SSSffQsbFo4)<br>
-  **MIT Horizon** â€” _Privacy-Preserving Machine Learning_
+  **MIT Horizon** - _Privacy-Preserving Machine Learning_
 
-- [**The Dawn of the Agent Economy: From Intranet to Internet of AI Agents**](https://www.youtube.com/watch?v=s1KdGo2_8Lo&pp=ygUNcmFtZXNoIHJhc2thcg%3D%3D)<br>
-  **Prof. Ramesh Raskar** â€” _MIT Media Lab_
+- [**The Dawn of the Agent Economy: From Intranet to Internet of AI Agents**](https://www.youtube.com/watch?v=s1KdGo2_8Lo)<br>
+  **Prof. Ramesh Raskar** - _MIT Media Lab_
 
 - [**Cognitive Architectures: The Secret to Intelligence (Brains vs. AI)**](https://www.youtube.com/watch?v=zdm6pkW15pE&t=368s)<br>
-  **Prof. Ramesh Raskar** â€” _Inner Cosmos Podcast_
+  **Prof. Ramesh Raskar** - _Inner Cosmos Podcast_
 
 - [**Networked AI Agents in Decentralized Architectures**](https://www.youtube.com/watch?v=k85IJfbRmXo)<br>
-  **Prof. Ramesh Raskar** â€” _ADIA Lab Symposium 2025_
+  **Prof. Ramesh Raskar** - _ADIA Lab Symposium 2025_
 
 - [**Agent Safety Protocols: Child Safety in the Age of AI Toys**](https://www.youtube.com/watch?v=cf_PQKaaYW4)<br>
-  **Chris Aw & Prof. Ramesh Raskar** â€” _Governance & Ethics_
+  **Chris Aw & Prof. Ramesh Raskar** - _Governance & Ethics_
 
 ### Prior Work
 
-- [Decentralized AI](https://youtu.be/RXs6saNBnAE?si=fQIPkDJ4rxfBBel0)
-- [No Peek Privacy](https://youtu.be/BEav6MIjmyk?si=q89DFaDybvEc0d8p)
+- [Decentralized AI](https://youtu.be/RXs6saNBnAE-si=fQIPkDJ4rxfBBel0)
+- [No Peek Privacy](https://youtu.be/BEav6MIjmyk-si=q89DFaDybvEc0d8p)
 - [Apple Workshop on Machine Learning for Health: Web3 and Decentralized AI (DecAI)](https://machinelearning.apple.com/video/web3-decai)
-- [Target AI Video](https://youtu.be/nqJySV2LQGw?si=oeEwu4NjvSrfcy_M)
+- [Target AI Video](https://youtu.be/nqJySV2LQGw-si=oeEwu4NjvSrfcy_M)
 
 ---
 
@@ -1223,36 +1144,38 @@ We believe the web must evolve from static content to autonomous actors. **Join 
   <div style="font-weight: 800; font-size: 1.1rem; color: #000; margin-bottom: 8px;">Keep the Momentum Going</div>
   <p style="color: #444; margin: 0 0 16px 0; line-height: 1.5; font-size: 0.97rem;">Pick a path and re-engage with the team, the research, or the builds happening right now.</p>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">FAN Fellowships â€” Apply</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">FAN Fellowships - Apply</a>
     <a href="https://projnanda.github.io/projnanda/#/./home/7.researchcontribution" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Research Lab</a>
     <a href="https://projnanda.github.io/projnanda/#/./home/3.protocol%20interoperability" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Protocols</a>
     <a href="https://projnanda.github.io/projnanda/#/./home/13.NANDAIndex" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">NANDA Index</a>
-    <a href="https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Build with NANDA â€” Join</a>
+    <a href="https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Build with NANDA - Join</a>
     <a href="https://Lu.Ma/nanda" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Events</a>
-    <a href="https://projnanda.github.io/projnanda/#/./home/1.overview" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Global Chapters â€” Join</a>
-    <a href="https://projnanda.github.io/projnanda/#/./home/nyc" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Youth Chapter â€” Join</a>
-    <a href="https://github.com/projnanda" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Open Source Developers â€” Join</a>
+    <a href="https://projnanda.github.io/projnanda/#/./home/1.overview" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Global Chapters - Join</a>
+    <a href="https://projnanda.github.io/projnanda/#/./home/nyc" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Youth Chapter - Join</a>
+    <a href="https://github.com/projnanda" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Open Source Developers - Join</a>
     <a href="https://discord.gg/BxnPBEqd88" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">Community & Channels</a>
     <a href="https://projnanda.github.io/projnanda/#/./home/projects" target="_blank" rel="noopener" style="display: block; border: 1px solid #000; border-radius: 12px; padding: 12px 14px; background: #fff; color: #000; text-decoration: none; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.2s ease;" onmouseover="this.style.background='#000'; this.style.color='#d8dde5';" onmouseout="this.style.background='#fff'; this.style.color='#000';">NANDA Projects</a>
   </div>
   <div style="margin-top: 16px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; color: #444; font-size: 0.95rem;">
     <span style="font-weight: 700; color: #000;">Follow us:</span>
-    <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#ff0000; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">â–¶</span>YouTube</a>
-    <span>â€¢</span>
+    <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#ff0000; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">></span>YouTube</a>
+    <span>.</span>
     <a href="https://www.linkedin.com/company/project-nanda/" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#0077b5; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">in</span>LinkedIn</a>
-    <span>â€¢</span>
+    <span>.</span>
     <a href="https://github.com/projnanda" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#000; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">GH</span>GitHub</a>
-    <span>â€¢</span>
+    <span>.</span>
     <a href="https://discord.gg/BxnPBEqd88" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#738adb; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">D</span>Discord</a>
-    <span>â€¢</span>
+    <span>.</span>
     <a href="https://Lu.Ma/nanda" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#ff9900; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">Ev</span>Events</a>
   </div>
 </div>
 
 <div align="center">
 
-**Made with â™¥ by the NANDA Community**
+**Made with <span style="color: #FFD700;">♥</span> by the NANDA Community**
 
 _Building the Open Agentic Web_
 
 </div>
+
+---
