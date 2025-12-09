@@ -198,6 +198,82 @@
 
 ## Community Mentions
 
+<style>
+  .nanda-metrics-wrap {
+    position: relative;
+    margin: 48px 0;
+    padding: 16px 0 4px;
+    font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  .nanda-metrics-wrap::before {
+    content: "";
+    position: absolute;
+    inset: -8% 4%;
+    background:
+      radial-gradient(1200px 700px at 15% 20%, rgba(248, 250, 253, 0.9), rgba(240, 243, 247, 0)),
+      radial-gradient(900px 600px at 82% 18%, rgba(216, 221, 229, 0.7), rgba(216, 221, 229, 0)),
+      linear-gradient(135deg, #f7f9fc, #e6eaf1 50%, #cdd3de);
+    border-radius: 32px;
+    filter: blur(6px);
+    z-index: 0;
+    opacity: 0.9;
+  }
+  .nanda-metrics-grid {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+  }
+  .metric-card {
+    position: relative;
+    overflow: hidden;
+    padding: 22px 20px;
+    border-radius: 18px;
+    background: linear-gradient(145deg, #ffffff, #f4f6fa);
+    border: 1px solid #e2e5eb;
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.08), inset 0 1px 0 rgba(255, 255, 255, 0.7);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  .metric-card::after {
+    content: "";
+    position: absolute;
+    top: -35%;
+    right: -20%;
+    width: 160px;
+    height: 160px;
+    background: radial-gradient(circle, rgba(216, 221, 229, 0.55), rgba(216, 221, 229, 0));
+    transform: rotate(18deg);
+  }
+  .metric-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 20px 48px rgba(0, 0, 0, 0.16);
+  }
+  .metric-number {
+    font-size: 2.8rem;
+    font-weight: 800;
+    color: #000;
+    letter-spacing: -1px;
+    margin: 0 0 8px 0;
+  }
+  .metric-label {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #111;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    margin: 0 0 6px 0;
+  }
+  .metric-sub {
+    font-size: 0.9rem;
+    color: #333;
+    margin: 0;
+    line-height: 1.5;
+    font-weight: 500;
+  }
+</style>
+
+
 <div class="nanda-metrics-wrap">
   <div class="nanda-metrics-grid">
     <div class="metric-card">
