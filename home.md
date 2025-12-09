@@ -272,7 +272,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
     <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Connection Negotiation:</strong> The detailed flow of establishing trust and communication specs between agents.</p>
   </div>
 
-## </div>
+</div>
 
 ## Development Roadmap
 
