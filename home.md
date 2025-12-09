@@ -30,7 +30,7 @@
 
 <div style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border-left: 5px solid var(--nanda-yellow); padding: 30px 40px; border-radius: 12px; margin: 30px 0; box-shadow: 0 4px 20px rgba(217, 221, 229, 0.15);">
   <p style="font-size: 1.2rem; font-weight: 600; color: var(--nanda-black); margin: 0 0 20px 0; line-height: 1.6;">
-    Project NANDA is architecting the foundational infrastructure for the <strong style="color: #1A1A1A;text-decoration: underline;">Open Agentic Web</strong>.
+    Project NANDA is architecting the foundational infrastructure for the Open Agentic Web.
   </p>
   <p style="font-size: 1.05rem; color: #2c3e50; margin: 0; line-height: 1.7; font-style: italic;">
     We are solving the core challenge of the next decade: <strong>How can billions of AI agents discover each other, verify capabilities, and coordinate tasks without creating bottlenecks or security vulnerabilities.</strong>
