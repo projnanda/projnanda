@@ -196,6 +196,54 @@
   </div>
 </div>
 
+## Community Mentions
+
+<div class="nanda-metrics-wrap">
+  <div class="nanda-metrics-grid">
+    <div class="metric-card">
+      <div class="metric-number">6000+</div>
+      <div class="metric-label">Community Members</div>
+      <div class="metric-sub">Global Network Participants</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">61</div>
+      <div class="metric-label">Collaborations</div>
+      <div class="metric-sub">Leading Organizations</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">15+</div>
+      <div class="metric-label">Papers</div>
+      <div class="metric-sub">Research Publications</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">50+</div>
+      <div class="metric-label">Webinars</div>
+      <div class="metric-sub">Education Sessions</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">12</div>
+      <div class="metric-label">Hackathons</div>
+      <div class="metric-sub">Innovation Challenges</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">100+</div>
+      <div class="metric-label">Speakers</div>
+      <div class="metric-sub">Industry Experts</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">75+</div>
+      <div class="metric-label">Projects</div>
+      <div class="metric-sub">Active Initiatives</div>
+    </div>
+    <div class="metric-card">
+      <div class="metric-number">18</div>
+      <div class="metric-label">Locations</div>
+      <div class="metric-sub">Global Chapters</div>
+    </div>
+  </div>
+</div>
+
+
 ## Research & Publications
 
 Our research outlines the architectural and strategic foundations of the Agentic Web.
