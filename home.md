@@ -537,6 +537,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
     line-height: 1;
   }
 </style>
+
 <div class="speaker-showcase">
   <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 12px; position: relative; z-index: 1;">
     <div style="font-weight: 800; font-size: 1.05rem; color: #000;">Voices shaping the Agentic Web</div>
@@ -546,61 +547,61 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Ramesh Raskar.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Ramesh Raskar</strong><br>Professor & Founder<br><em>MIT & Project NANDA</em><br><a href="https://youtu.be/yXxHb3LMygw-si=BTKbSOqJX53dsfJm" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Ramesh Raskar</strong><br>Professor & Founder<br><em>MIT & Project NANDA</em><br><a href="https://youtu.be/yXxHb3LMygw?si=BTKbSOqJX53dsfJm" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/John Roese.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>John Roese</strong><br>Global CTO & Chief AI Officer<br><em>Dell Technologies</em><br><a href="https://youtu.be/WJ3xGAKqmGs-si=FM1CL7LCF8JYninQ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>John Roese</strong><br>Global CTO & Chief AI Officer<br><em>Dell Technologies</em><br><a href="https://youtu.be/WJ3xGAKqmGs?si=FM1CL7LCF8JYninQ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Guha.jpg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>R.V. Guha</strong><br>Tech Fellow & Creator<br><em>Microsoft & NLWeb</em><br><a href="https://www.youtube.com/watch-v=P0YKIRD8eQk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>R.V. Guha</strong><br>Tech Fellow & Creator<br><em>Microsoft & NLWeb</em><br><a href="https://www.youtube.com/watch?v=P0YKIRD8eQk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Jessica Rosenworcel.jpg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Jessica Rosenworcel</strong><br>Former Chair<br><em>FCC</em><br><a href="https://youtu.be/qQebYJcITno-si=WQxczwmsewHo9x67" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Jessica Rosenworcel</strong><br>Former Chair<br><em>FCC</em><br><a href="https://youtu.be/qQebYJcITno?si=WQxczwmsewHo9x67" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Peeyush Aggarwal.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Peeyush Aggarwal</strong><br>Partner<br><em>Deloitte UK</em><br><a href="https://youtu.be/ne-ErV-UJOTc-si=7YvBSq3zrPFSC4_N" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Peeyush Aggarwal</strong><br>Partner<br><em>Deloitte UK</em><br><a href="https://youtu.be/ne-ErV-UJOTc?si=7YvBSq3zrPFSC4_N" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Nick Cooper.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Nick Cooper</strong><br>Member of Technical Staff<br><em>OpenAI</em><br><a href="https://youtu.be/S2ksXKHbOUU-si=fEQcgaPe5pyWTT4k" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Nick Cooper</strong><br>Member of Technical Staff<br><em>OpenAI</em><br><a href="https://youtu.be/S2ksXKHbOUU?si=fEQcgaPe5pyWTT4k" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/pradyumna.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Pradyumna Chari</strong><br>Decentralized AI<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch-v=R8ukwg1V1SU" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Pradyumna Chari</strong><br>Decentralized AI<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch?v=R8ukwg1V1SU" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/maheshlambe.png" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Mahesh Lambe</strong><br>Project NANDA<br><em>Unify Dynamics</em><br><a href="https://www.youtube.com/watch-v=RD9ANgSvSZE" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Mahesh Lambe</strong><br>Project NANDA<br><em>Unify Dynamics</em><br><a href="https://www.youtube.com/watch?v=RD9ANgSvSZE" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Todd Segal.png" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Todd Segal</strong><br>Principal Software Engineer<br><em>Google</em><br><a href="https://youtu.be/_a1yVB04OLk-si=_LXtgOusUILsz-EX" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Todd Segal</strong><br>Principal Software Engineer<br><em>Google</em><br><a href="https://youtu.be/_a1yVB04OLk?si=_LXtgOusUILsz-EX" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Ashish Bhatia.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Ashish Bhatia</strong><br>Senior Product Manager<br><em>Audible</em><br><a href="https://youtu.be/szO2nzV4ezY-si=KUbWiNxrVNejgaxL" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Ashish Bhatia</strong><br>Senior Product Manager<br><em>Audible</em><br><a href="https://youtu.be/szO2nzV4ezY?si=KUbWiNxrVNejgaxL" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -612,19 +613,19 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Rakesh Gohel.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Rakesh Gohel</strong><br>Founder<br><em>JUTEQ</em><br><a href="https://youtu.be/_FxSpIXxT_w-si=sAJE1-fdtGRtZRiT" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Rakesh Gohel</strong><br>Founder<br><em>JUTEQ</em><br><a href="https://youtu.be/_FxSpIXxT_w?si=sAJE1-fdtGRtZRiT" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/John Zinky.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>John Zinky</strong><br>Principal Performance Engineer<br><em>Akamai</em><br><a href="https://youtu.be/6VpiZAJ9MKw-si=SmPc7AHfFrwVtyzk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>John Zinky</strong><br>Principal Performance Engineer<br><em>Akamai</em><br><a href="https://youtu.be/6VpiZAJ9MKw?si=SmPc7AHfFrwVtyzk" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Samuel Saraf.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Samuel Saraf</strong><br>Senior Director, Product Mgmt<br><em>Salesforce</em><br><a href="https://youtu.be/APL5nsd4cnU-si=qgugqAkULNtPVpqZ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Samuel Saraf</strong><br>Senior Director, Product Mgmt<br><em>Salesforce</em><br><a href="https://youtu.be/APL5nsd4cnU?si=qgugqAkULNtPVpqZ" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -696,7 +697,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/chrispease.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Chris Pease</strong><br>Founder & CEO<br><em>AgentiCorp</em><br><a href="https://www.youtube.com/watch-v=jIHiMkOcQ0s" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Chris Pease</strong><br>Founder & CEO<br><em>AgentiCorp</em><br><a href="https://www.youtube.com/watch?v=jIHiMkOcQ0s" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -828,19 +829,19 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/maria.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Maria Gorskikh</strong><br>Research<br><em>MIT</em><br><a href="https://www.youtube.com/watch-v=1M8rInGBhvc" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Maria Gorskikh</strong><br>Research<br><em>MIT</em><br><a href="https://www.youtube.com/watch?v=1M8rInGBhvc" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="https://dummyimage.com/100x100/fff7d1/000000&text=AC" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);" alt="Ayush Chopra placeholder">
-      <div class="speaker-card-text"><strong>Ayush Chopra</strong><br>Researcher & Builder<br><em>Project NANDA</em><br><a href="https://www.youtube.com/watch-v=liae1oF9RAg" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Ayush Chopra</strong><br>Researcher & Builder<br><em>Project NANDA</em><br><a href="https://www.youtube.com/watch?v=liae1oF9RAg" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="https://dummyimage.com/100x100/fff7d1/000000&text=RL" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);" alt="Raymond Lio placeholder">
-      <div class="speaker-card-text"><strong>Raymond Lio</strong><br>Founder & Managing Director<br><em>Samsung NEXT Ventures</em><br><a href="https://www.youtube.com/watch-v=i1L32XDRG5o" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Raymond Lio</strong><br>Founder & Managing Director<br><em>Samsung NEXT Ventures</em><br><a href="https://www.youtube.com/watch?v=i1L32XDRG5o" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -876,7 +877,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/pattiemaes.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Prof. Pattie Maes</strong><br>Software Agents<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch-v=SA3n2o5q07c" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Prof. Pattie Maes</strong><br>Software Agents<br><em>MIT Media Lab</em><br><a href="https://www.youtube.com/watch?v=SA3n2o5q07c" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
@@ -1020,7 +1021,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/vijayreddy.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Vijay Reddy</strong><br>Partner<br><em>Mayfield Ventures</em><br><a href="https://www.youtube.com/watch-v=0xDeDcx3fkA" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Vijay Reddy</strong><br>Partner<br><em>Mayfield Ventures</em><br><a href="https://www.youtube.com/watch?v=0xDeDcx3fkA" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
