@@ -11,8 +11,9 @@
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">
       Apply for FAN Fellowship ->
     </a>
-    <a href="#sponsor" style="background: transparent; color: #d8dde5; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5;">
-      Become a Sponsor
+    <a href="mailto:ashutosh@agenticnet.org?subject=FAN%20Fellowship%20Sponsorship" style="background: transparent; color: #d8dde5; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; text-align: center; display: flex; flex-direction: column; align-items: center;">
+      <span>Become a Sponsor</span>
+      <span style="font-size: 0.85rem; font-weight: 600; margin-top: 4px;">Email us for more details</span>
     </a>
   </div>
 </div>
