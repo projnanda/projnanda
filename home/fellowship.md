@@ -37,35 +37,6 @@
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply to FAN Core -></a>
   </div>
 
-  <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 28px; box-shadow: 0 8px 26px rgba(217, 221, 229, 0.18);">
-    <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;">
-      <h3 style="margin: 0; font-size: 1.35rem; color: var(--nanda-black);">NANDA x Tresata Developer Fellowship</h3>
-      <span style="background: var(--nanda-yellow); color: #000; padding: 6px 14px; border-radius: 12px; font-weight: 700; font-size: 0.85rem;">Paid</span>
-    </div>
-    <p style="color: #444; line-height: 1.7; margin: 10px 0 16px 0;">Advance open-source rails for agent discovery, trust, and orchestration alongside Tresata engineers.</p>
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 12px 0 16px 0;">
-      <div style="background: #f7f9fc; border: 1px solid var(--nanda-yellow); border-radius: 10px; padding: 10px; text-align: center; font-weight: 700; color: #000;">$15,000 stipend</div>
-      <div style="background: #f7f9fc; border: 1px solid var(--nanda-yellow); border-radius: 10px; padding: 10px; text-align: center; font-weight: 700; color: #000;">3 months</div>
-      <div style="background: #f7f9fc; border: 1px solid var(--nanda-yellow); border-radius: 10px; padding: 10px; text-align: center; font-weight: 700; color: #000;">5 fellows</div>
-      <div style="background: #f7f9fc; border: 1px solid var(--nanda-yellow); border-radius: 10px; padding: 10px; text-align: center; font-weight: 700; color: #000;">Remote (US)</div>
-    </div>
-    <ul style="color: #444; line-height: 1.8; margin: 0 0 12px 0; padding-left: 18px;">
-      <li>Protocols and reference implementations for decentralized agents</li>
-      <li>Interoperability layers across MCP, A2A, and modern runtimes</li>
-      <li>Integrations with Tresata data infrastructure and governance</li>
-      <li>Capstone you design, build, and demo</li>
-    </ul>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply to Tresata Fellowship -></a>
-  </div>
-
-  <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 28px; box-shadow: 0 8px 26px rgba(217, 221, 229, 0.18);">
-    <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;">
-      <h3 style="margin: 0; font-size: 1.35rem; color: var(--nanda-black);">NANDA x Radius Fellowship</h3>
-      <span style="background: var(--nanda-yellow); color: #000; padding: 6px 14px; border-radius: 12px; font-weight: 700; font-size: 0.85rem;">Paid</span>
-    </div>
-    <p style="color: #444; line-height: 1.7; margin: 10px 0 16px 0;">Ecosystem and developer-experience track focusing on SDKs, docs, and community tooling for the agentic web.</p>
-    <a href="https://www.linkedin.com/jobs/view/4260498540/" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply to Radius Fellowship -></a>
-  </div>
 
 </div>
 
@@ -154,7 +125,7 @@
   </div>
 
   <div style="text-align: center; margin-top: 10px;">
-    <a href="mailto:partnerships@projectnanda.org?subject=FAN%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">Contact partnerships -></a>
+    <a href="mailto:ashutosh@agenticnet.org?subject=FAN%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">Contact partnerships -></a>
   </div>
 </div>
 
@@ -165,7 +136,7 @@
   <p style="margin: 0 0 16px 0; color: #2c3e50; line-height: 1.7;">Apply to a cohort, contribute code, or fund the next wave of builders creating the open agentic web.</p>
   <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply now</a>
-    <a href="mailto:partnerships@projectnanda.org" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Talk sponsorships</a>
+    <a href="mailto:ashutosh@agenticnet.org" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Talk sponsorships</a>
   </div>
 </div>
 
