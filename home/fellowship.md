@@ -1,17 +1,19 @@
-﻿# FAN Fellowships
+﻿<div style="text-align: center; margin: 32px 0 40px 0;">
+  <img src="./assets/project-nanda-fellowship-program.png" alt="Project NANDA Fellowship Program" style="max-width: 500px; height: auto; display: block; margin: 0 auto;">
+</div>
 
 <div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); border: 3px solid var(--nanda-yellow); border-radius: 24px; padding: 48px 40px; margin: 32px 0; text-align: center; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
   <h1 style="margin: 0 0 16px 0; font-size: 2.6rem; font-weight: 800; color: #d8dde5; text-shadow: 0 0 24px rgba(217, 221, 229, 0.5);">
     Build the Internet of AI Agents with NANDA
   </h1>
   <p style="max-width: 760px; margin: 0 auto 28px; color: #f5f5f5; font-size: 1.15rem; line-height: 1.75;">
-    Join the Foundational Agent Network (FAN) Fellowship to design protocols, ship open-source implementations, and grow the agentic web. We also partner with industry to fund fellows and co-create cohorts.
+    Join the Project NANDA Fellowship to design protocols, ship open-source implementations, and grow the agentic web. We also partner with industry to fund fellows and co-create cohorts.
   </p>
   <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">
-      Apply for FAN Fellowship ->
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.40rem; border: 2px solid #7f3b3bff; box-shadow: 0 8px 30px rgba(188, 191, 199, 0.45);">
+      Apply for Fellowship
     </a>
-    <a href="mailto:ashutosh@agenticnet.org?subject=FAN%20Fellowship%20Sponsorship" style="background: transparent; color: #d8dde5; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <a href="mailto:ashutosh@agenticnet.org?subject=Project%20NANDA%20Fellowship%20Sponsorship" style="background: transparent; color: #d8dde5; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span>Become a Sponsor</span>
       <span style="font-size: 0.85rem; font-weight: 600; margin-top: 4px;">Email us for more details</span>
     </a>
@@ -26,7 +28,7 @@
 
   <div style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 28px; box-shadow: 0 10px 30px rgba(217, 221, 229, 0.22);">
     <div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap;">
-      <h3 style="margin: 0; font-size: 1.5rem; color: var(--nanda-black);">FAN Core Fellowship</h3>
+      <h3 style="margin: 0; font-size: 1.5rem; color: var(--nanda-black);">Project NANDA Core Fellowship</h3>
       <span style="background: #000; color: #d8dde5; padding: 6px 14px; border-radius: 12px; font-weight: 700; font-size: 0.85rem;">Flagship</span>
     </div>
     <p style="color: #444; line-height: 1.7; margin: 10px 0 16px 0;">Research, engineering, and ecosystem leaders building the standards, reference implementations, and governance that power the open agentic web.</p>
@@ -35,7 +37,7 @@
       <li>Direct collaboration with NANDA core team</li>
       <li>Focus: open-source infrastructure, interoperability, safety</li>
     </ul>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply to FAN Core -></a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="display: inline-block; margin-top: 6px; background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply now</a>
   </div>
 
 
@@ -126,7 +128,7 @@
   </div>
 
   <div style="text-align: center; margin-top: 10px;">
-    <a href="mailto:ashutosh@agenticnet.org?subject=FAN%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">Contact partnerships -></a>
+    <a href="mailto:ashutosh@agenticnet.org?subject=Project%20NANDA%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">Contact partnerships -></a>
   </div>
 </div>
 
