@@ -238,6 +238,6 @@
   <p style="margin: 0 0 20px 0; color: #2c3e50; line-height: 1.7;">Join us in building decentralized agentic AI solutions that serve rural India while contributing to the global Internet of Agents ecosystem.</p>
   <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
     <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply Now</a>
-    <a href="mailto:ashutosh@agenticnet.org?subject=JAN%20AI%20Residency%20Questions" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Ask Questions</a>
+    <a href="mailto:nitish@catalysts.org?subject=JAN%20AI%20Residency%20Questions" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Ask Questions</a>
   </div>
 </div>
