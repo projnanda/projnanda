@@ -1,17 +1,17 @@
-<div style="text-align: center; margin: 32px 0 40px 0;">
-  <img src="./assets/project-nanda-jan-ai-logo.png" alt="Project NANDA x JAN AI Residency" style="max-width: 500px; height: auto; display: block; margin: 0 auto;">
+<div style="text-align: center; margin: clamp(80px, 15vw, 100px) 0 30px 0;">
+  <img src="./assets/project-nanda-jan-ai-logo.png" alt="Project NANDA x JAN AI Residency" style="max-width: min(90vw, 500px); height: auto; display: block; margin: 0 auto;">
 </div>
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); border: 3px solid var(--nanda-yellow); border-radius: 24px; padding: 48px 40px; margin: 32px 0; text-align: center; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
-  <h1 style="margin: 0 0 16px 0; font-size: 2.6rem; font-weight: 800; color: #d8dde5; text-shadow: 0 0 24px rgba(217, 221, 229, 0.5);">
+<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); border: 3px solid var(--nanda-yellow); border-radius: 24px; padding: clamp(24px, 5vw, 48px) clamp(20px, 4vw, 40px); margin: 20px 0; text-align: center; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
+  <h1 style="margin: 0 0 16px 0; font-size: clamp(1.8rem, 5vw, 2.6rem); font-weight: 800; color: #d8dde5; text-shadow: 0 0 24px rgba(217, 221, 229, 0.5); line-height: 1.2;">
     Build Decentralized AI for Rural India
   </h1>
-  <div style="max-width: 760px; margin: 0 auto 28px; color: #f5f5f5; font-size: 1.15rem; line-height: 1.75;">
-    <p style="margin: 0 0 16px 0; font-size: 1.2rem; font-weight: 600;">6-month immersive program • Bangalore • ₹25K/month</p>
+  <div style="max-width: 760px; margin: 0 auto 28px; color: #f5f5f5; font-size: clamp(1rem, 2.5vw, 1.15rem); line-height: 1.75;">
+    <p style="margin: 0 0 16px 0; font-size: clamp(1rem, 2.8vw, 1.2rem); font-weight: 600;">6-month immersive program • Bangalore • ₹25K/month</p>
     <p style="margin: 0; opacity: 0.9;">Design and build AI solutions that serve rural India while working alongside the Project NANDA core team</p>
   </div>
   <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #871f1fff; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">
+    <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: clamp(12px, 3vw, 16px) clamp(24px, 6vw, 36px); border-radius: 12px; text-decoration: none; font-weight: 800; font-size: clamp(0.9rem, 2.5vw, 1.05rem); border: 2px solid #871f1fff; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">
       Apply for Residency ->
     </a>
   </div>
@@ -28,7 +28,7 @@
     </div>
     <p style="color: #444; line-height: 1.7; margin: 10px 0 16px 0;">A structured, immersive training program where residents work full-time with our core team to build decentralized agentic AI solutions for rural India.</p>
     
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin: 20px 0;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(200px, 100%), 1fr)); gap: 16px; margin: 20px 0;">
       <div style="background: rgba(217, 221, 229, 0.1); border-radius: 8px; padding: 16px; text-align: center;">
         <div style="font-size: 1.8rem; margin-bottom: 8px;">⏱️</div>
         <h4 style="margin: 0 0 8px 0; color: var(--nanda-black); font-size: 1rem;">Duration</h4>
@@ -54,7 +54,7 @@
 </div>
 
 <div style="text-align: center; margin: 32px 0;">
-  <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 14px 32px; border-radius: 12px; text-decoration: none; font-weight: 700; font-size: 1.1rem; border: 2px solid #d8dde5; box-shadow: 0 6px 20px rgba(217, 221, 229, 0.3); display: inline-block;">
+  <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: clamp(12px, 3vw, 14px) clamp(24px, 6vw, 32px); border-radius: 12px; text-decoration: none; font-weight: 700; font-size: clamp(1rem, 2.5vw, 1.1rem); border: 2px solid #d8dde5; box-shadow: 0 6px 20px rgba(217, 221, 229, 0.3); display: inline-block;">
     Apply Now →
   </a>
 </div>
@@ -64,7 +64,7 @@
 ## Timeline & Application Process
 
 <div style="background: linear-gradient(135deg, rgba(217, 221, 229, 0.08), rgba(240, 243, 247, 0.05)); border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 28px; margin: 24px 0;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; position: relative;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 20px; position: relative;">
     
     <!-- Timeline connector line (hidden on mobile) -->
     <div style="position: absolute; top: 30px; left: 50%; right: 50%; height: 2px; background: linear-gradient(90deg, transparent, var(--nanda-yellow), transparent); z-index: 1; display: none;"></div>
@@ -106,7 +106,7 @@
 
 ## Eligibility & Requirements
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 24px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); gap: 20px; margin: 24px 0;">
   <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 12px; padding: 24px; box-shadow: 0 4px 14px rgba(217, 221, 229, 0.16);">
     <h4 style="margin: 0 0 16px 0; color: var(--nanda-black);">Educational Background</h4>
     <ul style="color: #444; line-height: 1.8; margin: 0; padding-left: 18px;">
@@ -129,7 +129,7 @@
 
 ## What You'll Get
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 24px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr)); gap: 20px; margin: 24px 0;">
   <div style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 12px; padding: 20px; box-shadow: 0 4px 14px rgba(217, 221, 229, 0.16);">
     <div style="font-size: 1.5rem; margin-bottom: 8px; text-align: center;">🎓</div>
     <h4 style="margin: 0 0 12px 0; color: var(--nanda-black); text-align: center;">Mentorship</h4>
@@ -215,7 +215,7 @@
 <div style="background: linear-gradient(135deg, #0b0b0b, #151515); border: 3px solid var(--nanda-yellow); border-radius: 20px; padding: 36px; margin: 24px 0; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
   <h3 style="margin: 0 0 20px 0; color: #d8dde5; text-align: center;">Partnership & Knowledge Exchange</h3>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(280px, 100%), 1fr)); gap: 20px;">
     <div style="background: rgba(217, 221, 229, 0.06); border: 1px solid rgba(217, 221, 229, 0.3); border-radius: 12px; padding: 20px;">
       <h4 style="margin: 0 0 12px 0; color: #d8dde5;">🤝 Core Team Collaboration</h4>
       <p style="margin: 0; color: #d8d8d8; line-height: 1.6;">Work closely with Project NANDA's core team to understand the NANDA Protocol vision, reference architectures, and emerging Internet of Agents standards.</p>
@@ -237,7 +237,7 @@
   <h3 style="margin: 0 0 12px 0; color: var(--nanda-black); font-size: 1.4rem;">Ready to Shape the Future of Rural AI?</h3>
   <p style="margin: 0 0 20px 0; color: #2c3e50; line-height: 1.7;">Join us in building decentralized agentic AI solutions that serve rural India while contributing to the global Internet of Agents ecosystem.</p>
   <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply Now</a>
-    <a href="mailto:nitish@catalysts.org?subject=JAN%20AI%20Residency%20Questions" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Ask Questions</a>
+    <a href="https://forms.gle/FTaVewVQXQP5Cq2v7" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: clamp(10px, 2.5vw, 12px) clamp(20px, 5vw, 30px); border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5; font-size: clamp(0.9rem, 2.2vw, 1rem); white-space: nowrap;">Apply Now</a>
+    <a href="mailto:nitish@catalysts.org?subject=JAN%20AI%20Residency%20Questions" style="background: #000; color: #d8dde5; padding: clamp(10px, 2.5vw, 12px) clamp(20px, 5vw, 30px); border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5; font-size: clamp(0.9rem, 2.2vw, 1rem); white-space: nowrap;">Ask Questions</a>
   </div>
 </div>
