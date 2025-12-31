@@ -1,21 +1,21 @@
-﻿<div style="text-align: center; margin: 32px 0 40px 0;">
-  <img src="./assets/project-nanda-fellowship-program.png" alt="Project NANDA Fellowship Program" style="max-width: 500px; height: auto; display: block; margin: 0 auto;">
+﻿<div style="text-align: center; margin: clamp(80px, 15vw, 100px) 0 30px 0;">
+  <img src="./assets/project-nanda-fellowship-program.png" alt="Project NANDA Fellowship Program" style="max-width: min(90vw, 500px); height: auto; display: block; margin: 0 auto;">
 </div>
 
-<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); border: 3px solid var(--nanda-yellow); border-radius: 24px; padding: 48px 40px; margin: 32px 0; text-align: center; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
-  <h1 style="margin: 0 0 16px 0; font-size: 2.6rem; font-weight: 800; color: #d8dde5; text-shadow: 0 0 24px rgba(217, 221, 229, 0.5);">
+<div style="background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%); border: 3px solid var(--nanda-yellow); border-radius: 24px; padding: clamp(24px, 5vw, 48px) clamp(20px, 4vw, 40px); margin: 20px 0; text-align: center; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
+  <h1 style="margin: 0 0 16px 0; font-size: clamp(1.8rem, 5vw, 2.6rem); font-weight: 800; color: #d8dde5; text-shadow: 0 0 24px rgba(217, 221, 229, 0.5); line-height: 1.2;">
     Build the Internet of AI Agents with NANDA
   </h1>
-  <p style="max-width: 760px; margin: 0 auto 28px; color: #f5f5f5; font-size: 1.15rem; line-height: 1.75;">
+  <p style="max-width: 760px; margin: 0 auto 28px; color: #f5f5f5; font-size: clamp(1rem, 2.5vw, 1.15rem); line-height: 1.75;">
     Join the Project NANDA Fellowship to design protocols, ship open-source implementations, and grow the agentic web. We also partner with industry to fund fellows and co-create cohorts.
   </p>
   <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.40rem; border: 2px solid #7f3b3bff; box-shadow: 0 8px 30px rgba(188, 191, 199, 0.45);">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: clamp(12px, 3vw, 16px) clamp(24px, 6vw, 36px); border-radius: 12px; text-decoration: none; font-weight: 800; font-size: clamp(1.1rem, 3vw, 1.4rem); border: 2px solid #7f3b3bff; box-shadow: 0 8px 30px rgba(188, 191, 199, 0.45);">
       Apply for Fellowship
     </a>
-    <a href="mailto:ashutosh@agenticnet.org?subject=Project%20NANDA%20Fellowship%20Sponsorship" style="background: transparent; color: #d8dde5; padding: 16px 36px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; text-align: center; display: flex; flex-direction: column; align-items: center;">
+    <a href="mailto:ashutosh@agenticnet.org?subject=Project%20NANDA%20Fellowship%20Sponsorship" style="background: transparent; color: #d8dde5; padding: clamp(12px, 3vw, 16px) clamp(24px, 6vw, 36px); border-radius: 12px; text-decoration: none; font-weight: 800; font-size: clamp(0.9rem, 2.5vw, 1.05rem); border: 2px solid #d8dde5; text-align: center; display: flex; flex-direction: column; align-items: center;">
       <span>Become a Sponsor</span>
-      <span style="font-size: 0.85rem; font-weight: 600; margin-top: 4px;">Email us for more details</span>
+      <span style="font-size: clamp(0.75rem, 2vw, 0.85rem); font-weight: 600; margin-top: 4px;">Email us for more details</span>
     </a>
   </div>
 </div>
@@ -59,7 +59,7 @@
 ---
 
 ## Other ways to contribute
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px; margin: 18px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr)); gap: 16px; margin: 18px 0;">
   <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 12px; padding: 18px; box-shadow: 0 4px 14px rgba(217, 221, 229, 0.16);">
     <h4 style="margin: 0 0 10px 0; color: var(--nanda-black);">Research contributor</h4>
     <p style="margin: 0; color: #444; line-height: 1.6;">Co-author papers and algorithms on decentralized AI and agent safety.</p>
@@ -85,7 +85,7 @@
     Fund the builders who are defining the open agentic web. Sponsors shape focus areas, get early access to research and implementations, and meet fellows before they hit the market.
   </p>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 18px 0 10px 0; text-align: center;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr)); gap: 16px; margin: 18px 0 10px 0; text-align: center;">
     <div style="background: rgba(217, 221, 229, 0.06); border: 1px solid rgba(217, 221, 229, 0.3); border-radius: 12px; padding: 18px;">
       <h4 style="margin: 0 0 8px 0; color: #d8dde5;">Strategic impact</h4>
       <p style="margin: 0; color: #d8d8d8; line-height: 1.6;">Guide cohorts toward your hardest AI infrastructure problems.</p>
@@ -104,7 +104,7 @@
     </div>
   </div>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin: 24px 0 18px 0; text-align: center;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(180px, 100%), 1fr)); gap: 14px; margin: 24px 0 18px 0; text-align: center;">
     <div style="background: #111; border: 1px solid #d8dde5; border-radius: 12px; padding: 16px;">
       <div style="color: #d8dde5; font-weight: 800; font-size: 1.1rem;">Bronze</div>
       <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$25K</div>
@@ -128,7 +128,7 @@
   </div>
 
   <div style="text-align: center; margin-top: 10px;">
-    <a href="mailto:ashutosh@agenticnet.org?subject=Project%20NANDA%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 16px 40px; border-radius: 12px; text-decoration: none; font-weight: 800; font-size: 1.05rem; border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45);">Contact partnerships -></a>
+    <a href="mailto:ashutosh@agenticnet.org?subject=Project%20NANDA%20Fellowship%20Sponsorship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: clamp(12px, 3vw, 16px) clamp(20px, 4vw, 40px); border-radius: 12px; text-decoration: none; font-weight: 800; font-size: clamp(0.9rem, 2.2vw, 1.05rem); border: 2px solid #d8dde5; box-shadow: 0 8px 30px rgba(217, 221, 229, 0.45); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 90vw; display: inline-block;">Contact partnerships →</a>
   </div>
 </div>
 
@@ -138,8 +138,8 @@
   <h3 style="margin: 0 0 12px 0; color: var(--nanda-black); font-size: 1.4rem;">Join the movement</h3>
   <p style="margin: 0 0 16px 0; color: #2c3e50; line-height: 1.7;">Apply to a cohort, contribute code, or fund the next wave of builders creating the open agentic web.</p>
   <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Apply now</a>
-    <a href="mailto:ashutosh@agenticnet.org" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Talk sponsorships</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: clamp(10px, 2.5vw, 12px) clamp(20px, 5vw, 30px); border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5; font-size: clamp(0.9rem, 2.2vw, 1rem);">Apply now</a>
+    <a href="mailto:ashutosh@agenticnet.org" style="background: #000; color: #d8dde5; padding: clamp(10px, 2.5vw, 12px) clamp(20px, 5vw, 30px); border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5; font-size: clamp(0.9rem, 2.2vw, 1rem);">Talk sponsorships</a>
   </div>
 </div>
 
