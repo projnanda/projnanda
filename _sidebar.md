@@ -27,6 +27,8 @@
 
   - [Featured Speakers](./home/10.speakers.md)
   - [Contribution](./home/7.researchcontribution.md)
+  - [SF Bay Area Chapter Leaders](./home/bayarealeader.md)
+
 
 - **Resources**
   - [FAQ](./home/6.faq.md)
