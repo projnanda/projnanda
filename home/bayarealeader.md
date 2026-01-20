@@ -67,7 +67,7 @@
 <div class="speaker-card">
     <img src="assets/headshots/sharathchandra.png" alt="Sharath Chandra" />
     <h3>Sharath Chandra </h3>
-    <a href="https://www.linkedin.com/in/sharathvc" target="_blank"> The Wine Foundry</a>
+    <a href="https://www.linkedin.com/in/sharathvc" target="_blank"> Castlegate Capital Advisors </a>
   </div>
 
 <div class="speaker-card">
