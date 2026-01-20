@@ -71,9 +71,9 @@
   </div>
 
 <div class="speaker-card">
-    <img src="assets/headshots/mahesh_lambe.jpg" alt="Mahesh Lambe" />
+    <img src="assets/headshots/Mahesh_Lambe.JPG" alt="Mahesh Lambe" />
     <h3>Mahesh Lambe </h3>
-    <a href="https://www.linkedin.com/in/maheshlambe.png/" target="_blank"> Unify Dynamics </a>
+    <a href="https://www.linkedin.com/in/maheshlambe/" target="_blank"> Unify Dynamics </a>
   </div>
 
 <div class="speaker-card">
