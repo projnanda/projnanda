@@ -64,10 +64,28 @@
     <a href="https://www.linkedin.com/in/nitinbadjatia/" target="_blank">SAP</a>
   </div>
 
+  <div class="speaker-card">
+    <img src="assets/headshots/gurusharaskar.jpeg" alt="Gurusha Raskar" />
+    <h3>Gurusha Raskar</h3>
+    <a href="https://www.linkedin.com/in/gurusharesearcher/" target="_blank"> Apple </a>
+  </div>
+
+  <div class="speaker-card">
+    <img src="assets/headshots/saurabhpeshwa.jpeg" alt="Saurabh Sakalkar" />
+    <h3>Saurabh Sakalkar</h3>
+    <a href="https://www.linkedin.com/in/peshwa/" target="_blank"> Cisco </a>
+  </div>
+
 <div class="speaker-card">
-    <img src="assets/headshots/sharathchandra.png" alt="Sharath Chandra" />
-    <h3>Sharath Chandra </h3>
-    <a href="https://www.linkedin.com/in/sharathvc" target="_blank"> Castlegate Capital Advisors </a>
+    <img src="assets/headshots/sanjayaiyagari.jpeg" alt="Sanjay Aiyagari" />
+    <h3>Sanjay Aiyagari</h3>
+    <a href="https://www.linkedin.com/in/aiyagari" target="_blank"> Red Hat </a>
+  </div>
+
+<div class="speaker-card">
+    <img src="assets/headshots/priyasub.jpg" alt="Priya Subramanian" />
+    <h3>Priya Subramanian</h3>
+    <a href="https://www.linkedin.com/in/priya-subramanian-0559395/" target="_blank"> HCL Technologies </a>
   </div>
 
 <div class="speaker-card">
@@ -76,33 +94,25 @@
     <a href="https://www.linkedin.com/in/maheshlambe/" target="_blank"> Unify Dynamics </a>
   </div>
 
-<div class="speaker-card">
-    <img src="assets/headshots/swatipatil.jpg" alt="Swati Patil" />
-    <h3>Swati Patil </h3>
-    <a href="https://www.linkedin.com/in/patilswati/" target="_blank"> CodeMinder Inc </a>
-  </div>
-
-  <div class="speaker-card">
-    <img src="assets/headshots/gurusharaskar.jpeg" alt="Gurusha Raskar" />
-    <h3>Gurusha Raskar</h3>
-    <a href="https://www.linkedin.com/in/gurusharesearcher/" target="_blank"> Apple </a>
-  </div>
-
- <div class="speaker-card">
-    <img src="assets/headshots/saurabhpeshwa.jpeg" alt="Saurabh Sakalkar" />
-    <h3>Saurabh Sakalkar</h3>
-    <a href="https://www.linkedin.com/in/peshwa/" target="_blank"> Cisco </a>
-  </div>
-
- <div class="speaker-card">
+   <div class="speaker-card">
     <img src="assets/headshots/navtejjj.jpeg" alt="Navtej Singh" />
     <h3>Navtej Singh</h3>
     <a href="https://www.linkedin.com/in/navtejjj" target="_blank"> Splunk </a>
   </div>
 
 <div class="speaker-card">
-    <img src="assets/headshots/priyasub.jpg" alt="Priya Subramanian" />
-    <h3>Priya Subramanian</h3>
-    <a href="https://www.linkedin.com/in/priya-subramanian-0559395/" target="_blank"> HCL Technologies </a>
+    <img src="assets/headshots/sharathchandra.png" alt="Sharath Chandra" />
+    <h3>Sharath Chandra </h3>
+    <a href="https://www.linkedin.com/in/sharathvc" target="_blank"> Castlegate Capital Advisors </a>
   </div>
+
+<div class="speaker-card">
+    <img src="assets/headshots/swatipatil.jpg" alt="Swati Patil" />
+    <h3>Swati Patil </h3>
+    <a href="https://www.linkedin.com/in/patilswati/" target="_blank"> CodeMinder Inc </a>
+  </div>
+
+ 
+
+
 
