@@ -37,12 +37,129 @@
   </p>
 </div>
 
+## Development Roadmap
+
+<style>
+  .nanda-roadmap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+  .nanda-card {
+    flex: 1;
+    min-width: 300px;
+    background: #ffffff;
+    border: 2px solid var(--nanda-yellow);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 8px 25px rgba(217, 221, 229, 0.2);
+    transition: all 0.3s ease;
+    border-top: 5px solid var(--nanda-yellow-dark);
+    color: #2c3e50;
+  }
+
+  /* Hover Animation */
+  .nanda-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 45px rgba(217, 221, 229, 0.4);
+    border-color: var(--nanda-black);
+    background: linear-gradient(135deg, #f7f9fc, #ffffff);
+  }
+
+  /* Specific Colors for Phases */
+  .phase-1:hover { border-top-color: var(--nanda-yellow); box-shadow: 0 15px 45px rgba(217, 221, 229, 0.5); }
+  .phase-2:hover { border-top-color: var(--nanda-yellow-light); box-shadow: 0 15px 45px rgba(240, 243, 247, 0.5); }
+  .phase-3:hover { border-top-color: var(--nanda-yellow-dark); box-shadow: 0 15px 45px rgba(167, 173, 184, 0.5); }
+
+  .nanda-card h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--nanda-black);
+    font-size: 1.5rem;
+  }
+
+  .nanda-card p {
+    color: #2c3e50;
+  }
+
+  .nanda-card ul {
+    color: #2c3e50;
+  }
+
+  .nanda-card b {
+    color: var(--nanda-black);
+  }
+
+  .nanda-badge {
+    display: inline-block;
+    padding: 6px 14px;
+    font-size: 0.75rem;
+    border-radius: 6px;
+    background: rgba(217, 221, 229, 0.1);
+    color: #999;
+    margin-bottom: 15px;
+    border: 1px solid #333;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  .badge-active {
+    background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark));
+    color: #000;
+    font-weight: 700;
+    border-color: var(--nanda-yellow);
+    box-shadow: 0 0 15px rgba(217, 221, 229, 0.4);
+  }
+</style>
+
+<div class="nanda-roadmap">
+
+  <div class="nanda-card phase-1">
+    <span class="nanda-badge badge-active">CURRENT PHASE</span>
+    <h3>Phase 1: Foundations</h3>
+    <p><b>Focus: Onboarding, Indexing, & Discovery</b></p>
+    <ul>
+      <li><b>Index Infrastructure:</b> NANDA Index for agent discovery.</li>
+      <li><b>Cross-Platform Bridge:</b> Protocol bridges between A2A, MCP, and HTTPS.</li>
+      <li><b>Agent Onboarding:</b> SDKs for easy agent deployment.</li>
+    </ul>
+  </div>
+
+  <div class="nanda-card phase-2">
+    <span class="nanda-badge">UPCOMING</span>
+    <h3>Phase 2: Agentic Commerce</h3>
+    <p><b>Focus: Knowledge Pricing & Edge AI</b></p>
+    <ul>
+      <li><b>Knowledge Pricing:</b> Mechanisms for agents to value/exchange info.</li>
+      <li><b>Edge AI:</b> Distributed intelligence at network edges.</li>
+      <li><b>Economic Protocols:</b> Incentive systems for agent services.</li>
+    </ul>
+  </div>
+
+  <div class="nanda-card phase-3">
+    <span class="nanda-badge">FUTURE VISION</span>
+    <h3>Phase 3: Society of Agents</h3>
+    <p><b>Focus: Large Population Models & Co-learning</b></p>
+    <ul>
+      <li><b>LPMs:</b> Collective intelligence from agent populations.</li>
+      <li><b>Collaborative Learning:</b> Privacy-preserving co-learning.</li>
+      <li><b>Cross-Silo Coordination:</b> Agents working across data boundaries.</li>
+    </ul>
+  </div>
+
+</div>
+
+
 <div style="background: #ffffff; border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 35px; margin: 30px 0; box-shadow: 0 6px 25px rgba(217, 221, 229, 0.2);">
   <h3 style="color: var(--nanda-black); margin-top: 0; margin-bottom: 20px; font-size: 1.4rem; border-left: none; padding-left: 0;">About NANDA</h3>
   <p style="color: #2c3e50; line-height: 1.8; margin-bottom: 20px;">
     <strong>Project NANDA</strong> (Networked AI Agents in Decentralized Architecture) originated at MIT and aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus-driven innovation:
   </p>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; margin: 25px 0;">
+  <h4 style="margin-bottom: 10px; font-weight: 600;">Phase 1 Goals:</h4>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; margin: 25px 0;">
     <div style="background: linear-gradient(135deg, #d8dde5, #a7adb8); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(217, 221, 229, 0.3);">DNS</div>
     <div style="background: linear-gradient(135deg, #d8dde5, #a7adb8); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(217, 221, 229, 0.3);">CA</div>
     <div style="background: linear-gradient(135deg, #d8dde5, #a7adb8); padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: 700; color: #000; box-shadow: 0 4px 12px rgba(217, 221, 229, 0.3);">Orchestration</div>
@@ -394,121 +511,6 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div style="border: 2px solid var(--nanda-yellow); padding: 15px; border-radius: 12px; background: #ffffff; box-shadow: 0 5px 20px rgba(217, 221, 229, 0.2); transition: all 0.3s ease;" onmouseover="this.style.boxShadow='0 10px 30px rgba(217, 221, 229, 0.4)'; this.style.transform='translateY(-5px)'; this.style.borderColor='#000';" onmouseout="this.style.boxShadow='0 5px 20px rgba(217, 221, 229, 0.2)'; this.style.transform='translateY(0)'; this.style.borderColor='#d8dde5';">
     <img src="assets/diagrams/ss7.png" alt="Negotiation Flow" style="width: 100%; height: auto; border-radius: 8px;">
     <p align="center" style="color: #2c3e50; margin-top: 12px;"><strong style="color: var(--nanda-black);">Connection Negotiation:</strong> The detailed flow of establishing trust and communication specs between agents.</p>
-  </div>
-
-</div>
-
-## Development Roadmap
-
-<style>
-  .nanda-roadmap {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 24px;
-    justify-content: center;
-    margin-top: 30px;
-  }
-
-  .nanda-card {
-    flex: 1;
-    min-width: 300px;
-    background: #ffffff;
-    border: 2px solid var(--nanda-yellow);
-    border-radius: 16px;
-    padding: 30px;
-    box-shadow: 0 8px 25px rgba(217, 221, 229, 0.2);
-    transition: all 0.3s ease;
-    border-top: 5px solid var(--nanda-yellow-dark);
-    color: #2c3e50;
-  }
-
-  /* Hover Animation */
-  .nanda-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 15px 45px rgba(217, 221, 229, 0.4);
-    border-color: var(--nanda-black);
-    background: linear-gradient(135deg, #f7f9fc, #ffffff);
-  }
-
-  /* Specific Colors for Phases */
-  .phase-1:hover { border-top-color: var(--nanda-yellow); box-shadow: 0 15px 45px rgba(217, 221, 229, 0.5); }
-  .phase-2:hover { border-top-color: var(--nanda-yellow-light); box-shadow: 0 15px 45px rgba(240, 243, 247, 0.5); }
-  .phase-3:hover { border-top-color: var(--nanda-yellow-dark); box-shadow: 0 15px 45px rgba(167, 173, 184, 0.5); }
-
-  .nanda-card h3 {
-    margin-top: 0;
-    margin-bottom: 15px;
-    color: var(--nanda-black);
-    font-size: 1.5rem;
-  }
-
-  .nanda-card p {
-    color: #2c3e50;
-  }
-
-  .nanda-card ul {
-    color: #2c3e50;
-  }
-
-  .nanda-card b {
-    color: var(--nanda-black);
-  }
-
-  .nanda-badge {
-    display: inline-block;
-    padding: 6px 14px;
-    font-size: 0.75rem;
-    border-radius: 6px;
-    background: rgba(217, 221, 229, 0.1);
-    color: #999;
-    margin-bottom: 15px;
-    border: 1px solid #333;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-
-  .badge-active {
-    background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark));
-    color: #000;
-    font-weight: 700;
-    border-color: var(--nanda-yellow);
-    box-shadow: 0 0 15px rgba(217, 221, 229, 0.4);
-  }
-</style>
-
-<div class="nanda-roadmap">
-
-  <div class="nanda-card phase-1">
-    <span class="nanda-badge badge-active">CURRENT PHASE</span>
-    <h3>Phase 1: Foundations</h3>
-    <p><b>Focus: Onboarding, Indexing, & Discovery</b></p>
-    <ul>
-      <li><b>Index Infrastructure:</b> NANDA Index for agent discovery.</li>
-      <li><b>Cross-Platform Bridge:</b> Protocol bridges between A2A, MCP, and HTTPS.</li>
-      <li><b>Agent Onboarding:</b> SDKs for easy agent deployment.</li>
-    </ul>
-  </div>
-
-  <div class="nanda-card phase-2">
-    <span class="nanda-badge">UPCOMING</span>
-    <h3>Phase 2: Agentic Commerce</h3>
-    <p><b>Focus: Knowledge Pricing & Edge AI</b></p>
-    <ul>
-      <li><b>Knowledge Pricing:</b> Mechanisms for agents to value/exchange info.</li>
-      <li><b>Edge AI:</b> Distributed intelligence at network edges.</li>
-      <li><b>Economic Protocols:</b> Incentive systems for agent services.</li>
-    </ul>
-  </div>
-
-  <div class="nanda-card phase-3">
-    <span class="nanda-badge">FUTURE VISION</span>
-    <h3>Phase 3: Society of Agents</h3>
-    <p><b>Focus: Large Population Models & Co-learning</b></p>
-    <ul>
-      <li><b>LPMs:</b> Collective intelligence from agent populations.</li>
-      <li><b>Collaborative Learning:</b> Privacy-preserving co-learning.</li>
-      <li><b>Cross-Silo Coordination:</b> Agents working across data boundaries.</li>
-    </ul>
   </div>
 
 </div>
