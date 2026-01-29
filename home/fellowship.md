@@ -74,11 +74,6 @@
       <span style="font-size: 0.95rem; font-weight: 700; color: #d8dde5; text-transform: uppercase; letter-spacing: 0.05em;">Active partners</span>
       <p style="margin: 0; color: #c1c7d6; font-size: 0.9rem; line-height: 1.5;">Organizations co-design tracks and provide capital or pilots.</p>
     </div>
-    <div style="background: linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02)); border: 1px solid rgba(216, 221, 229, 0.35); border-radius: 16px; padding: 20px; min-height: 140px; display: flex; flex-direction: column; gap: 8px;">
-      <span style="font-size: clamp(1.8rem, 4vw, 2.3rem); font-weight: 800; color: #ffffff;">$1M+</span>
-      <span style="font-size: 0.95rem; font-weight: 700; color: #d8dde5; text-transform: uppercase; letter-spacing: 0.05em;">Funding goal (FY-26)</span>
-      <p style="margin: 0; color: #c1c7d6; font-size: 0.9rem; line-height: 1.5;">Fueling the open agentic web with capital aligned to public goods.</p>
-    </div>
   </div>
 </div>
 
