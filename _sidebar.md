@@ -1,6 +1,12 @@
-- [**Project NANDA Fellowship** <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](./home/fellowship.md)
+- **Live Projects**
+  - [NANDA Projects](./home/projects.md)
+  - [KumbhDoot](https://www.kumbhdoot.org/)
+  - [NEST](https://nest.projectnanda.org/)
+  - [join39.org](https://join39.org/)
+  - [list39.org](https://list39.org/)
 
-- [**JAN AI Residency** <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](./home/residency.md)
+- **India**
+  - [NANDA India](./home/india.md)
 
 - **Research & Standards**
   - [Research Lab](./home/8.nandapapers)
@@ -15,11 +21,9 @@
   - [Open Source Developers <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/osd.md)
   - [Community & Channels](./home/9.streams.md)
 
-- **Live Projects**
-  - [NANDA Projects](./home/projects.md)
-  - [NEST](https://nest.projectnanda.org/)
-  - [join39.org](https://join39.org/)
-  - [list39.org](https://list39.org/)
+- **Careers**
+  - [Project NANDA Fellowship <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](https://careers.projectnanda.org/)
+  - [JAN AI Residency <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](./home/residency.md)
 
 - **People & Talent**
   - [Featured Speakers](./home/10.speakers.md)
