@@ -1,12 +1,10 @@
 - **Live Projects**
   - [NANDA Projects](./home/projects.md)
+  - [NANDA India](./home/india.md)
   - [KumbhDoot](https://www.kumbhdoot.org/)
   - [NEST](https://nest.projectnanda.org/)
   - [join39.org](https://join39.org/)
   - [list39.org](https://list39.org/)
-
-- **India**
-  - [NANDA India](./home/india.md)
 
 - **Research & Standards**
   - [Research Lab](./home/8.nandapapers)
