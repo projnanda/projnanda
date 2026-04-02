@@ -1077,24 +1077,24 @@ Our research outlines the architectural and strategic foundations of the Agentic
 <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
 <p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"NANDA paves the way for building transformative technology in a truly inclusive manner... HCLTech is excited to be part of project NANDA."</p>
 <div style="display: flex; align-items: center; gap: 12px;">
-<img src="assets/headshots/Vijay-Gunter.avif" alt="Vijay Guntur" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
+<img src="assets/headshots/Vijay-Gunter.jpg" alt="Vijay Guntur" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
 <div style="flex: 1;">
 <p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Vijay Guntur</p>
 <p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">CTO, HCLTech</p>
 </div>
-<img src="assets/companylogos/hcltech.avif" alt="HCLTech" style="height: 28px;">
+<img src="assets/companylogos/hcltech.jpg" alt="HCLTech" style="height: 28px;">
 </div>
 </div>
 
 <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
 <p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"Open protocols for Internet of AI are critical to trigger new wave of innovations beyond our imagination today. We have been working with NANDA team very closely and will continue to support NANDA R&D."</p>
 <div style="display: flex; align-items: center; gap: 12px;">
-<img src="assets/headshots/Zafer-Sahinoglu.webp" alt="Zafer Sahinoglu" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
+<img src="assets/headshots/Zafer-Sahinoglu.jpg" alt="Zafer Sahinoglu" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
 <div style="flex: 1;">
 <p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Zafer Sahinoglu</p>
 <p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">VP of Innovation, Mitsubishi Electric</p>
 </div>
-<img src="assets/companylogos/Mitsubishi-logo.svg" alt="Mitsubishi Electric" style="height: 32px;">
+<img src="assets/companylogos/Mitsubishi-logo.jpg" alt="Mitsubishi Electric" style="height: 32px;">
 </div>
 </div>
 
