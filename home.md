@@ -1043,6 +1043,12 @@ Our research outlines the architectural and strategic foundations of the Agentic
       <img src="assets/headshots/claudionorcoelho.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
       <div class="speaker-card-text"><strong>Claudionor Coelho Jr</strong><br>Chief AI Officer<br><em>Zscaler</em></div>
     </div>
+  </div
+     <div class="speaker-card">
+    <div class="speaker-card-body">
+      <img src="assets/headshots/nikolay.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
+      <div class="speaker-card-text"><strong>Nikolay Vyahhi</strong><br>Founder<br><em>Egbe</em></div>
+    </div>
   </div>
   </div>
 </div>
