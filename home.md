@@ -1071,36 +1071,60 @@ Our research outlines the architectural and strategic foundations of the Agentic
 <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
 <p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"We're proud to support Project Nanda's work as they utilize the AgentAgent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."</p>
 <div style="display: flex; align-items: center; gap: 12px;">
-<img src="assets/headshots/raosura.jpeg" alt="Rao Surapaneni" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
-<div style="flex: 1;">
+<img src="assets/headshots/raosura.jpeg" alt="Rao Surapaneni" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
 <p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Rao Surapaneni</p>
 <p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">VP & GM, Google A2A</p>
 </div>
-<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google" style="height: 24px;">
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
 </div>
 </div>
 
 <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
 <p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"NANDA paves the way for building transformative technology in a truly inclusive manner... HCLTech is excited to be part of project NANDA."</p>
 <div style="display: flex; align-items: center; gap: 12px;">
-<img src="assets/headshots/Vijay-Gunter.jpg" alt="Vijay Guntur" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
-<div style="flex: 1;">
+<img src="assets/headshots/Vijay-Gunter.jpg" alt="Vijay Guntur" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
 <p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Vijay Guntur</p>
 <p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">CTO, HCLTech</p>
 </div>
-<img src="assets/companylogos/hcltech.jpg" alt="HCLTech" style="height: 28px;">
+<img src="assets/companylogos/hcltech.jpg" alt="HCLTech" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
 </div>
 </div>
 
 <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
 <p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"Open protocols for Internet of AI are critical to trigger new wave of innovations beyond our imagination today. We have been working with NANDA team very closely and will continue to support NANDA R&D."</p>
 <div style="display: flex; align-items: center; gap: 12px;">
-<img src="assets/headshots/Zafer-Sahinoglu.jpg" alt="Zafer Sahinoglu" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;">
-<div style="flex: 1;">
+<img src="assets/headshots/Zafer-Sahinoglu.jpg" alt="Zafer Sahinoglu" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
 <p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Zafer Sahinoglu</p>
 <p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">VP of Innovation, Mitsubishi Electric</p>
 </div>
-<img src="assets/companylogos/Mitsubishi-logo.jpg" alt="Mitsubishi Electric" style="height: 32px;">
+<img src="assets/companylogos/Mitsubishi-logo.jpg" alt="Mitsubishi Electric" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
+</div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
+<p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"The Nanda Protocol is pretty cool, and we are excited to be part of this journey."</p>
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="assets/headshots/Raghu_Bala.jpg" alt="Raghu Bala" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
+<p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Raghu Bala</p>
+<p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">CEO, Synergetics.ai</p>
+</div>
+<img src="assets/companylogos/Synergetics.jpg" alt="Synergetics.ai" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
+</div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
+<p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"NANDA allows us to not just understand the emerging dynamics in a world of agents but also shape the frameworks needed for them to work for us and with us."</p>
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="assets/headshots/abhishekmehta.png" alt="Abhishek Mehta" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
+<p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Abhishek Mehta</p>
+<p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">Co-founder & CEO, Tresata</p>
+</div>
+<img src="assets/companylogos/Tresata_logo_black.png" alt="Tresata" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
 </div>
 </div>
 
