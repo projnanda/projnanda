@@ -1,15 +1,14 @@
+- **Research & Standards**
+  - [Research Lab](./home/8.nandapapers)
+  - [Protocols](./home/3.protocol%20interoperability.md)
+  - [NANDA Index](./home/13.NANDAIndex.md)
+
 - **Live Projects**
-  - [NANDA Projects](./home/projects.md)
   - [NANDA India](./home/india.md)
   - [KumbhDoot](https://www.kumbhdoot.org/)
   - [NEST](https://nest.projectnanda.org/)
   - [join39.org](https://join39.org/)
   - [list39.org](https://list39.org/)
-
-- **Research & Standards**
-  - [Research Lab](./home/8.nandapapers)
-  - [Protocols](./home/3.protocol%20interoperability.md)
-  - [NANDA Index](./home/13.NANDAIndex.md)
 
 - **Build & Community**
   - [Build with NANDA <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/5.gettingstarted.md)
