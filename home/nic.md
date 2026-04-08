@@ -13,19 +13,27 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
 We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.
 
 ### North America
-- **Boston Area**
-- [**Agentic Web: SF Bay Area Chapter**](https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter)
-- **Seattle**
+- **NYC** — [Join WhatsApp Group](https://chat.whatsapp.com/EADxlxKub6FEIUTwsRDEBR)
+- [**Agentic Web: SF Bay Area Chapter**](https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter) — [Join WhatsApp Group](https://chat.whatsapp.com/L5jfpeQCv200INAZuziole)
+- **Boston Area** — [Join WhatsApp Group](https://chat.whatsapp.com/GXWhSLgq1El3Ab0FX72FYr)
+- **NJ** — _Coming soon_
+- **Seattle** — _Coming soon_
+- **Florida** — [Join WhatsApp Group](https://chat.whatsapp.com/LUSZWhTaGhaLuvPxz9tHMm)
 
 ### Europe
-- **London**
+- **London** — [Join WhatsApp Group](https://chat.whatsapp.com/GN5o8mtfqIUJ2HDmhlywFC)
 
-### MiddleEast
-- **Dubai**
+### Middle East
+- **Dubai (UAE)** — [Join WhatsApp Group](https://chat.whatsapp.com/Ev5dRjyMFcvIFdhducWagC)
 
 ### Asia
-- **Mumbai**
-- **Bengaluru**
+- **Mumbai** — [Join WhatsApp Group](https://chat.whatsapp.com/Es9zEeCABASJglNbYSmaDx)
+- **Delhi** — [Join WhatsApp Group](https://chat.whatsapp.com/B5GCDQQ3oGP5mATqhAj23O)
+- **Hyderabad** — [Join WhatsApp Group](https://chat.whatsapp.com/FV3UE8ARNsF51PZEWsGkBL)
+- **Bengaluru** — [Join WhatsApp Group](https://chat.whatsapp.com/F4FgELgoRqjFdX8XvDn9h2)
+
+### Australia
+- _Coming soon_
 
 ### Coming Soon
 - **Singapore**
