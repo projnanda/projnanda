@@ -1,4 +1,4 @@
-# Project NANDA: Global Events
+﻿# Project NANDA: Global Events 2025
 
 <div class="events-hero">
   <div class="hero-text">
@@ -9,7 +9,7 @@
       <a class="btn primary" href="https://luma.com/nanda?k=c" target="_blank" rel="noopener">Register & RSVP</a>
       <a class="btn ghost" href="https://discord.gg/BxnPBEqd88" target="_blank" rel="noopener">Join the build chat</a>
     </div>
-    <p class="hero-meta">Auto-synced from the public Luma calendar.</p>
+    <p class="hero-meta">Synced with the Luma calendar. Bookmark this page to catch what is next.</p>
   </div>
   <div class="hero-stats">
     <div class="stat-card">
@@ -29,20 +29,62 @@
 
 ---
 
+## Upcoming highlights (from Luma)
+<div class="events-grid">
+  <div class="event-card">
+    <div class="event-date"><span class="day">05</span><span class="month">Dec</span></div>
+    <div class="event-body">
+      <div class="event-name">NANDA - Technical Office Hours</div>
+      <div class="event-tags"><span class="pill">Online</span><span class="pill pill-virtual">Virtual</span><span class="pill">Dec 5 @ 12:00-1:00 PM ET</span></div>
+    </div>
+  </div>
+  <div class="event-card">
+    <div class="event-date"><span class="day">05</span><span class="month">Dec</span></div>
+    <div class="event-body">
+      <div class="event-name">A39: Author Agent Tools</div>
+      <div class="event-tags"><span class="pill">Online</span><span class="pill pill-virtual">Virtual</span><span class="pill">Dec 5 @ 12:30-1:00 PM ET</span></div>
+    </div>
+  </div>
+  <div class="event-card">
+    <div class="event-date"><span class="day">05</span><span class="month">Dec</span></div>
+    <div class="event-body">
+      <div class="event-name">Agentic Web @ NeurIPS</div>
+      <div class="event-tags"><span class="pill">San Diego, CA</span><span class="pill pill-live">In person</span><span class="pill">Dec 5 @ 7:00-9:00 PM PT</span></div>
+    </div>
+  </div>
+  <div class="event-card">
+    <div class="event-date"><span class="day">07</span><span class="month">Dec</span></div>
+    <div class="event-body">
+      <div class="event-name">Deliver Value for Consumers: Personas x Agentic AI</div>
+      <div class="event-tags"><span class="pill">New York, NY</span><span class="pill pill-live">In person</span><span class="pill">Dec 7 @ 5:00-9:00 PM ET</span></div>
+    </div>
+  </div>
+  <div class="event-card">
+    <div class="event-date"><span class="day">08</span><span class="month">Dec</span></div>
+    <div class="event-body">
+      <div class="event-name">New Race for Agentic Web (TiE Silicon Valley)</div>
+      <div class="event-tags"><span class="pill">Palo Alto, CA</span><span class="pill pill-live">In person</span><span class="pill">Dec 8 @ 5:30-6:30 PM PT</span></div>
+    </div>
+  </div>
+</div>
+
+---
+
 ## Full schedule (live from Luma)
 <div class="events-table">
 
 | Date & Time | Event | Mode | Node / Location | RSVP |
 | :--- | :--- | :--- | :--- | :--- |
-| Apr 09, 2026 1:00 PM | Day 1: Agentic Web Summit in Cambridge, April 9th | In person | TBA | [RSVP](https://luma.com/1i37m5l8) |
-| Apr 10, 2026 1:00 PM | Day2: Agentic Web Summit, Apr 10th in Cambridge at MIT | In person | TBA | [RSVP](https://luma.com/tkeux9pl) |
-| Apr 11, 2026 9:00 AM | Day 3: NANDA Summit: Agentic Web, Apr 11th at MIT | In person | Cambridge, Massachusetts | [RSVP](https://luma.com/vu7509m2) |
-| Apr 22, 2026 6:00 PM | Nanda in Palo Alto, Wedn Apr 22nd | In person | Palo Alto | [RSVP](https://luma.com/quwpw7xg) |
-| Apr 25, 2026 10:00 AM | Agentic Web SF: Nanda MIT Workshop, Hack and Tutorials, Sat Apr 25th | In person | San Francisco, California | [RSVP](https://luma.com/fzy7nhms) |
+| Dec 05, 2025 12:00-1:00 PM ET | NANDA - Technical Office Hours | Virtual | Online | [RSVP](https://luma.com/ndutlhtz) |
+| Dec 05, 2025 12:30-1:00 PM ET | A39: Author Agent Tools | Virtual | Online | [RSVP](https://luma.com/9t5gp3x7) |
+| Dec 05, 2025 7:00-9:00 PM PT | Agentic Web@Neurips with ProjectNanda and MIT Researchers | In person | San Diego, CA | [RSVP](https://luma.com/7jkquahk) |
+| Dec 07, 2025 5:00-9:00 PM ET | Deliver Value for Consumers: Personas x Agentic AI | In person | New York, NY | [RSVP](https://luma.com/j83d2lk6) |
+| Dec 08, 2025 5:30-6:30 PM PT | New Race for Agentic Web by TiE Silicon Valley | In person | Palo Alto, CA | [RSVP](https://luma.com/39e7wl1z) |
 
 </div>
 
 ---
+
 ## 2025 archive (Jan-Nov)
 <div class="events-table">
 

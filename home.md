@@ -573,7 +573,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
   <div class="speaker-card">
     <div class="speaker-card-body">
       <img src="assets/headshots/Peeyush Aggarwal.jpeg" style="width:52px; height:52px; object-fit:cover; border-radius:12px; border:1px solid #e2e5eb; box-shadow:0 4px 10px rgba(0,0,0,0.12);">
-      <div class="speaker-card-text"><strong>Peeyush Aggarwal</strong><br>Partner<br><em>Deloitte UK</em><br><a href="https://youtu.be/ne-ErV-UJOTc?si=7YvBSq3zrPFSC4_N" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
+      <div class="speaker-card-text"><strong>Peeyush Aggarwal</strong><br>Partner<br><em>Deloitte UK</em><br><a href="https://www.youtube.com/watch?v=AZQKop8kPV4" target="_blank" rel="noopener"><span class="yt-icon" aria-hidden="true"></span></a></div>
     </div>
   </div>
   <div class="speaker-card">
