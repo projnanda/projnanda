@@ -355,7 +355,9 @@
           }
 
           heading.dataset.sidebarBound = 'true';
-          heading.addEventListener('click', () => {
+          heading.addEventListener('click', (e) => {
+            e.stopPropagation();
+            e.preventDefault();
             const nextOpen = !item.classList.contains('sidebar-open');
             item.classList.toggle('sidebar-open', nextOpen);
             writeState({
