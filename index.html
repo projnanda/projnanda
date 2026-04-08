@@ -56,26 +56,29 @@
       background: #ffffff;
     }
 
-    .sidebar {
-      top: 14px;
-      bottom: 14px;
-      left: 14px;
-      width: 320px;
-      border-right: none;
-      border-radius: 28px;
-      background: #ffffff;
-      box-shadow: 0 18px 48px rgba(15, 23, 42, 0.12);
-      overflow: hidden;
-      border: 1px solid rgba(203, 213, 225, 0.8);
-    }
+    /* Premium rounded sidebar — desktop only */
+    @media (min-width: 1025px) {
+      .sidebar {
+        top: 14px;
+        bottom: 14px;
+        left: 14px;
+        width: 320px;
+        border-right: none;
+        border-radius: 28px;
+        background: #ffffff;
+        box-shadow: 0 18px 48px rgba(15, 23, 42, 0.12);
+        overflow: hidden;
+        border: 1px solid rgba(203, 213, 225, 0.8);
+      }
 
-    .sidebar-nav {
-      padding: 12px 16px 22px;
-    }
+      .sidebar-nav {
+        padding: 12px 16px 22px;
+      }
 
-    .content {
-      left: 348px !important;
-      background: #ffffff;
+      .content {
+        left: 348px !important;
+        background: #ffffff;
+      }
     }
 
 
@@ -235,41 +238,12 @@
       max-height: 800px;
     }
 
-    @media (max-width: 768px) {
-      body,
-      .app {
-        background: #ffffff;
-      }
-
+    /* Tablet & phone — only undo premium visual styles, don't touch layout */
+    @media (max-width: 1024px) {
       .sidebar {
-        top: 0;
-        bottom: 0;
-        left: 0;
-        width: 300px;
-        border-radius: 0;
-        border: none;
-        box-shadow: none;
-        transform: translateX(-300px);
-        transition: transform 0.25s ease;
-        z-index: 50;
-      }
-
-      body.close .sidebar {
-        transform: translateX(-300px);
-      }
-
-      body:not(.close) .sidebar {
-        transform: translateX(0);
-        box-shadow: 4px 0 24px rgba(0, 0, 0, 0.15);
-      }
-
-      /* Overlay behind sidebar when open */
-      body:not(.close)::after {
-        content: '';
-        position: fixed;
-        inset: 0;
-        background: rgba(0, 0, 0, 0.3);
-        z-index: 40;
+        border-radius: 0 !important;
+        border: none !important;
+        box-shadow: none !important;
       }
 
       .sidebar .app-name-link img {
@@ -277,16 +251,8 @@
         margin: 5px 0 16px 0 !important;
       }
 
-      .sidebar-nav {
-        padding: 8px 10px 18px;
-      }
-
-      .content {
-        left: 0 !important;
-      }
-
       .markdown-section {
-        padding: 16px 14px;
+        padding: 20px 16px;
       }
 
       .markdown-section table {
