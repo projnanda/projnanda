@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "docsify serve . --port 3000",
     "serve": "docsify serve .",
+    "sync:events": "node scripts/sync-events-from-luma.mjs",
     "build": "echo 'No build step needed for Docsify'",
     "deploy": "echo 'Deploy to your preferred hosting service'"
   },

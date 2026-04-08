@@ -94,6 +94,47 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 ---
 
+## Collaborators and Contributors
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"We're proud to support Project Nanda's work as they utilize the AgentAgent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."</p>
+<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
+<div>
+<p style="margin: 0; font-weight: 600; color: #1a202c;">Rao Surapaneni</p>
+<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">VP & GM, Google A2A</p>
+</div>
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google" style="height: 24px; margin-left: auto;">
+</div>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"NANDA paves the way for building transformative technology in a truly inclusive manner... HCLTech is excited to be part of project NANDA."</p>
+<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
+<div>
+<p style="margin: 0; font-weight: 600; color: #1a202c;">Vijay Guntur</p>
+<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">CTO, HCLTech</p>
+</div>
+<img src="https://www.hcltech.com/themes/custom/hcltech/logo.svg" alt="HCLTech" style="height: 28px; margin-left: auto;">
+</div>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"Open protocols for Internet of AI are critical to trigger new wave of innovations beyond our imagination today. We have been working with NANDA team very closely and will continue to support NANDA R&D."</p>
+<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
+<div>
+<p style="margin: 0; font-weight: 600; color: #1a202c;">Zafer Sahinoglu</p>
+<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">VP of Innovation, Mitsubishi Electric</p>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mitsubishi_Electric_logo.svg/320px-Mitsubishi_Electric_logo.svg.png" alt="Mitsubishi Electric" style="height: 32px; margin-left: auto;">
+</div>
+</div>
+
+</div>
+
+---
+
 ## Community & Collaboration
 
 We believe the web must evolve from static content to autonomous actors. **Join us in building the next layer of the web.**

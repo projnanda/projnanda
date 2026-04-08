@@ -51,6 +51,34 @@
 
     body { overflow-x: hidden; }
 
+    body,
+    .app {
+      background: #ffffff;
+    }
+
+    .sidebar {
+      top: 14px;
+      bottom: 14px;
+      left: 14px;
+      width: 320px;
+      border-right: none;
+      border-radius: 28px;
+      background: #ffffff;
+      box-shadow: 0 18px 48px rgba(15, 23, 42, 0.12);
+      overflow: hidden;
+      border: 1px solid rgba(203, 213, 225, 0.8);
+    }
+
+    .sidebar-nav {
+      padding: 12px 16px 22px;
+    }
+
+    .content {
+      left: 348px !important;
+      background: #ffffff;
+    }
+
+
     .markdown-section {
       max-width: 1100px;
       padding: 24px 32px;
@@ -164,13 +192,80 @@
         animation: octocat-wave 560ms ease-in-out;
       }
     }
+
+    .sidebar-nav > ul > li {
+      margin-bottom: 8px;
+    }
+
+    .sidebar-nav > ul > li > p {
+      cursor: pointer;
+      margin: 0;
+      padding: 8px 12px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: background-color 0.2s ease;
+    }
+
+    .sidebar-nav > ul > li > p:hover {
+      background: var(--nanda-yellow-light);
+    }
+
+    .sidebar-nav > ul > li > p::after {
+      content: '▸';
+      font-size: 10px;
+      color: var(--text-color-secondary);
+      margin-left: 8px;
+      transition: transform 0.2s ease;
+    }
+
+    .sidebar-nav > ul > li > ul {
+      max-height: 0;
+      overflow: hidden;
+      padding-left: 12px;
+      transition: max-height 0.25s ease;
+    }
+
+    .sidebar-nav > ul > li.sidebar-open > p::after {
+      transform: rotate(90deg);
+    }
+
+    .sidebar-nav > ul > li.sidebar-open > ul {
+      max-height: 800px;
+    }
+
+    @media (max-width: 768px) {
+      body,
+      .app {
+        background: #ffffff;
+      }
+
+      .sidebar {
+        top: 0;
+        bottom: 0;
+        left: 0;
+        width: 300px;
+        border-radius: 0;
+        border: none;
+        box-shadow: none;
+      }
+
+      .sidebar-nav {
+        padding: 8px 10px 18px;
+      }
+
+      .content {
+        left: 0 !important;
+      }
+    }
   </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 140px; margin: -10px 0 -5px 0;">',
+      name: '<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 180px; margin: 10px 0 30px 0;">',
       repo: '',
       homepage: 'home.md',
       loadSidebar: true,
@@ -193,6 +288,69 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script>
+    (function () {
+      const expandedSections = new Set(['Research & Standards', 'Live Projects']);
+      const storageKey = 'nanda-sidebar-state';
+
+      function readState() {
+        try {
+          return JSON.parse(localStorage.getItem(storageKey) || '{}');
+        } catch (error) {
+          return {};
+        }
+      }
+
+      function writeState(nextState) {
+        localStorage.setItem(storageKey, JSON.stringify(nextState));
+      }
+
+      function applySidebarDisclosure() {
+        const items = document.querySelectorAll('.sidebar-nav > ul > li');
+        const storedState = readState();
+
+        items.forEach((item) => {
+          const heading = item.querySelector(':scope > p');
+          const children = item.querySelector(':scope > ul');
+
+          if (!heading || !children) {
+            return;
+          }
+
+          const label = heading.textContent.trim();
+          const shouldOpen = Object.prototype.hasOwnProperty.call(storedState, label)
+            ? storedState[label]
+            : expandedSections.has(label);
+
+          item.classList.toggle('sidebar-open', Boolean(shouldOpen));
+
+          if (heading.dataset.sidebarBound === 'true') {
+            return;
+          }
+
+          heading.dataset.sidebarBound = 'true';
+          heading.addEventListener('click', () => {
+            const nextOpen = !item.classList.contains('sidebar-open');
+            item.classList.toggle('sidebar-open', nextOpen);
+            writeState({
+              ...readState(),
+              [label]: nextOpen
+            });
+          });
+        });
+      }
+
+      window.$docsify.plugins = [].concat(window.$docsify.plugins || [], [function (hook) {
+        hook.doneEach(function () {
+          requestAnimationFrame(applySidebarDisclosure);
+        });
+      }]);
+
+      document.addEventListener('DOMContentLoaded', function () {
+        requestAnimationFrame(applySidebarDisclosure);
+      });
+    })();
+  </script>
 </body>
 </html> 
 
