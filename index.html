@@ -249,6 +249,32 @@
         border-radius: 0;
         border: none;
         box-shadow: none;
+        transform: translateX(-300px);
+        transition: transform 0.25s ease;
+        z-index: 50;
+      }
+
+      body.close .sidebar {
+        transform: translateX(-300px);
+      }
+
+      body:not(.close) .sidebar {
+        transform: translateX(0);
+        box-shadow: 4px 0 24px rgba(0, 0, 0, 0.15);
+      }
+
+      /* Overlay behind sidebar when open */
+      body:not(.close)::after {
+        content: '';
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.3);
+        z-index: 40;
+      }
+
+      .sidebar .app-name-link img {
+        width: 140px !important;
+        margin: 5px 0 16px 0 !important;
       }
 
       .sidebar-nav {
@@ -257,6 +283,30 @@
 
       .content {
         left: 0 !important;
+      }
+
+      .markdown-section {
+        padding: 16px 14px;
+      }
+
+      .markdown-section table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        white-space: nowrap;
+      }
+
+      .markdown-section h1 {
+        font-size: 1.5rem;
+      }
+
+      .markdown-section h2 {
+        font-size: 1.3rem;
+        margin-top: 24px;
+      }
+
+      .markdown-section h3 {
+        font-size: 1.1rem;
       }
     }
   </style>
