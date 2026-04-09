@@ -204,111 +204,84 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 18px; margin: 20px 0;">
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #d8dde5; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">NC</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Nick Cooper</div>
-        <div style="color: #444; font-size: 0.95rem;">Member of Technical Staff, OpenAI</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/S2ksXKHbOUU" title="Nick Cooper - Composable MCP" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Nick Cooper</div>
+      <div style="color: #444; font-size: 0.95rem;">Member of Technical Staff, OpenAI</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #d8dde5; color: #000; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">RR</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Prof. Ramesh Raskar</div>
-        <div style="color: #444; font-size: 0.95rem;">MIT Media Lab</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/yXxHb3LMygw" title="Ramesh Raskar - NANDA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Prof. Ramesh Raskar</div>
+      <div style="color: #444; font-size: 0.95rem;">MIT Media Lab</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #d8dde5; color: #000; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">RS</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Rao Surapaneni</div>
-        <div style="color: #444; font-size: 0.95rem;">VP, Google Cloud</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/4oBITv0hbs" title="Rao Surapaneni - A2A Standard" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Rao Surapaneni</div>
+      <div style="color: #444; font-size: 0.95rem;">VP, Google Cloud</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #d8dde5; color: #000; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">PM</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Paul V. Mockapetris</div>
-        <div style="color: #444; font-size: 0.95rem;">Inventor of DNS</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/MFWHSwD-EZ8" title="Paul V. Mockapetris - DNS & Agents" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Paul V. Mockapetris</div>
+      <div style="color: #444; font-size: 0.95rem;">Inventor of DNS</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #d8dde5; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">PM</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Prof. Pattie Maes</div>
-        <div style="color: #444; font-size: 0.95rem;">MIT Media Lab</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/SA3n2o5q07c" title="Prof. Pattie Maes - History of Autonomous Agents" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Prof. Pattie Maes</div>
+      <div style="color: #444; font-size: 0.95rem;">MIT Media Lab</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #d8dde5; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">FP</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Fatih Porikli</div>
-        <div style="color: #444; font-size: 0.95rem;">Sr. Director, Global AI Agents, Qualcomm</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/lrklrvn8P7A" title="Fatih Porikli - On Device Agentic AI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Fatih Porikli</div>
+      <div style="color: #444; font-size: 0.95rem;">Sr. Director, Global AI Agents, Qualcomm</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #d8dde5; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">JR</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">John Roese</div>
-        <div style="color: #444; font-size: 0.95rem;">Global CTO & Chief AI Officer, Dell</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/WJ3xGAKqmGs" title="John Roese - Fireside Chat" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">John Roese</div>
+      <div style="color: #444; font-size: 0.95rem;">Global CTO & Chief AI Officer, Dell</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #d8dde5; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">RG</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">R.V. Guha</div>
-        <div style="color: #444; font-size: 0.95rem;">Tech Fellow, Microsoft & NLWeb</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/P0YKIRD8eQk" title="R.V. Guha - Rewiring the Web" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">R.V. Guha</div>
+      <div style="color: #444; font-size: 0.95rem;">Tech Fellow, Microsoft & NLWeb</div>
+    </div>
   </div>
   <div style="border: 2px solid var(--nanda-yellow); border-radius: 14px; padding: 14px; background: #ffffff; box-shadow: 0 6px 16px rgba(217, 221, 229, 0.2);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <div style="width: 44px; height: 44px; border-radius: 12px; background: #000; color: #d8dde5; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1rem;">ER</div>
-      <div>
-        <div style="font-weight: 800; color: var(--nanda-black);">Erik Reppel</div>
-        <div style="color: #444; font-size: 0.95rem;">Engineering Leader, Coinbase</div>
-      </div>
-    </div>
-    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <div style="position: relative; padding-top: 56.25%; border-radius: 10px; overflow: hidden; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin-bottom: 10px;">
       <iframe src="https://www.youtube.com/embed/sm-KoiDZLgg" title="Erik Reppel - Coinbase" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-weight: 800; color: var(--nanda-black);">Erik Reppel</div>
+      <div style="color: #444; font-size: 0.95rem;">Engineering Leader, Coinbase</div>
     </div>
   </div>
 </div>
