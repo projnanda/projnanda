@@ -180,6 +180,40 @@
     /* Hide default GitHub corner */
     .github-corner { display: none !important; }
 
+    /* Social bar floating top-right */
+    .nanda-social-bar {
+      position: fixed;
+      top: 14px;
+      right: 14px;
+      z-index: 100;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 16px;
+      background: #ffffff;
+      border-radius: 20px;
+      border: 1px solid rgba(203, 213, 225, 0.8);
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.1);
+    }
+
+    .nanda-social-bar a {
+      width: 32px;
+      height: 32px;
+      border-radius: 10px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-weight: 800;
+      text-decoration: none;
+      font-size: 11px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .nanda-social-bar a:hover {
+      transform: scale(1.1);
+    }
+
     .app-name-link {
       font-weight: 300;
     }
@@ -261,6 +295,25 @@
         margin: 5px 0 16px 0 !important;
       }
 
+      /* Style the hamburger toggle button */
+      .sidebar-toggle {
+        background: #ffffff !important;
+        border-radius: 12px !important;
+        border: 1px solid rgba(203, 213, 225, 0.8) !important;
+        box-shadow: 0 4px 12px rgba(15, 23, 42, 0.1) !important;
+        padding: 8px !important;
+        width: 40px !important;
+        height: 40px !important;
+        bottom: 20px !important;
+        left: 20px !important;
+      }
+
+      .sidebar-toggle span {
+        background: #333 !important;
+        width: 18px !important;
+        height: 2px !important;
+      }
+
       .markdown-section {
         padding: 20px 16px;
       }
@@ -284,26 +337,112 @@
       .markdown-section h3 {
         font-size: 1.1rem;
       }
+
+      /* Roadmap cards — reduce min-width for iPad */
+      .nanda-card {
+        min-width: 240px !important;
+        padding: 24px !important;
+      }
+
+      /* Fix paddings on inline-styled cards */
+      .markdown-section div[style*="padding: 30px 40px"] {
+        padding: 20px 24px !important;
+      }
+
+      .markdown-section div[style*="padding: 35px"] {
+        padding: 24px !important;
+      }
+
+      /* Social bar — smaller on tablet/phone */
+      .nanda-social-bar {
+        top: 10px;
+        right: 10px;
+        padding: 6px 10px;
+        gap: 6px;
+        border-radius: 16px;
+      }
+
+      .nanda-social-bar a {
+        width: 28px;
+        height: 28px;
+        border-radius: 8px;
+        font-size: 10px;
+      }
+    }
+
+    /* Small phone specific tweaks */
+    @media (max-width: 480px) {
+      .nanda-social-bar {
+        top: 8px;
+        right: 8px;
+        padding: 5px 8px;
+        gap: 5px;
+      }
+
+      .nanda-social-bar a {
+        width: 26px;
+        height: 26px;
+        font-size: 9px;
+      }
+
+      .markdown-section {
+        padding: 16px 12px;
+      }
+
+      /* Scale down hero heading */
+      .markdown-section h1 {
+        font-size: 1.3rem !important;
+      }
+
+      /* Fix inline padding on cards */
+      .markdown-section div[style*="padding: 30px 40px"],
+      .markdown-section div[style*="padding: 35px"] {
+        padding: 16px !important;
+      }
+
+      /* Reduce grid min-width to prevent overflow */
+      .nanda-roadmap {
+        gap: 16px !important;
+      }
+
+      .nanda-card {
+        min-width: unset !important;
+        padding: 20px !important;
+      }
+
+      .speaker-showcase {
+        padding: 14px 12px !important;
+      }
+
+      .speaker-grid {
+        grid-template-columns: 1fr !important;
+      }
     }
   </style>
 </head>
 <body>
   <div id="app"></div>
+  <div class="nanda-social-bar">
+    <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" style="background:#ff0000;" aria-label="YouTube">YT</a>
+    <a href="https://discord.gg/BxnPBEqd88" target="_blank" style="background:#5865f2;" aria-label="Discord">D</a>
+    <a href="https://www.linkedin.com/company/projectnanda/" target="_blank" style="background:#0a66c2;" aria-label="LinkedIn">in</a>
+    <a href="https://arxiv.org/abs/2507.14263" target="_blank" style="background:#b31b1b;" aria-label="arXiv">ax</a>
+    <a href="https://github.com/projnanda" target="_blank" style="background:#000;" aria-label="GitHub">GH</a>
+  </div>
   <script>
     window.$docsify = {
       name: '<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 180px; margin: 10px 0 30px 0;">',
       repo: '',
       homepage: 'home.md',
       loadSidebar: true,
-      loadNavbar: true,
+      loadNavbar: false,
       coverpage: false,
       auto2top: true,
       maxLevel: 4,
       subMaxLevel: 2,
       relativePath: false,
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md',
-        '/.*/_navbar.md': '/_navbar.md'
+        '/.*/_sidebar.md': '/_sidebar.md'
       },
       search: false
     }
