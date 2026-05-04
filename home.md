@@ -1179,9 +1179,9 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 
 ---
 
-## Start a Conversation
+<h2 id="lets-talk">Start a Conversation</h2>
 
-<div style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 30px 40px; margin: 20px 0; box-shadow: 0 6px 18px rgba(217, 221, 229, 0.2);">
+<div id="contact-form" style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 30px 40px; margin: 20px 0; box-shadow: 0 6px 18px rgba(217, 221, 229, 0.2);">
   <p style="color: #444; margin: 0 0 24px 0; line-height: 1.6; font-size: 1.05rem; text-align: center;">Have questions, ideas, or want to collaborate? Reach out to us!</p>
   
   <form action="https://api.web3forms.com/submit" method="POST" style="display: grid; gap: 16px; max-width: 600px; margin: 0 auto;">
