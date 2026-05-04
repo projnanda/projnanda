@@ -1177,6 +1177,37 @@ We believe the web must evolve from static content to autonomous actors. **Join 
   </div>
 </div>
 
+---
+
+## Contact
+
+<div style="background: linear-gradient(135deg, #f7f9fc, #ffffff); border: 2px solid var(--nanda-yellow); border-radius: 16px; padding: 30px 40px; margin: 20px 0; box-shadow: 0 6px 18px rgba(217, 221, 229, 0.2);">
+  <p style="color: #444; margin: 0 0 24px 0; line-height: 1.6; font-size: 1.05rem; text-align: center;">Have questions, ideas, or want to collaborate? Reach out to us!</p>
+  
+  <form action="https://api.web3forms.com/submit" method="POST" style="display: grid; gap: 16px; max-width: 600px; margin: 0 auto;">
+    <input type="hidden" name="access_key" value="1ad8efe6-33f6-40a6-a8b9-cd9de2e60ed5">
+    <input type="hidden" name="subject" value="New Contact from Project NANDA Website">
+    <input type="hidden" name="from_name" value="Project NANDA Contact Form">
+    
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+      <input type="text" name="name" placeholder="Your Name" required style="padding: 14px 18px; border: 1px solid #e2e5eb; border-radius: 10px; font-size: 1rem; font-family: inherit; outline: none; transition: border-color 0.2s ease; background: #fff;" onfocus="this.style.borderColor='#000'" onblur="this.style.borderColor='#e2e5eb'">
+      <input type="email" name="email" placeholder="Your Email" required style="padding: 14px 18px; border: 1px solid #e2e5eb; border-radius: 10px; font-size: 1rem; font-family: inherit; outline: none; transition: border-color 0.2s ease; background: #fff;" onfocus="this.style.borderColor='#000'" onblur="this.style.borderColor='#e2e5eb'">
+    </div>
+    <input type="text" name="subject_line" placeholder="Subject" style="padding: 14px 18px; border: 1px solid #e2e5eb; border-radius: 10px; font-size: 1rem; font-family: inherit; outline: none; transition: border-color 0.2s ease; background: #fff;" onfocus="this.style.borderColor='#000'" onblur="this.style.borderColor='#e2e5eb'">
+    <textarea name="message" placeholder="Your Message" rows="5" required style="padding: 14px 18px; border: 1px solid #e2e5eb; border-radius: 10px; font-size: 1rem; font-family: inherit; outline: none; resize: vertical; transition: border-color 0.2s ease; background: #fff;" onfocus="this.style.borderColor='#000'" onblur="this.style.borderColor='#e2e5eb'"></textarea>
+    <button type="submit" style="padding: 16px 32px; background: #000; color: #fff; border: none; border-radius: 10px; font-size: 1rem; font-weight: 700; cursor: pointer; transition: all 0.2s ease;" onmouseover="this.style.background='#333'; this.style.transform='translateY(-2px)'" onmouseout="this.style.background='#000'; this.style.transform='translateY(0)'">Send Message</button>
+  </form>
+
+  <div style="margin-top: 28px; padding-top: 24px; border-top: 1px solid #e2e5eb; text-align: center;">
+    <p style="margin: 0; color: #555; font-size: 0.95rem;">
+      <strong style="color: #000;">Or email us directly:</strong> 
+      <a href="mailto:ashutosh@agenticnet.org" style="color: #000; font-weight: 600; margin-left: 6px;">ashutosh@agenticnet.org</a>
+    </p>
+  </div>
+</div>
+
+---
+
 <div align="center">
 
 **Made with <span style="color: #FFD700;">♥</span> by the NANDA Community**
