@@ -417,6 +417,42 @@
       .speaker-grid {
         grid-template-columns: 1fr !important;
       }
+
+      .nanda-contact-fab {
+        bottom: 80px !important;
+        right: 16px !important;
+        padding: 12px 16px !important;
+        font-size: 0.9rem !important;
+      }
+    }
+
+    /* Floating Contact Button */
+    .nanda-contact-fab {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 99;
+      padding: 14px 20px;
+      background: #000;
+      color: #fff;
+      border: none;
+      border-radius: 30px;
+      font-size: 0.95rem;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-decoration: none;
+    }
+
+    .nanda-contact-fab:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 28px rgba(0, 0, 0, 0.35);
+      background: #333;
+      color: #fff;
     }
   </style>
 </head>
@@ -429,6 +465,7 @@
     <a href="https://arxiv.org/abs/2507.14263" target="_blank" style="background:#b31b1b;" aria-label="arXiv">ax</a>
     <a href="https://github.com/projnanda" target="_blank" style="background:#000;" aria-label="GitHub">GH</a>
   </div>
+  <a href="#/home?id=start-a-conversation" class="nanda-contact-fab" aria-label="Let's Talk" title="Let's Talk">💬 Let's Talk</a>
   <script>
     window.$docsify = {
       name: '<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 180px; margin: 10px 0 30px 0;">',
