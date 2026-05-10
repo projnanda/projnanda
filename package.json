@@ -7,6 +7,8 @@
     "dev": "docsify serve . --port 3000",
     "serve": "docsify serve .",
     "sync:events": "node scripts/sync-events-from-luma.mjs",
+    "test": "node --test scripts/sync-events-from-luma.test.mjs",
+    "test:sync": "npm run test",
     "build": "echo 'No build step needed for Docsify'",
     "deploy": "echo 'Deploy to your preferred hosting service'"
   },
