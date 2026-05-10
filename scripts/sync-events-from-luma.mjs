@@ -107,8 +107,9 @@ function getLocation(event) {
 async function fetchEvents() {
   const response = await fetch(LUMA_URL, {
     headers: {
-      'User-Agent': 'Mozilla/5.0 (compatible; NANDA Events Sync/1.0)',
-      'Accept': 'text/html,application/xhtml+xml',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+      'Accept-Language': 'en-US,en;q=0.9',
     },
   });
 
@@ -117,23 +118,60 @@ async function fetchEvents() {
   }
 
   const html = await response.text();
-  const matches = [...html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)];
+  
+  // Try multiple patterns to find event data
+  const patterns = [
+    /<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g,
+    /<script[^>]*id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/g,
+  ];
 
-  for (const match of matches) {
-    try {
-      const json = JSON.parse(match[1]);
-      const events = Array.isArray(json?.events) ? json.events : Array.isArray(json) ? json.flatMap((item) => item?.events || []) : [];
-      if (events.length > 0) {
-        return events
-          .filter((event) => event?.startDate && event?.name)
-          .sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
+  for (const pattern of patterns) {
+    const matches = [...html.matchAll(pattern)];
+    
+    for (const match of matches) {
+      try {
+        const json = JSON.parse(match[1]);
+        
+        // Try different event data structures
+        let events = [];
+        
+        // Pattern 1: Direct events array
+        if (Array.isArray(json?.events)) {
+          events = json.events;
+        }
+        // Pattern 2: Array of objects with events
+        else if (Array.isArray(json)) {
+          events = json.flatMap((item) => item?.events || []);
+        }
+        // Pattern 3: Next.js data structure
+        else if (json?.props?.pageProps?.events) {
+          events = json.props.pageProps.events;
+        }
+        // Pattern 4: Nested in itemListElement
+        else if (json?.itemListElement) {
+          events = json.itemListElement;
+        }
+        
+        if (events.length > 0) {
+          const validEvents = events
+            .filter((event) => event?.startDate && event?.name)
+            .sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
+          
+          if (validEvents.length > 0) {
+            console.log(`Found ${validEvents.length} events from Luma`);
+            return validEvents;
+          }
+        }
+      } catch (err) {
+        // Continue to next match
+        continue;
       }
-    } catch {
-      continue;
     }
   }
 
-  throw new Error('Could not find structured event data on the Luma page.');
+  // If no events found, log warning but don't fail - return empty array
+  console.warn('Warning: Could not find structured event data on the Luma page. Keeping existing events.');
+  return null;
 }
 
 function renderTable(events) {
@@ -194,6 +232,12 @@ async function main() {
     fetchEvents(),
     readFile(EVENTS_FILE, 'utf8'),
   ]);
+
+  // If events is null, Luma data wasn't available - skip update
+  if (events === null) {
+    console.log('Skipping update - Luma data unavailable. Existing events preserved.');
+    return;
+  }
 
   const archiveIndex = currentFile.indexOf(ARCHIVE_HEADING);
   if (archiveIndex === -1) {
