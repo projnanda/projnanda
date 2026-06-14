@@ -18,6 +18,9 @@
   - [Open Source Developers <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/osd.md)
   - [Community & Channels](./home/9.streams.md)
 
+- **Hackathons <span class="nav-dot"></span>**
+  - [NandaHack 2026 <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">🔥 Apply</span>](./home/hackathons.md)
+
 - **Careers**
   - [Project NANDA Fellowship <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](https://careers.projectnanda.org/)
   - [JAN AI Residency <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Apply</span>](./home/residency.md)
