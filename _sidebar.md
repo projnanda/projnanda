@@ -5,6 +5,7 @@
 
 - **Live Projects**
   - [NANDA India](./home/india.md)
+  - [Sovereign AI Agents](./home/sovereign-agents.md)
   - [KumbhDoot](https://www.kumbhdoot.org/)
   - [NEST](https://nest.projectnanda.org/)
   - [join39.org](https://join39.org/)
