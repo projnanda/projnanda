@@ -6,7 +6,6 @@
 > **The future isn't just AI â€” it's trillions of AI agents collaborating across the open web securely.**
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/projectnanda/)
 [![arXiv](https://img.shields.io/badge/arXiv-Read_Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.14263)
 
@@ -139,7 +138,6 @@ Our research outlines the architectural and strategic foundations of the Agentic
 
 We believe the web must evolve from static content to autonomous actors. **Join us in building the next layer of the web.**
 
-* **[Discord](https://discord.gg/BxnPBEqd88):** For technical discussions and community chat.
 * **[Events (Lu.ma)](https://Lu.Ma/nanda):** Join our weekly webinars and summits.
 * **[GitHub](https://github.com/projnanda):** Explore our code and repositories.
 * **[FAN Fellowship](https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform):** Applications are open.
@@ -155,5 +153,4 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 *Building the Open Agentic Web*
 
 </div>
-
 
