@@ -106,50 +106,50 @@
 
 ## Sponsor a fellowship
 
-<div style="background: linear-gradient(135deg, #0b0b0b, #151515); border: 3px solid var(--nanda-yellow); border-radius: 20px; padding: 36px; margin: 24px 0; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
+<div class="sponsor-panel" style="background: linear-gradient(135deg, #0b0b0b, #151515); border: 3px solid var(--nanda-yellow); border-radius: 20px; padding: 36px; margin: 24px 0; box-shadow: 0 15px 50px rgba(217, 221, 229, 0.4);">
   <p style="color: #f5f5f5; font-size: 1.05rem; line-height: 1.75; text-align: center; max-width: 820px; margin: 0 auto 22px;">
     Fund the builders who are defining the open agentic web. Sponsors shape focus areas, get early access to research and implementations, and meet fellows before they hit the market.
   </p>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 18px 0 10px 0; text-align: center;">
-    <div style="background: rgba(217, 221, 229, 0.06); border: 1px solid rgba(217, 221, 229, 0.3); border-radius: 12px; padding: 18px;">
-      <h4 style="margin: 0 0 8px 0; color: #d8dde5;">Strategic impact</h4>
-      <p style="margin: 0; color: #d8d8d8; line-height: 1.6;">Guide cohorts toward your hardest AI infrastructure problems.</p>
+  <div class="sponsor-benefit-grid">
+    <div class="sponsor-benefit-card">
+      <h4>Strategic impact</h4>
+      <p>Guide cohorts toward your hardest AI infrastructure problems.</p>
     </div>
-    <div style="background: rgba(217, 221, 229, 0.06); border: 1px solid rgba(217, 221, 229, 0.3); border-radius: 12px; padding: 18px;">
-      <h4 style="margin: 0 0 8px 0; color: #d8dde5;">Talent pipeline</h4>
-      <p style="margin: 0; color: #d8d8d8; line-height: 1.6;">Meet fellows early for recruiting, partnerships, or pilots.</p>
+    <div class="sponsor-benefit-card">
+      <h4>Talent pipeline</h4>
+      <p>Meet fellows early for recruiting, partnerships, or pilots.</p>
     </div>
-    <div style="background: rgba(217, 221, 229, 0.06); border: 1px solid rgba(217, 221, 229, 0.3); border-radius: 12px; padding: 18px;">
-      <h4 style="margin: 0 0 8px 0; color: #d8dde5;">Ecosystem leadership</h4>
-      <p style="margin: 0; color: #d8d8d8; line-height: 1.6;">Stand at the forefront of the open agentic web movement.</p>
+    <div class="sponsor-benefit-card">
+      <h4>Ecosystem leadership</h4>
+      <p>Stand at the forefront of the open agentic web movement.</p>
     </div>
-    <div style="background: rgba(217, 221, 229, 0.06); border: 1px solid rgba(217, 221, 229, 0.3); border-radius: 12px; padding: 18px;">
-      <h4 style="margin: 0 0 8px 0; color: #d8dde5;">Open-source ROI</h4>
-      <p style="margin: 0; color: #d8d8d8; line-height: 1.6;">Back infrastructure your teams can adopt, extend, and deploy.</p>
+    <div class="sponsor-benefit-card">
+      <h4>Open-source ROI</h4>
+      <p>Back infrastructure your teams can adopt, extend, and deploy.</p>
     </div>
   </div>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 14px; margin: 24px 0 18px 0; text-align: center;">
-    <div style="background: #111; border: 1px solid #d8dde5; border-radius: 12px; padding: 16px;">
-      <div style="color: #d8dde5; font-weight: 800; font-size: 1.1rem;">Bronze</div>
-      <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$25K</div>
-      <div style="color: #e2e5eb; font-size: 0.95rem;">Support 1-2 fellows</div>
+  <div class="sponsor-tier-grid">
+    <div class="sponsor-tier-card">
+      <div class="sponsor-tier-name">Bronze</div>
+      <div class="sponsor-tier-price">$25K</div>
+      <div class="sponsor-tier-description">Support 1-2 fellows</div>
     </div>
-    <div style="background: #111; border: 1px solid #d8dde5; border-radius: 12px; padding: 16px;">
-      <div style="color: #d8dde5; font-weight: 800; font-size: 1.1rem;">Silver</div>
-      <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$50K</div>
-      <div style="color: #e2e5eb; font-size: 0.95rem;">Support 3-4 fellows</div>
+    <div class="sponsor-tier-card">
+      <div class="sponsor-tier-name">Silver</div>
+      <div class="sponsor-tier-price">$50K</div>
+      <div class="sponsor-tier-description">Support 3-4 fellows</div>
     </div>
-    <div style="background: #111; border: 1px solid #d8dde5; border-radius: 12px; padding: 16px;">
-      <div style="color: #d8dde5; font-weight: 800; font-size: 1.1rem;">Gold</div>
-      <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$100K</div>
-      <div style="color: #e2e5eb; font-size: 0.95rem;">Support 5-8 fellows</div>
+    <div class="sponsor-tier-card">
+      <div class="sponsor-tier-name">Gold</div>
+      <div class="sponsor-tier-price">$100K</div>
+      <div class="sponsor-tier-description">Support 5-8 fellows</div>
     </div>
-    <div style="background: #111; border: 2px solid #d8dde5; border-radius: 12px; padding: 16px;">
-      <div style="color: #d8dde5; font-weight: 800; font-size: 1.1rem;">Platinum</div>
-      <div style="color: #f5f5f5; font-size: 1.4rem; font-weight: 800; margin: 6px 0;">$250K+</div>
-      <div style="color: #e2e5eb; font-size: 0.95rem;">Named fellowship program</div>
+    <div class="sponsor-tier-card is-featured">
+      <div class="sponsor-tier-name">Platinum</div>
+      <div class="sponsor-tier-price">$250K+</div>
+      <div class="sponsor-tier-description">Named fellowship program</div>
     </div>
   </div>
 
@@ -168,5 +168,3 @@
     <a href="mailto:partnerships@projectnanda.org" style="background: #000; color: #d8dde5; padding: 12px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; border: 2px solid #d8dde5;">Talk sponsorships</a>
   </div>
 </div>
-
-

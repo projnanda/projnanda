@@ -136,6 +136,103 @@
       border: 1px solid #f0f3f7;
     }
 
+    .sponsor-panel {
+      box-sizing: border-box;
+      max-width: 100%;
+      padding: clamp(22px, 4vw, 36px) !important;
+      overflow: hidden;
+    }
+
+    .sponsor-benefit-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
+      gap: 16px;
+      margin: 18px 0 10px 0;
+      text-align: center;
+    }
+
+    .sponsor-benefit-card {
+      background: rgba(217, 221, 229, 0.06);
+      border: 1px solid rgba(217, 221, 229, 0.3);
+      border-radius: 12px;
+      padding: clamp(14px, 2vw, 18px);
+    }
+
+    .sponsor-benefit-card h4 {
+      margin: 0 0 8px 0 !important;
+      color: #d8dde5 !important;
+      font-size: clamp(0.95rem, 1.4vw, 1.05rem);
+      line-height: 1.25;
+    }
+
+    .sponsor-benefit-card p {
+      margin: 0;
+      color: #d8d8d8;
+      font-size: clamp(0.82rem, 1.15vw, 0.95rem);
+      line-height: 1.45;
+    }
+
+    .sponsor-tier-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr));
+      gap: 14px;
+      margin: 24px 0 18px 0;
+      text-align: center;
+    }
+
+    .sponsor-tier-card {
+      background: #111;
+      border: 1px solid #d8dde5;
+      border-radius: 12px;
+      min-height: 132px;
+      padding: clamp(12px, 1.8vw, 16px);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      overflow-wrap: anywhere;
+    }
+
+    .sponsor-tier-card.is-featured {
+      border-width: 2px;
+    }
+
+    .sponsor-tier-name {
+      color: #d8dde5;
+      font-weight: 800;
+      font-size: clamp(0.9rem, 1.4vw, 1.1rem);
+      line-height: 1.2;
+    }
+
+    .sponsor-tier-price {
+      color: #f5f5f5;
+      font-size: clamp(1.15rem, 2vw, 1.4rem);
+      font-weight: 800;
+      line-height: 1.1;
+      margin: 6px 0;
+    }
+
+    .sponsor-tier-description {
+      color: #e2e5eb;
+      font-size: clamp(0.76rem, 1.1vw, 0.95rem);
+      line-height: 1.35;
+    }
+
+    @media (max-width: 640px) {
+      .sponsor-tier-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 420px) {
+      .sponsor-panel {
+        padding: 18px !important;
+      }
+
+      .sponsor-tier-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
     /* Hide default GitHub corner */
     .github-corner { display: none !important; }
 
@@ -202,5 +299,3 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
 </body>
 </html> 
-
-
