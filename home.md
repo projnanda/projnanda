@@ -37,6 +37,52 @@
   </p>
 </div>
 
+## Latest Updates
+
+<style>
+  .nanda-updates { margin-top: 24px; background: linear-gradient(135deg, #f8fafc, #ffffff); border: 1px solid rgba(217, 221, 229, 0.6); border-radius: 16px; padding: 30px 34px; box-shadow: 0 6px 22px rgba(217, 221, 229, 0.18); }
+  .nanda-updates .feed { position: relative; border-left: 2px solid var(--nanda-yellow); padding-left: 28px; }
+  .nanda-updates .item { position: relative; padding-bottom: 26px; }
+  .nanda-updates .item:last-child { padding-bottom: 0; }
+  .nanda-updates .item::before { content: ""; position: absolute; left: -36px; top: 3px; width: 13px; height: 13px; border-radius: 50%; background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark)); border: 2px solid #fff; box-shadow: 0 0 0 2px var(--nanda-yellow); }
+  .nanda-updates .meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+  .nanda-updates .pill { font-size: 0.66rem; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: #000; background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark)); padding: 3px 10px; border-radius: 5px; }
+  .nanda-updates .when { font-size: 0.78rem; color: #8a8f98; font-weight: 600; }
+  .nanda-updates .item h3 { margin: 0 0 5px 0; font-size: 1.12rem; color: var(--nanda-black); border: none; padding: 0; }
+  .nanda-updates .item p { margin: 0 0 12px 0; color: #2c3e50; line-height: 1.65; font-size: 0.96rem; }
+  .nanda-updates .item a.more { display: inline-flex; align-items: center; gap: 6px; background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark)); color: #000; font-weight: 700; font-size: 0.88rem; text-decoration: none; padding: 8px 16px; border-radius: 8px; box-shadow: 0 3px 10px rgba(217, 221, 229, 0.45); transition: transform 0.18s ease, box-shadow 0.18s ease, filter 0.18s ease; }
+  .nanda-updates .item a.more:hover { transform: translateY(-2px); filter: brightness(1.05); box-shadow: 0 6px 18px rgba(217, 221, 229, 0.6); }
+</style>
+
+<div class="nanda-updates">
+<div class="feed">
+<div class="item">
+<div class="meta">
+<span class="pill">🔥 Hackathon</span>
+<span class="when">July 11, 2026 · MIT Media Lab</span>
+</div>
+<h3>NandaHack: Agentic AI Hackathon</h3>
+<p>Applications open now — hosted by MIT Media Lab &amp; HCLTech. Build services that autonomous AI agents can discover and use independently; compete online or join the in-person finale at MIT. <a class="more" href="https://nandahack.media.mit.edu/" target="_blank" rel="noopener">Apply now →</a></p>
+</div>
+<div class="item">
+<div class="meta">
+<span class="pill">Announcement</span>
+<span class="when">DataFacts</span>
+</div>
+<h3>Introducing DataFacts</h3>
+<p>As AI agents move from answering questions to making decisions, the data behind those decisions has to be transparent. DataFacts is a machine-readable layer documenting <em>what datasets are available → where they can be accessed → when they were last updated</em> — plus freshness, authenticity, and access permissions — turning the Internet of Agents into a verifiable data-to-decision ecosystem. <a class="more" href="https://www.linkedin.com/posts/raskar_agenticai-aiagents-agenticweb-ugcPost-7476851963502981120-D1U4/" target="_blank" rel="noopener">Read more →</a></p>
+</div>
+<div class="item">
+<div class="meta">
+<span class="pill">Initiative</span>
+<span class="when">Massachusetts pilot</span>
+</div>
+<h3>An Agent for Every Bostonian</h3>
+<p>A pilot for <strong>sovereign AI agents</strong> — giving every resident a personal agent that can navigate public services on their behalf while keeping their data private and under their control. NANDA's infrastructure applied to a real, citizen-facing use case. <a class="more" href="https://tiny.cc/agents4ma" target="_blank" rel="noopener">Learn more →</a></p>
+</div>
+</div>
+</div>
+
 ## Development Roadmap
 
 <style>
