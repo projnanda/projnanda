@@ -1088,6 +1088,52 @@ Our research outlines the architectural and strategic foundations of the Agentic
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
 
 <div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
+<p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"Projects like Nanda are exciting because the complex composition introduces issues of routing, discovery, identity, and authentication, all of which are parts of the quilt proposal and implementations."</p>
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="assets/headshots/Nick Cooper.jpeg" alt="Nick Cooper" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
+<p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Nick Cooper</p>
+<p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">OpenAI</p>
+</div>
+<img src="assets/companylogos/openai_logo.png" alt="OpenAI" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
+</div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
+<p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"We wanted to start thinking about the challenge of how we could build agentic experiences on top of our city infrastructure."</p>
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="assets/headshots/santi.jpg" alt="Santi Garces" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
+<p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Santi Garces</p>
+<p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">CIO, City of Boston</p>
+</div>
+</div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
+<p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"Think of the Nanda registry as a handshake layer up at the very top of the agentic web so that anyone can find anyone else regardless of capability, organizational silos, or degree of autonomy."</p>
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="assets/headshots/pradyumna.jpeg" alt="Pradyumna Chari" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
+<p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Pradyumna Chari</p>
+<p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">Postdoc, MIT Media Lab</p>
+</div>
+</div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
+<p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"What project Nanda is proposing is that you've come up with a system that operates quietly, that offers organization, trust, and makes it possible to grow new communications at scale."</p>
+<div style="display: flex; align-items: center; gap: 12px;">
+<img src="assets/headshots/Jessica Rosenworcel.jpg" alt="Jessica Rosenworcel" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+<div style="flex: 1; min-width: 0;">
+<p style="margin: 0; font-weight: 600; color: #111827; font-size: 0.95rem;">Jessica Rosenworcel</p>
+<p style="margin: 2px 0 0 0; font-size: 0.85rem; color: #6b7280;">Former Chairwoman, FCC</p>
+</div>
+<img src="assets/companylogos/fcc_logo.png" alt="FCC" style="height: 24px; max-width: 80px; object-fit: contain; flex-shrink: 0;">
+</div>
+</div>
+
+<div style="background: #ffffff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px;">
 <p style="font-style: italic; color: #4b5563; line-height: 1.7; margin: 0 0 20px 0;">"We're proud to support Project Nanda's work as they utilize the AgentAgent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."</p>
 <div style="display: flex; align-items: center; gap: 12px;">
 <img src="assets/headshots/raosura.jpeg" alt="Rao Surapaneni" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
