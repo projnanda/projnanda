@@ -2,7 +2,7 @@
 
   <!-- Logo and Headline -->
   <div style="display: flex; align-items: center; gap: 26px; margin-bottom: 18px; flex-wrap: wrap; position: relative; z-index: 1;">
-    <img src="assets/Golden + Black Text Logo.svg" alt="Project NANDA" style="height: 52px; filter: drop-shadow(0 6px 14px rgba(0,0,0,0.35));">
+    <img src="assets/Golden_Black_Text_Logo.svg" alt="Project NANDA" style="height: 52px; filter: drop-shadow(0 6px 14px rgba(0,0,0,0.35));">
     <div>
       <h1 style="font-size: 2.35rem; font-weight: 800; color: #000; margin: 0 0 6px 0; line-height: 1.2; letter-spacing: -0.01em;">
         Architecting the Internet of AI Agents

@@ -1,4 +1,4 @@
-﻿<img src="assets/Golden + Black Text Logo.svg" alt="NANDA" style="width: 300px; margin-bottom: 20px;">
+<img src="assets/Golden_Black_Text_Logo.svg" alt="NANDA" style="width: 300px; margin-bottom: 20px;">
 
 <small>v1.0</small>
 
