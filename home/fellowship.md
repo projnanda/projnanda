@@ -1,4 +1,4 @@
-﻿<style>
+<style>
   .markdown-section {
     padding-top: clamp(60px, 12vw, 110px);
   }
@@ -44,8 +44,8 @@
 </style>
 
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 10px 0 30px 0;">
-  <a href="#/home/fellowship?id=become-a-fellow" class="fellowship-cta" style="color: var(--nanda-black); background: rgba(216, 221, 229, 0.5); padding: 8px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; border: 1px solid rgba(0,0,0,0.08);">For Fellows</a>
-  <a href="#/home/fellowship?id=fund-a-fellowship" class="fellowship-cta" style="color: #fff; background: #000; padding: 8px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; border: 1px solid rgba(216, 221, 229, 0.4);">For Sponsors</a>
+  <a href="/home/fellowship?id=become-a-fellow" class="fellowship-cta" style="color: var(--nanda-black); background: rgba(216, 221, 229, 0.5); padding: 8px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; border: 1px solid rgba(0,0,0,0.08);">For Fellows</a>
+  <a href="/home/fellowship?id=fund-a-fellowship" class="fellowship-cta" style="color: #fff; background: #000; padding: 8px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; border: 1px solid rgba(216, 221, 229, 0.4);">For Sponsors</a>
 </div>
 
 ---

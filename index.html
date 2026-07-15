@@ -513,6 +513,21 @@
   </div>
   <a href="#/home?id=lets-talk" onclick="var el=document.getElementById('lets-talk'); if(el){el.scrollIntoView({behavior:'smooth'}); return false;} else {window.location.hash='#/home?id=lets-talk'; setTimeout(function(){var e=document.getElementById('lets-talk'); if(e) e.scrollIntoView({behavior:'smooth'});}, 500); return false;}" class="nanda-contact-fab" aria-label="Let's Talk" title="Let's Talk">💬 Let's Talk</a>
   <script>
+    // Redirect old hash-based URLs to clean History Mode URLs before Docsify initializes
+    (function () {
+      const hash = window.location.hash;
+      if (hash && (hash.startsWith('#/') || hash.startsWith('#/.'))) {
+        let cleanPath = hash.replace(/^#\/?(?:\.\/)?/, '/');
+        cleanPath = cleanPath.replace(/\.md$/, '');
+        cleanPath = cleanPath.replace(/\/(\d+)\.([^/]+)$/, '/$2');
+        cleanPath = cleanPath.replace(/\/(\d+)\.([^/]+)\//g, '/$2/');
+        if (!cleanPath.startsWith('/')) {
+          cleanPath = '/' + cleanPath;
+        }
+        history.replaceState(null, '', cleanPath);
+      }
+    })();
+
     window.$docsify = {
       name: '<img src="assets/Golden_Black_Text_Logo.svg" alt="NANDA" style="width: 180px; margin: 10px 0 30px 0;">',
       repo: '',

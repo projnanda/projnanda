@@ -480,7 +480,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 | <strong>Ripple Effect Protocol: Coordinating Agent Populations</strong>                | Introduces a protocol enabling faster agent coordination by sharing decision sensitivities alongside choices.                | [![arXiv](https://img.shields.io/badge/arXiv-2510.16572-B31B1B)](https://arxiv.org/abs/2510.16572)                                  |
 | <strong>Evolution of AI Agent Registry Solutions</strong>                              | Analyzes five registry approaches (including AGNTCY and MS Entra) and offers design recommendations for verifiable identity. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095)                                  |
 
-<strong><a href="https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup">Join our Writing Group</a></strong> to contribute to upcoming research.
+<strong><a href="/home/onboardingwritinggroup">Join our Writing Group</a></strong> to contribute to upcoming research.
 
 </div>
 

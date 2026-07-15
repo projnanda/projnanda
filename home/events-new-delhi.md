@@ -155,7 +155,7 @@
 <div style="text-align: center; margin: 40px 0;">
   <p style="margin: 0 0 20px 0; color: #444; font-size: 1.1rem;">Interested in learning more about Project NANDA?</p>
   <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
-    <a href="#/home/fellowship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 24px; border-radius: 12px; text-decoration: none; font-weight: 700; font-size: 1rem; border: 2px solid #7f3b3bff; box-shadow: 0 8px 30px rgba(188, 191, 199, 0.45);">
+    <a href="/home/fellowship" style="background: linear-gradient(135deg, #d8dde5, #a7adb8); color: #000; padding: 12px 24px; border-radius: 12px; text-decoration: none; font-weight: 700; font-size: 1rem; border: 2px solid #7f3b3bff; box-shadow: 0 8px 30px rgba(188, 191, 199, 0.45);">
       Explore Fellowship Program
     </a>
     <a href="mailto:ashutosh@agenticnet.org?subject=IndiaAI%20Summit%20Follow-up" style="background: transparent; color: #000; padding: 12px 24px; border-radius: 12px; text-decoration: none; font-weight: 700; font-size: 1rem; border: 2px solid #000;">
