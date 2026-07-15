@@ -1259,7 +1259,7 @@ We believe the web must evolve from static content to autonomous actors. **Join 
     <span style="font-weight: 700; color: #000;">Follow us:</span>
     <a href="https://www.youtube.com/@ProjectNANDA" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#ff0000; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">></span>YouTube</a>
     <span>.</span>
-    <a href="https://www.linkedin.com/company/project-nanda/" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#0077b5; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">in</span>LinkedIn</a>
+    <a href="https://www.linkedin.com/company/projectnanda/" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#0077b5; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">in</span>LinkedIn</a>
     <span>.</span>
     <a href="https://github.com/projnanda" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#000; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">GH</span>GitHub</a>
     <span>.</span>
@@ -1267,6 +1267,14 @@ We believe the web must evolve from static content to autonomous actors. **Join 
     <span>.</span>
     <a href="https://Lu.Ma/nanda" target="_blank" rel="noopener" style="color: #000; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 6px;"><span style="display:inline-flex; width:18px; height:18px; border-radius:5px; background:#ff9900; color:#fff; font-size:11px; font-weight:800; align-items:center; justify-content:center;">Ev</span>Events</a>
   </div>
+</div>
+
+---
+
+## Latest Updates
+
+<div style="width: 100%; max-width: 1100px; margin: 24px auto; overflow: hidden; border-radius: 16px; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+<iframe src="https://widgets.sociablekit.com/linkedin-page-posts/iframe/25692064" frameborder="0" width="100%" height="1000px" style="display: block;"></iframe>
 </div>
 
 ---
