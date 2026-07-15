@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Project NANDA
 ### Building the Internet of AI Agents
@@ -52,7 +52,7 @@ Our research outlines the architectural and strategic foundations of the Agentic
 | **NANDA in Practice: Enterprise Perspective** | Explores Zero Trust Agentic Access (ZTAA) and governance for enterprise agent ecosystems. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03101-B31B1B)](https://arxiv.org/abs/2508.03101) |
 | **Survey of AI Agent Registry Solutions** | Compares NANDA, MCP, A2A, and MS Entra across security, scalability, and maintainability. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
 
-**[Join our Writing Group](/home/onboardingwritinggroup)** to contribute to upcoming research.
+**[Join our Writing Group](https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup)** to contribute to upcoming research.
 
 ---
 
