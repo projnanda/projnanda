@@ -1271,7 +1271,7 @@ We believe the web must evolve from static content to autonomous actors. **Join 
 
 ---
 
-## Latest Updates
+## Follow Us on LinkedIn
 
 <div style="width: 100%; max-width: 1100px; margin: 24px auto; overflow: hidden; border-radius: 16px; border: 1px solid #e2e5eb; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
 <iframe src="https://widgets.sociablekit.com/linkedin-page-posts/iframe/25692064" frameborder="0" width="100%" height="1000px" style="display: block;"></iframe>
