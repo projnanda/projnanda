@@ -75,7 +75,7 @@ Project NANDA brings together students, researchers, technologists, and policyma
 
 ## Your First 30 Days
 
-- 🗓 **Week 1:** Attend the Ambassador Onboarding Call & join the Discord
+- 🗓 **Week 1:** Attend the Ambassador Onboarding Call
 - 🗓 **Week 2:** Meet your local co-ambassadors (if any) & schedule a launch strategy call
 - 🗓 **Week 3:** Share your first post about NANDA on social media using our templates
 - 🗓 **Week 4:** Choose your first event type (e.g., intro talk, discussion, etc.) and confirm the date
@@ -275,7 +275,7 @@ After each event, please submit:
 
 ### Communication and Collaboration
 
-- **Community Discord:** Ambassador coordination, brainstorming, and announcements
+- **Community calls:** Ambassador coordination, brainstorming, and announcements
 - **NANDA Google Drive:** Shared drive for media assets, presentation templates, and research summaries
 
 ### Education and Explainability
@@ -354,7 +354,7 @@ As a representative of NSAP, you're expected to:
 
 **Questions or need help?** Reach out anytime through:
 
-- **Discord Server:** [Join our community]
+- **Events Calendar:** [Lu.Ma/nanda](https://Lu.Ma/nanda)
 - **Instagram:** [@agenticwebyouth](https://instagram.com/agenticwebyouth)
 - **LinkedIn:** [Agentic Web Youth Chapter](https://www.linkedin.com/showcase/agentic-web-youth-chapter)
 - **Website:** [projectnanda.org](https://projectnanda.org)

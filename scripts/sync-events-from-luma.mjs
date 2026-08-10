@@ -198,7 +198,6 @@ function renderPrefix(events) {
     '    <p>Every node runs in local time. Mix of in-person, hybrid, and virtual gatherings so anyone can plug in.</p>',
     '    <div class="hero-actions">',
     '      <a class="btn primary" href="https://luma.com/nanda?k=c" target="_blank" rel="noopener">Register & RSVP</a>',
-    '      <a class="btn ghost" href="https://discord.gg/BxnPBEqd88" target="_blank" rel="noopener">Join the build chat</a>',
     '    </div>',
     '    <p class="hero-meta">Auto-synced from the public Luma calendar.</p>',
     '  </div>',
