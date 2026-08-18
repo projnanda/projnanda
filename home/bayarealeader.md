@@ -106,7 +106,7 @@
 
 If interested in joining the chapter, please indicate interest below:
 
-[Chapter interest form](https://docs.google.com/forms/d/1-6BxZzNTRXdXtygTPmChMziYMw2vb1J5Z_CCxYp8IgI/edit)
+[Chapter interest form](https://docs.google.com/forms/d/1-6BxZzNTRXdXtygTPmChMziYMw2vb1J5Z_CCxYp8IgI/viewform)
 
 ---
 
@@ -114,6 +114,6 @@ If interested in joining the chapter, please indicate interest below:
 
 Startup Showcase (in-person or virtual): Startups are chosen on rolling basis. Please apply below to be included in the next one. You will be notified when your startup is chosen and someone from the team will contact you.
 
-[Startup Showcase form](https://docs.google.com/forms/d/1cCnAiOSgnRvDbxrA_x-KOHJWHr8iQFOLU2z37Mgv9vQ/edit)
+[Startup Showcase form](https://docs.google.com/forms/d/1cCnAiOSgnRvDbxrA_x-KOHJWHr8iQFOLU2z37Mgv9vQ/viewform)
 
 ---
