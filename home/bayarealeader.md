@@ -77,6 +77,7 @@
   </div>
 
   <div class="speaker-card">
+    <img src="assets/headshots/ankitnathkumar.jpg" alt="Ankit Nath Kumar" />
     <h3>Ankit Nath Kumar</h3>
     <p class="org">Nasiko</p>
   </div>
@@ -88,7 +89,8 @@
   </div>
 
   <div class="speaker-card">
-    <h3>Doruk Karinca</h3>
+    <img src="assets/headshots/dorukkarinca.jpg" alt="Doruk Karınca" />
+    <h3>Doruk Karınca</h3>
     <p class="org">Crogl</p>
   </div>
 
