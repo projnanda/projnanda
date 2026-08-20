@@ -8,6 +8,54 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
 
 ---
 
+## Featured Chapters
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 30px 0;">
+  
+  <!-- SF Bay Area Card -->
+  <div style="background: linear-gradient(135deg, #ffffff, #f8fafc); border: 1px solid rgba(217, 221, 229, 0.8); border-radius: 16px; padding: 24px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; justify-content: space-between; transition: all 0.3s ease;">
+    <div>
+      <div style="font-weight: 800; font-size: 1.2rem; color: #000; margin-bottom: 8px;">SF Bay Area Chapter</div>
+      <p style="color: #444; font-size: 0.95rem; line-height: 1.6; margin: 0 0 16px 0;">
+        Fostering collaborations across Silicon Valley founders, developers, and academic institutions in the heart of AI innovation.
+      </p>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px;">
+      <a href="https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">LinkedIn</a>
+      <a href="https://chat.whatsapp.com/L5jfpeQCv200INAZuziole" target="_blank" rel="noopener" style="display: inline-block; background: #25D366; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#20ba5a';" onmouseout="this.style.background='#25D366';">WhatsApp</a>
+    </div>
+  </div>
+
+  <!-- Milan Card -->
+  <div style="background: linear-gradient(135deg, #ffffff, #f8fafc); border: 1px solid rgba(217, 221, 229, 0.8); border-radius: 16px; padding: 24px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; justify-content: space-between; transition: all 0.3s ease;">
+    <div>
+      <div style="font-weight: 800; font-size: 1.2rem; color: #000; margin-bottom: 8px;">Milan (Italy) Chapter</div>
+      <p style="color: #444; font-size: 0.95rem; line-height: 1.6; margin: 0 0 16px 0;">
+        Pioneering Milan as a pilot for an "agentic city" in collaboration with corporate partners, academic institutions, and local innovators.
+      </p>
+    </div>
+    <div style="display: flex; margin-top: 10px;">
+      <a href="https://www.projectnandaitaly.org/" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">Visit Website</a>
+    </div>
+  </div>
+
+  <!-- Bengaluru Card -->
+  <div style="background: linear-gradient(135deg, #ffffff, #f8fafc); border: 1px solid rgba(217, 221, 229, 0.8); border-radius: 16px; padding: 24px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); display: flex; flex-direction: column; justify-content: space-between; transition: all 0.3s ease;">
+    <div>
+      <div style="font-weight: 800; font-size: 1.2rem; color: #000; margin-bottom: 8px;">Bengaluru (BLR) Chapter</div>
+      <p style="color: #444; font-size: 0.95rem; line-height: 1.6; margin: 0 0 16px 0;">
+        Connecting India's premier tech hub with the global agentic AI ecosystem, driving local builder meetups, research, and open-source contributions.
+      </p>
+    </div>
+    <div style="display: flex; margin-top: 10px;">
+      <a href="https://chat.whatsapp.com/F4FgELgoRqjFdX8XvDn9h2" target="_blank" rel="noopener" style="display: inline-block; background: #25D366; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#20ba5a';" onmouseout="this.style.background='#25D366';">WhatsApp</a>
+    </div>
+  </div>
+
+</div>
+
+---
+
 ## Join the Innovation Council
 
 We are calling for **Council Leaders** and **Council Members** to help shape the future of the Agentic Web in your city or region.
@@ -22,6 +70,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 ### Europe
 - **London** — [Join WhatsApp Group](https://chat.whatsapp.com/GN5o8mtfqIUJ2HDmhlywFC)
+- **Milan (Italy)** — [Visit Website](https://www.projectnandaitaly.org/)
 
 ### Middle East
 - **Dubai (UAE)** — [Join WhatsApp Group](https://chat.whatsapp.com/Ev5dRjyMFcvIFdhducWagC)
