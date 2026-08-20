@@ -1,159 +1,159 @@
-﻿<div align="center">
-
-# Project NANDA
-### Building the Internet of AI Agents
-
-> **The future isn't just AI â€” it's trillions of AI agents collaborating across the open web securely.**
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/projectnanda/)
-[![arXiv](https://img.shields.io/badge/arXiv-Read_Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.14263)
-
-</div>
-
----
-
-## What is Project NANDA?
-
-**â€‹â€‹â€‹Project NANDA** (Networked AI Agents in Decentralized Architecture) which originated at MIT aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus driven innovation: 'DNS', 'CA', 'Orchestration', and 'Attestation'.
-
-**â€‹â€‹â€‹Project NANDA** is pioneering the foundational infrastructure for the Internet of AI Agents â€” enabling autonomous systems to interact, transact, and collaborate seamlessly.
-
-â€‹â€‹â€‹**â€‹â€‹â€‹Project NANDA**  employs a three-pronged approach: 
-
-  (i) Technology: Building technology, standards, and reference implementations through a collective of top minds. 
-  
-  (ii) Social Mission: Working to maintain an open Agentic Web for innovators while ensuring safety for vulnerable populations. 
-  
-  (iii) Venture Ecosystem: Fostering a wide coalition of founders and investors.
-
-Project â€‹â€‹â€‹â€‹NANDA's development draws on proven MIT research in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
-
-### Project Impact
-* **6000+** Community Members
-* **61** Collaborations
-* **15+** Research Papers
-* **100+** Industry Speakers
-* **75+** Active Projects
-* **18** Global Locations
-
----
-
-## Research & Publications
-
-Our research outlines the architectural and strategic foundations of the Agentic Web.
-
-| Paper Title | Description | Links |
-| :--- | :--- | :--- |
-| **Beyond DNS: Unlocking the Internet of AI Agents** | *The foundational paper.* Details the design of the NANDA Index, AgentFacts schema, and Verified Agent Discovery. | [![arXiv](https://img.shields.io/badge/arXiv-2507.14263-B31B1B)](https://arxiv.org/abs/2507.14263) |
-| **Upgrade or Switch: The Need for New Registry** | Analyzes why DNS fails for AI agents and weighs incremental upgrades against purpose-built registries. | [![arXiv](https://img.shields.io/badge/arXiv-2506.12003-B31B1B)](https://arxiv.org/abs/2506.12003) |
-| **NANDA Adaptive Resolver** | A dynamic microservice architecture for agent name resolution in distributed environments. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03113-B31B1B)](https://arxiv.org/abs/2508.03113) |
-| **NANDA in Practice: Enterprise Perspective** | Explores Zero Trust Agentic Access (ZTAA) and governance for enterprise agent ecosystems. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03101-B31B1B)](https://arxiv.org/abs/2508.03101) |
-| **Survey of AI Agent Registry Solutions** | Compares NANDA, MCP, A2A, and MS Entra across security, scalability, and maintainability. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
-
-**[Join our Writing Group](https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup)** to contribute to upcoming research.
-
----
-
-## Development Roadmap
-
-### Phase 1: Foundations (Current)
-**Focus: Onboarding, Indexing, & Discovery**
-* **Index Infrastructure:** NANDA Index for agent discovery.
-* **Cross-Platform Bridge:** Protocol bridges between A2A, MCP, and HTTPS.
-* **Agent Onboarding:** SDKs for easy agent deployment.
-
-### Phase 2: Agentic Commerce (Upcoming)
-**Focus: Knowledge Pricing & Edge AI**
-* **Knowledge Pricing:** Mechanisms for agents to value/exchange info.
-* **Edge AI:** Distributed intelligence at network edges.
-* **Economic Protocols:** Incentive systems for agent services.
-
-### Phase 3: Society of Agents (Future Vision)
-**Focus: Large Population Models & Co-learning**
-* **LPMs:** Collective intelligence from agent populations.
-* **Collaborative Learning:** Privacy-preserving co-learning.
-* **Cross-Silo Coordination:** Agents working across data boundaries.
-
----
-
-## Media Coverage
-
-* [**Forbes:** Line Up and Identify Yourselves â€” AI Agents Get Organized with NANDA](https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/)
-* [**Forbes:** Make a Decentralized Internet with AI â€” NANDA Is Coming](https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/)
-* [**LinkedIn:** NANDA: The Internet of AI Agents (Ramesh Raskar)](https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve)
-
----
-
-## See It In Action
-
-| Intro to NANDA | NANDA Demo |
-| :---: | :---: |
-| <a href="https://www.youtube.com/watch?v=jlcO19XyQ1I"><img src="https://i.ytimg.com/vi/jlcO19XyQ1I/hqdefault.jpg" width="300" alt="Intro to NANDA"></a> | <a href="https://www.youtube.com/watch?v=-S51FOnqF0o"><img src="https://i.ytimg.com/vi/-S51FOnqF0o/hqdefault.jpg" width="300" alt="NANDA Demo"></a> |
-
----
-
-## Collaborators and Contributors
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
-
-<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"We're proud to support Project Nanda's work as they utilize the AgentAgent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."</p>
-<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
-<div>
-<p style="margin: 0; font-weight: 600; color: #1a202c;">Rao Surapaneni</p>
-<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">VP & GM, Google A2A</p>
-</div>
-<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google" style="height: 24px; margin-left: auto;">
-</div>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"NANDA paves the way for building transformative technology in a truly inclusive manner... HCLTech is excited to be part of project NANDA."</p>
-<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
-<div>
-<p style="margin: 0; font-weight: 600; color: #1a202c;">Vijay Guntur</p>
-<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">CTO, HCLTech</p>
-</div>
-<img src="https://www.hcltech.com/themes/custom/hcltech/logo.svg" alt="HCLTech" style="height: 28px; margin-left: auto;">
-</div>
-</div>
-
-<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"Open protocols for Internet of AI are critical to trigger new wave of innovations beyond our imagination today. We have been working with NANDA team very closely and will continue to support NANDA R&D."</p>
-<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
-<div>
-<p style="margin: 0; font-weight: 600; color: #1a202c;">Zafer Sahinoglu</p>
-<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">VP of Innovation, Mitsubishi Electric</p>
-</div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mitsubishi_Electric_logo.svg/320px-Mitsubishi_Electric_logo.svg.png" alt="Mitsubishi Electric" style="height: 32px; margin-left: auto;">
-</div>
-</div>
-
-</div>
-
----
-
-## Community & Collaboration
-
-We believe the web must evolve from static content to autonomous actors. **Join us in building the next layer of the web.**
-
-* **[Discord](https://discord.gg/BxnPBEqd88):** For technical discussions and community chat.
-* **[Events (Lu.ma)](https://Lu.Ma/nanda):** Join our weekly webinars and summits.
-* **[GitHub](https://github.com/projnanda):** Explore our code and repositories.
-* **[FAN Fellowship](https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform):** Applications are open.
-* **[Tresata Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform):** Apply for paid roles.
-* **[Radius Fellowship](https://www.linkedin.com/jobs/view/4260498540/):** Apply for paid roles.
-
----
-
-<div align="center">
-
-**Made with â™¥ by the NANDA Community**
-
-*Building the Open Agentic Web*
-
-</div>
-
-
+﻿<div align="center">
+
+# Project NANDA
+### Building the Internet of AI Agents
+
+> **The future isn't just AI — it's trillions of AI agents collaborating across the open web securely.**
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ProjectNANDA)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BxnPBEqd88)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/projectnanda/)
+[![arXiv](https://img.shields.io/badge/arXiv-Read_Papers-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.14263)
+
+</div>
+
+---
+
+## What is Project NANDA?
+
+**Project NANDA** (Networked AI Agents in Decentralized Architecture) which originated at MIT aims to dismantle the four critical choke points within this ecosystem's infrastructure by focusing on consensus driven innovation: 'DNS', 'CA', 'Orchestration', and 'Attestation'.
+
+**Project NANDA** is pioneering the foundational infrastructure for the Internet of AI Agents — enabling autonomous systems to interact, transact, and collaborate seamlessly.
+
+**Project NANDA**  employs a three-pronged approach: 
+
+  (i) Technology: Building technology, standards, and reference implementations through a collective of top minds. 
+  
+  (ii) Social Mission: Working to maintain an open Agentic Web for innovators while ensuring safety for vulnerable populations. 
+  
+  (iii) Venture Ecosystem: Fostering a wide coalition of founders and investors.
+
+Project NANDA's development draws on proven MIT research in AutoML, split learning, privacy-preserving architectures, and decentralized coordination. Early partners in the coalition gain preferential access to emerging standards, reference implementations, and the academic-industry consortium that will influence the emerging frameworks globally.
+
+### Project Impact
+* **6000+** Community Members
+* **61** Collaborations
+* **15+** Research Papers
+* **100+** Industry Speakers
+* **75+** Active Projects
+* **18** Global Locations
+
+---
+
+## Research & Publications
+
+Our research outlines the architectural and strategic foundations of the Agentic Web.
+
+| Paper Title | Description | Links |
+| :--- | :--- | :--- |
+| **Beyond DNS: Unlocking the Internet of AI Agents** | *The foundational paper.* Details the design of the NANDA Index, AgentFacts schema, and Verified Agent Discovery. | [![arXiv](https://img.shields.io/badge/arXiv-2507.14263-B31B1B)](https://arxiv.org/abs/2507.14263) |
+| **Upgrade or Switch: The Need for New Registry** | Analyzes why DNS fails for AI agents and weighs incremental upgrades against purpose-built registries. | [![arXiv](https://img.shields.io/badge/arXiv-2506.12003-B31B1B)](https://arxiv.org/abs/2506.12003) |
+| **NANDA Adaptive Resolver** | A dynamic microservice architecture for agent name resolution in distributed environments. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03113-B31B1B)](https://arxiv.org/abs/2508.03113) |
+| **NANDA in Practice: Enterprise Perspective** | Explores Zero Trust Agentic Access (ZTAA) and governance for enterprise agent ecosystems. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03101-B31B1B)](https://arxiv.org/abs/2508.03101) |
+| **Survey of AI Agent Registry Solutions** | Compares NANDA, MCP, A2A, and MS Entra across security, scalability, and maintainability. | [![arXiv](https://img.shields.io/badge/arXiv-2508.03095-B31B1B)](https://arxiv.org/abs/2508.03095) |
+
+**[Join our Writing Group](https://projnanda.github.io/projnanda/#/./home/onboardingwritinggroup)** to contribute to upcoming research.
+
+---
+
+## Development Roadmap
+
+### Phase 1: Foundations (Current)
+**Focus: Onboarding, Indexing, & Discovery**
+* **Index Infrastructure:** NANDA Index for agent discovery.
+* **Cross-Platform Bridge:** Protocol bridges between A2A, MCP, and HTTPS.
+* **Agent Onboarding:** SDKs for easy agent deployment.
+
+### Phase 2: Agentic Commerce (Upcoming)
+**Focus: Knowledge Pricing & Edge AI**
+* **Knowledge Pricing:** Mechanisms for agents to value/exchange info.
+* **Edge AI:** Distributed intelligence at network edges.
+* **Economic Protocols:** Incentive systems for agent services.
+
+### Phase 3: Society of Agents (Future Vision)
+**Focus: Large Population Models & Co-learning**
+* **LPMs:** Collective intelligence from agent populations.
+* **Collaborative Learning:** Privacy-preserving co-learning.
+* **Cross-Silo Coordination:** Agents working across data boundaries.
+
+---
+
+## Media Coverage
+
+* [**Forbes:** Line Up and Identify Yourselves — AI Agents Get Organized with NANDA](https://www.forbes.com/sites/johnwerner/2025/07/08/line-up-and-identify-yourselves-ai-agents-get-organized-with-nanda/)
+* [**Forbes:** Make a Decentralized Internet with AI — NANDA Is Coming](https://www.forbes.com/sites/johnwerner/2025/05/13/make-a-decentralized-internet-with-ai-nanda-is-coming/)
+* [**LinkedIn:** NANDA: The Internet of AI Agents (Ramesh Raskar)](https://www.linkedin.com/pulse/nanda-internet-ai-agents-ramesh-raskar-211ve)
+
+---
+
+## See It In Action
+
+| Intro to NANDA | NANDA Demo |
+| :---: | :---: |
+| <a href="https://www.youtube.com/watch?v=jlcO19XyQ1I"><img src="https://i.ytimg.com/vi/jlcO19XyQ1I/hqdefault.jpg" width="300" alt="Intro to NANDA"></a> | <a href="https://www.youtube.com/watch?v=-S51FOnqF0o"><img src="https://i.ytimg.com/vi/-S51FOnqF0o/hqdefault.jpg" width="300" alt="NANDA Demo"></a> |
+
+---
+
+## Collaborators and Contributors
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"We're proud to support Project Nanda's work as they utilize the AgentAgent protocol for their advanced research on the internet of agents. Our goal with A2A is to empower businesses, consumers, and researchers with an open standard that enables the innovation needed to solve complex challenges that are beyond the scope of any single agent."</p>
+<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
+<div>
+<p style="margin: 0; font-weight: 600; color: #1a202c;">Rao Surapaneni</p>
+<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">VP & GM, Google A2A</p>
+</div>
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google" style="height: 24px; margin-left: auto;">
+</div>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"NANDA paves the way for building transformative technology in a truly inclusive manner... HCLTech is excited to be part of project NANDA."</p>
+<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
+<div>
+<p style="margin: 0; font-weight: 600; color: #1a202c;">Vijay Guntur</p>
+<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">CTO, HCLTech</p>
+</div>
+<img src="https://www.hcltech.com/themes/custom/hcltech/logo.svg" alt="HCLTech" style="height: 28px; margin-left: auto;">
+</div>
+</div>
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<p style="font-style: italic; color: #4a5568; line-height: 1.7; margin: 0 0 20px 0;">"Open protocols for Internet of AI are critical to trigger new wave of innovations beyond our imagination today. We have been working with NANDA team very closely and will continue to support NANDA R&D."</p>
+<div style="display: flex; align-items: center; gap: 12px; margin-top: 16px;">
+<div>
+<p style="margin: 0; font-weight: 600; color: #1a202c;">Zafer Sahinoglu</p>
+<p style="margin: 4px 0 0 0; font-size: 0.9rem; color: #718096;">VP of Innovation, Mitsubishi Electric</p>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mitsubishi_Electric_logo.svg/320px-Mitsubishi_Electric_logo.svg.png" alt="Mitsubishi Electric" style="height: 32px; margin-left: auto;">
+</div>
+</div>
+
+</div>
+
+---
+
+## Community & Collaboration
+
+We believe the web must evolve from static content to autonomous actors. **Join us in building the next layer of the web.**
+
+* **[Discord](https://discord.gg/BxnPBEqd88):** For technical discussions and community chat.
+* **[Events (Lu.ma)](https://Lu.Ma/nanda):** Join our weekly webinars and summits.
+* **[GitHub](https://github.com/projnanda):** Explore our code and repositories.
+* **[FAN Fellowship](https://docs.google.com/forms/d/e/1FAIpQLScoYg90Ex5IOpBzuSxbnjwjSssJD4rw5U2GpShxACE5t0N4Lw/viewform):** Applications are open.
+* **[Tresata Fellowship](https://docs.google.com/forms/d/e/1FAIpQLSemeT9K8WGbggXbFvKlEYj_TQyVrSupxAUonV_W7kO6GOFSIg/viewform):** Apply for paid roles.
+* **[Radius Fellowship](https://www.linkedin.com/jobs/view/4260498540/):** Apply for paid roles.
+
+---
+
+<div align="center">
+
+**Made with ♥ by the NANDA Community**
+
+*Building the Open Agentic Web*
+
+</div>
+
+
