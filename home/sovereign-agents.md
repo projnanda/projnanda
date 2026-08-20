@@ -496,7 +496,7 @@ A state-wide framework building open public MCP servers to let residents' privat
 <p>Collaborate with the NANDA community, research labs, and civic leaders to build decentralized sovereign agent networks.</p>
 <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
 <a href="#/home/9.streams" class="sovereign-btn-secondary">Community Channels</a>
-<a href="#/home/5.gettingstarted" class="sovereign-btn-primary">Build with NANDA</a>
+<a href="https://github.com/projnanda" target="_blank" rel="noopener" class="sovereign-btn-primary">Build with NANDA</a>
 </div>
 </div>
 

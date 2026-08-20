@@ -21,6 +21,7 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
       </p>
     </div>
     <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px;">
+      <a href="https://sfbayarea.projectnanda.org/" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">Visit Website</a>
       <a href="https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">LinkedIn</a>
       <a href="https://chat.whatsapp.com/L5jfpeQCv200INAZuziole" target="_blank" rel="noopener" style="display: inline-block; background: #25D366; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#20ba5a';" onmouseout="this.style.background='#25D366';">WhatsApp</a>
     </div>
@@ -34,8 +35,9 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
         Pioneering Milan as a pilot for an "agentic city" in collaboration with corporate partners, academic institutions, and local innovators.
       </p>
     </div>
-    <div style="display: flex; margin-top: 10px;">
+    <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px;">
       <a href="https://www.projectnandaitaly.org/" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">Visit Website</a>
+      <a href="https://www.linkedin.com/showcase/agentic-web-italy-chapter/posts/?feedView=all" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">LinkedIn</a>
     </div>
   </div>
 
@@ -70,7 +72,7 @@ We are calling for **Council Leaders** and **Council Members** to help shape the
 
 ### Europe
 - **London** — [Join WhatsApp Group](https://chat.whatsapp.com/GN5o8mtfqIUJ2HDmhlywFC)
-- **Milan (Italy)** — [Visit Website](https://www.projectnandaitaly.org/)
+- **Milan (Italy)** — [Visit Website](https://www.projectnandaitaly.org/) / [LinkedIn](https://www.linkedin.com/showcase/agentic-web-italy-chapter/posts/?feedView=all)
 
 ### Middle East
 - **Dubai (UAE)** — [Join WhatsApp Group](https://chat.whatsapp.com/Ev5dRjyMFcvIFdhducWagC)

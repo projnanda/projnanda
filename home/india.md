@@ -134,7 +134,7 @@
   </p>
   <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
     <a href="#/home/9.streams" class="india-cta-secondary" style="background: #FFFFFF; color: #111827; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600; border: 1px solid #D1D5DB;">Community Channels</a>
-    <a href="#/home/5.gettingstarted" class="india-cta-primary" style="background: #111827; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600;">Build with NANDA</a>
+    <a href="https://github.com/projnanda" target="_blank" rel="noopener" class="india-cta-primary" style="background: #111827; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: 600;">Build with NANDA</a>
   </div>
 </div>
 
