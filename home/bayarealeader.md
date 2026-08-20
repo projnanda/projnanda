@@ -1,4 +1,17 @@
-﻿# SF Bay Area Chapter Leaders <!--Community Section-->
+# SF Bay Area Chapter Leaders <!--Community Section-->
+
+<div style="background: linear-gradient(135deg, #ffffff, #f8fafc); border: 1px solid rgba(217, 221, 229, 0.8); border-radius: 16px; padding: 24px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); margin: 20px 0 30px 0; display: flex; flex-direction: column; gap: 16px; text-align: left;">
+  <div>
+    <div style="font-weight: 800; font-size: 1.3rem; color: #000; margin-bottom: 8px;">About the SF Bay Area Chapter</div>
+    <p style="color: #444; font-size: 0.98rem; line-height: 1.7; margin: 0;">
+      The SF Bay Area Chapter connects AI researchers, developers, and innovators building the future of autonomous agents. We foster collaborations across Silicon Valley founders, developer advocates, and academic institutions in the heart of AI innovation.
+    </p>
+  </div>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://sfbayarea.projectnanda.org/" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 10px 20px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.9rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">Visit Website</a>
+    <a href="https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 10px 20px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.9rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">LinkedIn</a>
+  </div>
+</div>
 
 <style>
 .speaker-grid {
@@ -21,8 +34,8 @@
 
 .speaker-card img {
   width: 96px;
-  height: 96px;
-  border-radius: 50%;
+  height: 110px;
+  border-radius: 12px;
   object-fit: cover;
   margin-bottom: 12px;
 }

@@ -22,7 +22,6 @@ The **Agentic Web: Innovation Council for Project NANDA** is a global initiative
     </div>
     <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px;">
       <a href="https://sfbayarea.projectnanda.org/" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">Visit Website</a>
-      <a href="https://www.linkedin.com/showcase/agentic-web-sf-bay-area-chapter" target="_blank" rel="noopener" style="display: inline-block; background: #000; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#333';" onmouseout="this.style.background='#000';">LinkedIn</a>
       <a href="https://chat.whatsapp.com/L5jfpeQCv200INAZuziole" target="_blank" rel="noopener" style="display: inline-block; background: #25D366; color: #fff; padding: 8px 16px; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 0.85rem; transition: background 0.2s;" onmouseover="this.style.background='#20ba5a';" onmouseout="this.style.background='#25D366';">WhatsApp</a>
     </div>
   </div>
