@@ -15,21 +15,29 @@
 
 <style>
 .speaker-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
 }
 
 .speaker-card {
-  flex: 1 1 calc(33% - 24px);
-  box-sizing: border-box;
   background-color: #fff;
-  border-radius: 12px;
-  padding: 16px;
+  border: 1px solid rgba(217, 221, 229, 0.5);
+  border-radius: 16px;
+  padding: 24px 16px;
   text-align: center;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-  margin-bottom: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.02);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.speaker-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  border-color: rgba(217, 221, 229, 0.9);
 }
 
 .speaker-card img {
@@ -37,35 +45,39 @@
   height: 110px;
   border-radius: 12px;
   object-fit: cover;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
+  transition: transform 0.3s ease;
+}
+
+.speaker-card:hover img {
+  transform: scale(1.03);
 }
 
 .speaker-card h3 {
-  margin: 8px 0 4px;
-  font-size: 1.1rem;
-}
-
-.speaker-card p {
-  font-size: 0.9rem;
-  margin: 2px 0;
-}
-
-.speaker-card .org {
-  color: #8A1C1C;
-  font-weight: 500;
+  margin: 0 0 6px 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1.4;
 }
 
 .speaker-card a {
   font-size: 0.8rem;
-  font-style: italic;
-  color: #007bff;
+  font-weight: 600;
+  color: #475569;
+  background-color: #f1f5f9;
+  padding: 6px 14px;
+  border-radius: 20px;
   text-decoration: none;
   display: inline-block;
-  margin-top: 4px;
+  margin-top: 8px;
+  transition: all 0.2s ease;
 }
 
 .speaker-card a:hover {
-  text-decoration: underline;
+  background-color: #0f172a;
+  color: #ffffff;
+  text-decoration: none;
 }
 </style>
 
