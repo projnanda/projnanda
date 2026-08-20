@@ -12,10 +12,9 @@
   - [list39.org](https://list39.org/)
   - [Civic Agents Hubs](https://civicagents.projectnanda.org/)
 
-- **Build & Community**
-  - [Build with NANDA <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/5.gettingstarted.md)
-  - [Events](./home/18.events.md)
+- **Community**
   - [Global Chapters <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/nic.md)
+  - [Events](./home/18.events.md)
   - [Youth Chapter <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/nyc.md)
   - [Open Source Developers <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">Join</span>](./home/osd.md)
   - [Community & Channels](./home/9.streams.md)
