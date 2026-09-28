@@ -1,4 +1,5 @@
 - **Research & Standards**
+  - [IEEE TPS 2026 Workshop <span style="background:#d8dde5; color:#000; padding:2px 6px; border-radius:6px; font-weight:800; border:1px solid #000; font-size:0.9em;">CFP</span>](https://projectnanda.org/workshops/ieeetps26/ ':target=_self :ignore')
   - [Research Lab](./home/8.nandapapers)
   - [Protocols](./home/3.protocol%20interoperability.md)
   - [NANDA Index](./home/13.NANDAIndex.md)

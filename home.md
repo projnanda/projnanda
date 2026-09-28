@@ -40,45 +40,55 @@
 ## Latest Updates
 
 <style>
-  .nanda-updates { margin-top: 24px; background: linear-gradient(135deg, #f8fafc, #ffffff); border: 1px solid rgba(217, 221, 229, 0.6); border-radius: 16px; padding: 30px 34px; box-shadow: 0 6px 22px rgba(217, 221, 229, 0.18); }
-  .nanda-updates .feed { position: relative; border-left: 2px solid var(--nanda-yellow); padding-left: 28px; }
-  .nanda-updates .item { position: relative; padding-bottom: 26px; }
+  .nanda-updates { margin-top: 24px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 30px 34px; box-shadow: 0 4px 20px rgba(15, 23, 42, 0.06); }
+  .nanda-updates .feed { position: relative; border-left: 2px solid #cbd5e1; padding-left: 28px; }
+  .nanda-updates .item { position: relative; padding-bottom: 28px; }
   .nanda-updates .item:last-child { padding-bottom: 0; }
-  .nanda-updates .item::before { content: ""; position: absolute; left: -36px; top: 3px; width: 13px; height: 13px; border-radius: 50%; background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark)); border: 2px solid #fff; box-shadow: 0 0 0 2px var(--nanda-yellow); }
-  .nanda-updates .meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
-  .nanda-updates .pill { font-size: 0.66rem; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: #000; background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark)); padding: 3px 10px; border-radius: 5px; }
-  .nanda-updates .when { font-size: 0.78rem; color: #8a8f98; font-weight: 600; }
-  .nanda-updates .item h3 { margin: 0 0 5px 0; font-size: 1.12rem; color: var(--nanda-black); border: none; padding: 0; }
-  .nanda-updates .item p { margin: 0 0 12px 0; color: #2c3e50; line-height: 1.65; font-size: 0.96rem; }
-  .nanda-updates .item a.more { display: inline-flex; align-items: center; gap: 6px; background: linear-gradient(135deg, var(--nanda-yellow), var(--nanda-yellow-dark)); color: #000; font-weight: 700; font-size: 0.88rem; text-decoration: none; padding: 8px 16px; border-radius: 8px; box-shadow: 0 3px 10px rgba(217, 221, 229, 0.45); transition: transform 0.18s ease, box-shadow 0.18s ease, filter 0.18s ease; }
-  .nanda-updates .item a.more:hover { transform: translateY(-2px); filter: brightness(1.05); box-shadow: 0 6px 18px rgba(217, 221, 229, 0.6); }
+  .nanda-updates .item::before { content: ""; position: absolute; left: -36px; top: 4px; width: 14px; height: 14px; border-radius: 50%; background: #2c3e50; border: 3px solid #ffffff; box-shadow: 0 0 0 1.5px #cbd5e1; }
+  .nanda-updates .meta { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+  .nanda-updates .pill { font-size: 0.68rem; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase; color: #2c3e50; background: #f1f5f9; border: 1px solid #cbd5e1; padding: 3px 10px; border-radius: 6px; }
+  .nanda-updates .when { font-size: 0.8rem; color: #64748b; font-weight: 500; }
+  .nanda-updates .item h3 { margin: 0 0 8px 0; font-size: 1.15rem; color: #1e293b; font-weight: 700; border: none; padding: 0; }
+  .nanda-updates .item p { margin: 0 0 10px 0; color: #334155; line-height: 1.65; font-size: 0.95rem; }
+  .nanda-updates .item .action { margin-top: 8px; }
+  .nanda-updates .item a.more { display: inline-flex; align-items: center; gap: 6px; background: #2c3e50; color: #ffffff; font-weight: 600; font-size: 0.85rem; text-decoration: none; padding: 7px 16px; border-radius: 8px; box-shadow: 0 2px 6px rgba(44, 62, 80, 0.2); transition: all 0.2s ease; }
+  .nanda-updates .item a.more:hover { background: #1a252f; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(44, 62, 80, 0.3); color: #ffffff; }
 </style>
 
 <div class="nanda-updates">
 <div class="feed">
 <div class="item">
 <div class="meta">
-<span class="pill">🔥 Hackathon</span>
-<span class="when">July 11, 2026 · MIT Media Lab</span>
+<span class="pill">🔥 Workshop &amp; CFP</span>
+<span class="when">November 4–6, 2026 · San Jose, CA</span>
 </div>
-<h3>NandaHack: Agentic AI Hackathon</h3>
-<p>Applications open now — hosted by MIT Media Lab &amp; HCLTech. Build services that autonomous AI agents can discover and use independently; compete online or join the in-person finale at MIT. <a class="more" href="https://nandahack.media.mit.edu/" target="_blank" rel="noopener">Apply now →</a></p>
+<h3>1st IEEE Workshop on Networked AI Agents (NANDA)</h3>
+<p>Co-located with <strong>IEEE TPS 2026</strong>. Convening systems researchers on sandboxes, privacy, security, trust, and evaluation for decentralized agent networks. Short papers accepted will be published in IEEE Xplore.</p>
+<div class="action">
+  <a class="more" href="https://projectnanda.org/workshops/ieeetps26/" target="_self">Workshop &amp; CFP →</a>
 </div>
-<div class="item">
-<div class="meta">
-<span class="pill">Announcement</span>
-<span class="when">DataFacts</span>
-</div>
-<h3>Introducing DataFacts</h3>
-<p>As AI agents move from answering questions to making decisions, the data behind those decisions has to be transparent. DataFacts is a machine-readable layer documenting <em>what datasets are available → where they can be accessed → when they were last updated</em> — plus freshness, authenticity, and access permissions — turning the Internet of Agents into a verifiable data-to-decision ecosystem. <a class="more" href="https://www.linkedin.com/posts/raskar_agenticai-aiagents-agenticweb-ugcPost-7476851963502981120-D1U4/" target="_blank" rel="noopener">Read more →</a></p>
 </div>
 <div class="item">
 <div class="meta">
-<span class="pill">Initiative</span>
-<span class="when">Massachusetts pilot</span>
+<span class="pill">Student Community</span>
+<span class="when">2026–27 Academic Year · Global</span>
 </div>
-<h3>An Agent for Every Bostonian</h3>
-<p>A pilot for <strong>sovereign AI agents</strong> — giving every resident a personal agent that can navigate public services on their behalf while keeping their data private and under their control. NANDA's infrastructure applied to a real, citizen-facing use case. <a class="more" href="https://tiny.cc/agents4ma" target="_blank" rel="noopener">Learn more →</a></p>
+<h3>Join NANDA Shapers for 2026–27</h3>
+<p>Project NANDA’s global student community exploring and building the open Agentic Web. 50+ shapers across multiple continents are organizing local AI chapters and collaborating across CS, policy, law, and design.</p>
+<div class="action">
+  <a class="more" href="https://nandashapers.org" target="_blank" rel="noopener">Join NANDA Shapers →</a>
+</div>
+</div>
+<div class="item">
+<div class="meta">
+<span class="pill">Fellowship</span>
+<span class="when">Applications Open · Fully Remote</span>
+</div>
+<h3>Project NANDA x Hexaware Fellowship</h3>
+<p>A 3-month, fully remote fellowship building open-source infrastructure for the emerging Internet of AI Agents. Open to developers in AI, distributed systems, and agentic protocols. Priority deadline: September 19, 2026.</p>
+<div class="action">
+  <a class="more" href="http://tiny.cc/projnandaxhexaware" target="_blank" rel="noopener">Apply now →</a>
+</div>
 </div>
 </div>
 </div>
@@ -459,6 +469,23 @@
 ## Research & Publications
 
 Our research outlines the architectural and strategic foundations of the Agentic Web.
+
+<div style="background: #ffffff; border: 1px solid #cbd5e1; border-left: 5px solid #2c3e50; border-radius: 14px; padding: 24px 28px; margin: 24px 0 32px 0; box-shadow: 0 4px 18px rgba(15, 23, 42, 0.06);">
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-bottom: 12px;">
+    <span style="background: #f1f5f9; color: #2c3e50; border: 1px solid #cbd5e1; padding: 3px 10px; border-radius: 6px; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.5px; text-transform: uppercase;">Featured Workshop • Call for Papers</span>
+    <span style="color: #64748b; font-size: 0.85rem; font-weight: 500;">San Jose, CA • Nov 4–6, 2026</span>
+  </div>
+  <h3 style="color: #1e293b; margin: 0 0 10px 0; font-size: 1.2rem; font-weight: 700; border: none; padding: 0;">
+    <a href="https://projectnanda.org/workshops/ieeetps26/" target="_self" style="color: #1e293b; text-decoration: none;">1st IEEE Workshop on Networked AI Agents in a Decentralized Architecture (NANDA)</a>
+  </h3>
+  <p style="color: #334155; line-height: 1.65; margin: 0 0 16px 0; font-size: 0.95rem;">
+    Co-located with <strong>IEEE TPS 2026</strong>. Sandboxes, privacy, security, trust, and evaluation for decentralized agent networks. Accepted papers will be published in the IEEE TPS 2026 proceedings and indexed in <strong>IEEE Xplore</strong>.
+  </p>
+  <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+    <a href="https://projectnanda.org/workshops/ieeetps26/" target="_self" style="display: inline-block; background: #2c3e50; color: #ffffff; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem; box-shadow: 0 2px 6px rgba(44, 62, 80, 0.2);">Workshop Website &amp; CFP &rarr;</a>
+    <a href="https://easychair.org/conferences/?conf=ieeetps2026" target="_blank" rel="noopener" style="display: inline-block; background: #f8fafc; color: #2c3e50; border: 1px solid #cbd5e1; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Submit via EasyChair &rarr;</a>
+  </div>
+</div>
 
 ### Foundational Architecture Papers
 

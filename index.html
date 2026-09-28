@@ -608,6 +608,14 @@
       document.addEventListener('DOMContentLoaded', function () {
         requestAnimationFrame(applySidebarDisclosure);
       });
+
+      document.addEventListener('click', function (e) {
+        var link = e.target.closest('a');
+        if (link && link.href && link.href.indexOf('/workshops/ieeetps26') !== -1) {
+          e.stopPropagation();
+          window.location.href = 'https://projectnanda.org/workshops/ieeetps26/';
+        }
+      }, true);
     })();
   </script>
 </body>
