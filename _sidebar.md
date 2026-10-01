@@ -33,6 +33,7 @@
   - [SF Bay Area Chapter Leaders](./home/bayarealeader.md)
 
 - **Resources**
+  - [Video Vault](./home/videovault.md)
   - [FAQ](./home/6.faq.md)
   - [MIT License](https://opensource.org/licenses/MIT)
   - [Let's Talk <span style="background:#000; color:#fff; padding:2px 6px; border-radius:6px; font-weight:800; font-size:0.9em;">💬</span>](./home?id=lets-talk)
