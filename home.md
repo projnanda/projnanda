@@ -81,13 +81,13 @@
 </div>
 <div class="item">
 <div class="meta">
-<span class="pill">Fellowship</span>
-<span class="when">Applications Open · Fully Remote</span>
+<span class="pill">Publication</span>
+<span class="when">Now Live · Substack</span>
 </div>
-<h3>Project NANDA x Hexaware Fellowship</h3>
-<p>A 3-month, fully remote fellowship building open-source infrastructure for the emerging Internet of AI Agents. Open to developers in AI, distributed systems, and agentic protocols. Priority deadline: September 19, 2026.</p>
+<h3>Project NANDA is on Substack</h3>
+<p>In-depth architectural breakdowns, research deep dives, and regular dispatches on building the open Agentic Web. Subscribe to read our latest insights on building the Internet for AI Agents.</p>
 <div class="action">
-  <a class="more" href="http://tiny.cc/projnandaxhexaware" target="_blank" rel="noopener">Apply now →</a>
+  <a class="more" href="https://projectnanda.substack.com/" target="_blank" rel="noopener">Read on Substack →</a>
 </div>
 </div>
 </div>
