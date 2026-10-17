@@ -1,0 +1,176 @@
+{
+  "checked_on": "2026-10-16",
+  "speakers": [
+    {
+      "name": "Sam Sharaf",
+      "role": "Product Solutions & Co-innovation Lead",
+      "affiliation": "Google Cloud",
+      "source": "https://reg.salesforce.com/flow/plus/tdx26/sessioncatalog/page/catalog/session/1768431382028001kzOM",
+      "additional_source": "https://www.linkedin.com/posts/samuelsharaf_exciting-career-update-joining-google-activity-7401429670514393088-vbjN",
+      "image_source": "https://www.dataaiboard.org/members",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/68a372b651533b0f86d110e6/24aec81c-a151-4b3e-9882-e7da07805d10/Sam+Sharaf.webp",
+      "portrait_path": "assets/img/speakers/sam-sharaf.png"
+    },
+    {
+      "name": "Junjie Bu",
+      "role": "Senior Staff Software Engineer",
+      "affiliation": "Google",
+      "source": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+      "portrait_path": null,
+      "portrait_note": "Placeholder approved by the organizer; replace with a verified headshot."
+    },
+    {
+      "name": "Vijoy Pandey",
+      "role": "SVP & GM, Outshift",
+      "affiliation": "Cisco",
+      "source": "https://newsroom.cisco.com/c/r/newsroom/en/us/executives/vijoy-pandey.html",
+      "image_source": "https://newsroom.cisco.com/c/r/newsroom/en/us/executives/vijoy-pandey.html",
+      "image_url": "https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/executives/vijoy-pandey/Vijoy-Pandey_1000x1200.jpg",
+      "portrait_path": "assets/img/speakers/vijoy-pandey.jpg"
+    },
+    {
+      "name": "Babak Hodjat",
+      "role": "Chief AI Officer",
+      "affiliation": "Cognizant",
+      "source": "https://www.cognizant.com/us/en/ai-lab/meet-the-team/babak-hodjat",
+      "image_source": "https://www.cognizant.com/us/en/ai-lab/meet-the-team/babak-hodjat",
+      "image_url": "https://cognizant.scene7.com/is/image/cognizant/meet-our-leaders-babak-hodjat",
+      "portrait_path": "assets/img/speakers/babak-hodjat.jpg"
+    },
+    {
+      "name": "Peter Danenberg",
+      "role": "Senior Software Engineer",
+      "affiliation": "Google DeepMind",
+      "source": "https://aiforgood.itu.int/speaker/peter-danenberg/",
+      "additional_source": "https://peter.danenberg.ai/",
+      "image_source": "https://aiforgood.itu.int/speaker/peter-danenberg/",
+      "image_url": "https://s41721.pcdn.co/wp-content/uploads/2026/02/98de53f458a241649a810a5fafa212bb.jpg",
+      "portrait_path": "assets/img/speakers/peter-danenberg.jpg"
+    },
+    {
+      "name": "Frank Addante",
+      "role": "Founder & Chief Human",
+      "affiliation": "Hello Haven",
+      "source": "https://my.hellohaven.ai/press/hello-haven-your-digital-twin-not-just-an-assistant",
+      "image_source": "https://my.hellohaven.ai/life-with-haven/families",
+      "image_url": "https://my.hellohaven.ai/__l5e/assets-v1/d30dbcf3-6c07-4504-9c3b-e2abe2b46ca9/frank-addante-new.png",
+      "portrait_path": "assets/img/speakers/frank-addante.jpg"
+    },
+    {
+      "name": "Ray Liao",
+      "role": "Founder & CEO",
+      "affiliation": "Inkbox",
+      "source": "https://www.ycombinator.com/companies/inkbox",
+      "image_source": "https://www.ycombinator.com/companies/inkbox",
+      "image_url": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af788a5cd4056a418504ce1f6575ee97d05e4f22.jpg",
+      "portrait_path": "assets/img/speakers/ray-liao.jpg"
+    },
+    {
+      "name": "Maria Gorskikh",
+      "role": "CEO & Co-Founder",
+      "affiliation": "Maritime (YC F26)",
+      "source": "https://www.mitaiconference.org/speakers/maria-gorskikh",
+      "image_source": "Existing approved workshop asset workshops/ieeetps26/assets/img/maria.jpeg",
+      "portrait_path": "assets/img/maria.jpeg",
+      "affiliation_note": "Maritime (YC F26) wording supplied by the organizer on 2026-10-16."
+    },
+    {
+      "name": "Shivani Poddar",
+      "role": "Founder",
+      "affiliation": "Wajo AI",
+      "source": "https://wajo.ai/about",
+      "image_source": "https://www.lti.cs.cmu.edu/people/alumni/alumni-2020/poddar-shivani.html",
+      "image_url": "https://www.lti.cs.cmu.edu/people/alumni/alumni-bio-images/poddar-shivani.jpeg",
+      "portrait_path": "assets/img/speakers/shivani-poddar.jpeg",
+      "participation": "Confirmation pending, per organizer."
+    },
+    {
+      "name": "Rahul Todkar",
+      "role": "Co-Founder & CEO",
+      "affiliation": "Nasiko",
+      "source": "https://www.nasiko.com/company",
+      "image_source": "https://www.nasiko.com/company",
+      "image_url": "https://www.nasiko.com/assets/company/rahul-todkar.png",
+      "portrait_path": "assets/img/speakers/rahul-todkar.png"
+    },
+    {
+      "name": "Erik Haug",
+      "role": "AVP, Global Head of AI Partnerships",
+      "affiliation": "Hexaware Technologies",
+      "source": "https://laedc.org/board-of-governors/",
+      "additional_source": "https://www.linkedin.com/in/chiefvisionofficer",
+      "image_source": "https://www.lightcocreative.com/",
+      "image_url": "https://cdn.prod.website-files.com/61982db7dc3203133b659f88/67d9a29860d246219094f04f_Earth%20Finance%20Erik%20Haug-8157-3000px%203_BW.jpg",
+      "portrait_path": "assets/img/speakers/erik-haug.jpg"
+    },
+    {
+      "name": "Jukka Alanen",
+      "role": "Founder & Managing Partner",
+      "affiliation": "Rebellion Ventures",
+      "source": "https://rebellionvc.com/about/",
+      "sources": [
+        "https://rebellionvc.com/about/"
+      ],
+      "image_url": "https://rebellionvc.com/images/people/jukka-alanen.webp",
+      "portrait_path": "../../assets/headshots/jukka.jpeg"
+    },
+    {
+      "name": "Raymond Liao",
+      "role": "Managing Director",
+      "affiliation": "Samsung Next",
+      "source": "https://www.samsungnext.com/team",
+      "sources": [
+        "https://www.samsungnext.com/team"
+      ],
+      "image_url": "https://cdn.prod.website-files.com/69ab197ca148d582724c4ac3/6a7ec7d3ffe226fa13d6e59d_bg-new-19.webp",
+      "portrait_path": "assets/img/speakers/raymond-liao.webp"
+    },
+    {
+      "name": "Gunjan Sinha",
+      "role": "Founder & Chairman",
+      "affiliation": "OpenGrowth Ventures",
+      "source": "https://www.opengrowth.ventures/team",
+      "sources": [
+        "https://www.opengrowth.ventures/team",
+        "https://compete.org/gunjan-sinha/"
+      ],
+      "portrait_path": "../../assets/headshots/gunjansinha.jpeg"
+    },
+    {
+      "name": "Anastasios Angelopoulos",
+      "role": "Co-Founder & CEO",
+      "affiliation": "Arena",
+      "source": "https://angelopoulos.ai/",
+      "sources": [
+        "https://angelopoulos.ai/",
+        "https://www.humanx.co/us/speakers/anastasios-angelopoulos"
+      ],
+      "image_url": "https://cdn.humanx.co/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMTMsInB1ciI6ImJsb2JfaWQifX0=--6fe1576a4477fb353c49cf0207cb4b70e13cfc22/Anastasios-Angelopoulos.png",
+      "portrait_path": "assets/img/speakers/anastasios-angelopoulos.jpg",
+      "participation": "Confirmation pending, per organizer."
+    },
+    {
+      "name": "Hugo Barra",
+      "role": "VP of Product",
+      "affiliation": "Meta Superintelligence Labs",
+      "source": "https://www.mitaiconference.org/speakers/hugo-barra",
+      "sources": [
+        "https://www.mitaiconference.org/speakers/hugo-barra",
+        "https://www.linkedin.com/in/hbarra"
+      ],
+      "image_url": "https://g8nbmuvwfiawjnwq.public.blob.vercel-storage.com/speakers/speaker/hugo-barra-3.jpg",
+      "team": "Muse",
+      "portrait_path": "assets/img/speakers/hugo-barra.jpg",
+      "participation": "Confirmation pending, per organizer."
+    },
+    {
+      "name": "Ramesh Raskar",
+      "role": "Associate Professor; NANDA Founder",
+      "affiliation": "MIT Media Lab",
+      "source": "https://www.media.mit.edu/people/raskar/overview/",
+      "image_source": "Existing workshop portrait",
+      "portrait_path": "assets/img/raskar.jpg"
+    }
+  ],
+  "demo_contact_source": "https://www.media.mit.edu/events/ai-agents-agentic-web/"
+}
