@@ -59,11 +59,12 @@
     {
       "name": "Ray Liao",
       "role": "Founder & CEO",
-      "affiliation": "Inkbox",
+      "affiliation": "Inkbox (YC S26)",
       "source": "https://www.ycombinator.com/companies/inkbox",
       "image_source": "https://www.ycombinator.com/companies/inkbox",
       "image_url": "https://bookface-images.s3.us-west-2.amazonaws.com/avatars/af788a5cd4056a418504ce1f6575ee97d05e4f22.jpg",
-      "portrait_path": "assets/img/speakers/ray-liao.jpg"
+      "portrait_path": "assets/img/speakers/ray-liao.jpg",
+      "affiliation_note": "Inkbox (YC S26) wording supplied by the organizer."
     },
     {
       "name": "Maria Gorskikh",
