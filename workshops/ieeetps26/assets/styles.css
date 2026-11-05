@@ -93,6 +93,10 @@ strong { color: var(--ink); font-weight: 600; }
   box-shadow: var(--shadow);
 }
 
+/* ---------- Sponsors ---------- */
+.sponsors-card { padding: 12px; overflow: hidden; }
+.sponsors-img { display: block; width: 100%; height: auto; }
+
 /* ---------- Hero ---------- */
 .hero { padding: 80px 0 8px; text-align: center; }
 .hero-title {
