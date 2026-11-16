@@ -50,7 +50,7 @@
   .nanda-updates .when { font-size: 0.8rem; color: #64748b; font-weight: 500; }
   .nanda-updates .item h3 { margin: 0 0 8px 0; font-size: 1.15rem; color: #1e293b; font-weight: 700; border: none; padding: 0; }
   .nanda-updates .item p { margin: 0 0 10px 0; color: #334155; line-height: 1.65; font-size: 0.95rem; }
-  .nanda-updates .item .action { margin-top: 8px; }
+  .nanda-updates .item .action { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px; }
   .nanda-updates .item a.more { display: inline-flex; align-items: center; gap: 6px; background: #2c3e50; color: #ffffff; font-weight: 600; font-size: 0.85rem; text-decoration: none; padding: 7px 16px; border-radius: 8px; box-shadow: 0 2px 6px rgba(44, 62, 80, 0.2); transition: all 0.2s ease; }
   .nanda-updates .item a.more:hover { background: #1a252f; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(44, 62, 80, 0.3); color: #ffffff; }
 </style>
@@ -59,13 +59,16 @@
 <div class="feed">
 <div class="item">
 <div class="meta">
-<span class="pill">🔥 Workshop &amp; CFP</span>
-<span class="when">November 4–6, 2026 · San Jose, CA</span>
+<span class="pill">Open Agentic Web Challenge</span>
+<span class="when">Now open · Global</span>
 </div>
-<h3>1st IEEE Workshop on Networked AI Agents (NANDA)</h3>
-<p>Co-located with <strong>IEEE TPS 2026</strong>. Convening systems researchers on sandboxes, privacy, security, trust, and evaluation for decentralized agent networks. Short papers accepted will be published in IEEE Xplore.</p>
+<h3>Build the Open Agentic Web</h3>
+<p>Project NANDA is proud to contribute as a partner for the <a href="https://worldwideagenticweb.org/" target="_blank" rel="noopener"><strong>Open Agentic Web Challenge</strong></a>,<br>
+hosted by Cognizant with technology contributions from <a href="https://www.cognizant.com/us/en/ai-lab" target="_blank" rel="noopener">Cognizant AI Lab</a>,<br>
+<a href="https://otari.ai/" target="_blank" rel="noopener">Mozilla Otari</a>, and <a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS</a>.</p>
 <div class="action">
-  <a class="more" href="https://projectnanda.org/workshops/ieeetps26/" target="_self">Workshop &amp; CFP →</a>
+  <a class="more" href="https://cognizant-agenticweb.devpost.com/" target="_blank" rel="noopener">Join on Devpost →</a>
+  <a class="more" href="https://projectnanda.org/webagentica/" target="_self">Learn more about WebAgentica →</a>
 </div>
 </div>
 <div class="item">
@@ -469,23 +472,6 @@
 ## Research & Publications
 
 Our research outlines the architectural and strategic foundations of the Agentic Web.
-
-<div style="background: #ffffff; border: 1px solid #cbd5e1; border-left: 5px solid #2c3e50; border-radius: 14px; padding: 24px 28px; margin: 24px 0 32px 0; box-shadow: 0 4px 18px rgba(15, 23, 42, 0.06);">
-  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; margin-bottom: 12px;">
-    <span style="background: #f1f5f9; color: #2c3e50; border: 1px solid #cbd5e1; padding: 3px 10px; border-radius: 6px; font-weight: 700; font-size: 0.78rem; letter-spacing: 0.5px; text-transform: uppercase;">Featured Workshop • Call for Papers</span>
-    <span style="color: #64748b; font-size: 0.85rem; font-weight: 500;">San Jose, CA • Nov 4–6, 2026</span>
-  </div>
-  <h3 style="color: #1e293b; margin: 0 0 10px 0; font-size: 1.2rem; font-weight: 700; border: none; padding: 0;">
-    <a href="https://projectnanda.org/workshops/ieeetps26/" target="_self" style="color: #1e293b; text-decoration: none;">1st IEEE Workshop on Networked AI Agents in a Decentralized Architecture (NANDA)</a>
-  </h3>
-  <p style="color: #334155; line-height: 1.65; margin: 0 0 16px 0; font-size: 0.95rem;">
-    Co-located with <strong>IEEE TPS 2026</strong>. Sandboxes, privacy, security, trust, and evaluation for decentralized agent networks. Accepted papers will be published in the IEEE TPS 2026 proceedings and indexed in <strong>IEEE Xplore</strong>.
-  </p>
-  <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-    <a href="https://projectnanda.org/workshops/ieeetps26/" target="_self" style="display: inline-block; background: #2c3e50; color: #ffffff; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem; box-shadow: 0 2px 6px rgba(44, 62, 80, 0.2);">Workshop Website &amp; CFP &rarr;</a>
-    <a href="https://easychair.org/conferences/?conf=ieeetps2026" target="_blank" rel="noopener" style="display: inline-block; background: #f8fafc; color: #2c3e50; border: 1px solid #cbd5e1; padding: 8px 18px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 0.88rem;">Submit via EasyChair &rarr;</a>
-  </div>
-</div>
 
 ### Foundational Architecture Papers
 
