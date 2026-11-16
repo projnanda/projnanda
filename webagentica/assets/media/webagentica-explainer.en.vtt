@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00:00.900 --> 00:00:03.065
+The web was built to share pages.
+
+00:00:03.105 --> 00:00:05.087
+What if it could share agents?
+
+00:00:06.437 --> 00:00:08.877
+WebAgentica separates three roles.
+
+00:00:08.917 --> 00:00:12.005
+AgentStudio creates a portable agent package.
+
+00:00:12.045 --> 00:00:13.911
+AgentHosting publishes it.
+
+00:00:13.951 --> 00:00:17.511
+AgentSurfer downloads it, and runs it in your browser.
+
+00:00:17.861 --> 00:00:19.585
+Jane wants to book a flight.
+
+00:00:19.625 --> 00:00:21.089
+She visits WebAir.
+
+00:00:21.129 --> 00:00:24.794
+Instead of navigating pages, she clicks Open Agent.
+
+00:00:25.144 --> 00:00:28.518
+WebAir's agent package downloads to Jane's computer.
+
+00:00:28.558 --> 00:00:30.833
+Her AgentSurfer browser verifies it,
+
+00:00:30.873 --> 00:00:34.762
+then runs it in a sandbox, inside AgentVM.
+
+00:00:35.112 --> 00:00:38.640
+The agent helps Jane search flights, using her chosen model,
+
+00:00:38.680 --> 00:00:41.954
+her memory, and only the permissions she grants.
+
+00:00:42.304 --> 00:00:46.073
+The same AgentVM runs agents from other websites too,
+
+00:00:46.113 --> 00:00:50.683
+like travel insurance or a hotel, each in its own sandbox.
+
+00:00:51.033 --> 00:00:53.313
+Websites no longer just serve pages.
+
+00:00:53.353 --> 00:00:56.046
+They can serve downloadable AI agents.
+
+00:00:56.086 --> 00:00:58.710
+Your AgentSurfer browser runs them locally,
+
+00:00:58.750 --> 00:01:02.666
+using the same AgentVM across different websites.
+
+00:01:03.016 --> 00:01:04.326
+WebAgentica.
+
+00:01:04.366 --> 00:01:05.509
+Create anywhere.
+
+00:01:05.549 --> 00:01:06.683
+Host anywhere.
+
+00:01:06.723 --> 00:01:08.158
+Run anywhere.
