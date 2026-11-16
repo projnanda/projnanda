@@ -17,13 +17,13 @@ No build step or dependencies are required. Open `index.html` in a browser for l
 
 - `index.html`: all website content (single page)
 - `styles.css`: responsive design
-- `assets/media/`: existing WebAgents demo and poster
+- `assets/media/`: the explainer film (video, poster frame, English captions) and the existing WebAgents demo and poster
 - `assets/paper/` and `assets/talk/`: original research documents
 - `assets/fonts/` and `assets/img/`: supporting design assets
 
 ## Content notes
 
-This is an **architecture proposal**, not a claim that AgentStudio, APTP, AgentSurfer and AgentVM are all finalized standards or production-ready implementations. The video and paper are from the existing WebAgents research site. Links to the existing reference repository are intentional; replace them if an official WebAgentica repository is established.
+This is an **architecture proposal**, not a claim that AgentStudio, APTP, AgentSurfer and AgentVM are all finalized standards or production-ready implementations. The explainer film is an illustration of the proposal. The prototype video and the paper are from the existing WebAgents research site. Links to the existing reference repository are intentional; replace them if an official WebAgentica repository is established.
 
 The demo depicts a fictional airline with simulated booking data.
 
