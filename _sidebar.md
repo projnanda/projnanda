@@ -33,6 +33,7 @@
   - [SF Bay Area Chapter Leaders](./home/bayarealeader.md)
 
 - **Resources**
+  - [Brand Kit](https://projectnanda.org/brandkit/ ':target=_self :ignore')
   - [Video Vault](./home/videovault.md)
   - [FAQ](./home/6.faq.md)
   - [MIT License](https://opensource.org/licenses/MIT)

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Project NANDA brand kit: approved logos, boilerplate, and guidance for chapters and contributors.">
+  <title>Project NANDA Brand Kit</title>
+  <link rel="icon" href="../assets/nanda-favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root { --ink: #132238; --navy: #0b1728; --muted: #61718a; --line: #d9e1eb; --paper: #f7f9fc; --gold: #e8b227; --gold-soft: #fff8e4; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Schibsted Grotesk", Arial, sans-serif; line-height: 1.55; }
+    a { color: inherit; }
+    .container { width: min(1160px, calc(100% - 40px)); margin: 0 auto; }
+    .topbar { background: var(--navy); color: #fff; border-bottom: 3px solid var(--gold); }
+    .topbar .container { min-height: 72px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+    .brand { display: inline-flex; align-items: center; gap: 10px; color: #fff; font-size: .92rem; font-weight: 800; letter-spacing: .07em; text-decoration: none; text-transform: uppercase; }
+    .brand-mark { width: 10px; height: 10px; border-radius: 50%; background: var(--gold); box-shadow: 0 0 0 5px rgba(232,178,39,.16); }
+    .nav { display: flex; flex-wrap: wrap; gap: 18px; font-size: .9rem; }
+    .nav a { color: #d8e1ee; text-decoration: none; }
+    .nav a:hover { color: #fff; }
+    .hero { background: var(--navy); color: #fff; padding: 76px 0 72px; position: relative; overflow: hidden; }
+    .hero::after { content: ""; width: 410px; height: 410px; position: absolute; right: -110px; top: -210px; border: 1px solid rgba(232,178,39,.45); border-radius: 50%; box-shadow: 0 0 0 28px rgba(232,178,39,.05), 0 0 0 57px rgba(232,178,39,.04), 0 0 0 88px rgba(232,178,39,.03); }
+    .eyebrow { display: block; color: var(--gold); font-size: .76rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; }
+    h1, h2, h3 { line-height: 1.1; }
+    h1 { font-family: Newsreader, Georgia, serif; font-size: clamp(3rem, 7vw, 5.6rem); font-weight: 600; letter-spacing: -.055em; margin: 14px 0 20px; max-width: 760px; }
+    .hero p { color: #d6e0ec; font-size: 1.13rem; max-width: 640px; margin: 0; }
+    .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 30px; }
+    .button { background: var(--gold); border: 1px solid var(--gold); border-radius: 8px; color: #172131; display: inline-block; font-size: .9rem; font-weight: 800; padding: 11px 16px; text-decoration: none; }
+    .button.secondary { background: transparent; border-color: #58708d; color: #fff; }
+    main { padding: 72px 0; }
+    section { margin-bottom: 76px; scroll-margin-top: 20px; }
+    .section-heading { max-width: 690px; margin-bottom: 28px; }
+    .section-heading h2 { font-family: Newsreader, Georgia, serif; font-size: clamp(2.2rem, 4vw, 3.2rem); font-weight: 600; letter-spacing: -.035em; margin: 8px 0 12px; }
+    .section-heading p { color: var(--muted); margin: 0; }
+    .logo-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+    .logo-card { background: #fff; border: 1px solid var(--line); border-radius: 14px; overflow: hidden; box-shadow: 0 8px 20px rgba(16,36,60,.04); }
+    .logo-preview { align-items: center; display: flex; height: 180px; justify-content: center; padding: 28px; }
+    .logo-preview.light { background: #fff; }
+    .logo-preview.dark { background: #101a2a; }
+    .logo-preview.gold { background: #e8b227; }
+    .logo-preview img { max-height: 106px; max-width: 100%; }
+    .logo-card-body { padding: 18px; }
+    .logo-card h3 { font-size: 1.08rem; margin: 0 0 4px; }
+    .logo-card p { color: var(--muted); font-size: .88rem; margin: 0 0 15px; }
+    .downloads { display: flex; flex-wrap: wrap; gap: 8px; }
+    .download { border: 1px solid #b7c5d5; border-radius: 6px; color: #233b57; font-size: .78rem; font-weight: 800; padding: 7px 9px; text-decoration: none; }
+    .download:hover { background: #eef3f8; }
+    .master-row { align-items: center; background: var(--gold-soft); border: 1px solid #efd78b; border-radius: 12px; display: flex; gap: 18px; justify-content: space-between; padding: 20px 22px; }
+    .master-row h3 { margin: 0 0 3px; }
+    .master-row p { color: #5f5127; font-size: .9rem; margin: 0; }
+    .copy-grid { display: grid; grid-template-columns: 1.35fr .65fr; gap: 22px; }
+    .copy-card, .guidance-card { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 28px; }
+    .copy-card h3, .guidance-card h3 { font-size: 1.2rem; margin: 0 0 12px; }
+    .copy-block { background: #f5f7fa; border-left: 3px solid var(--gold); color: #263d5a; font-size: 1.03rem; margin: 18px 0 14px; padding: 18px; }
+    .small { color: var(--muted); font-size: .86rem; }
+    .copy-button { background: #203a56; border: 0; border-radius: 7px; color: #fff; cursor: pointer; font: inherit; font-size: .85rem; font-weight: 800; padding: 10px 13px; }
+    .do-dont { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .do, .dont { border-radius: 12px; padding: 22px; }
+    .do { background: #eff8f2; border: 1px solid #bfe1ca; }
+    .dont { background: #fff3f1; border: 1px solid #f0c7c0; }
+    .do h3 { color: #14643a; } .dont h3 { color: #a03728; }
+    .do ul, .dont ul { margin: 10px 0 0; padding-left: 20px; } .do li, .dont li { margin: 9px 0; font-size: .93rem; }
+    .event-note { background: var(--navy); border-radius: 16px; color: #fff; padding: 32px; }
+    .event-note h2 { font-family: Newsreader, Georgia, serif; font-size: 2rem; margin: 8px 0 12px; }
+    .event-note p { color: #d6e0ec; max-width: 800px; margin: 0; }
+    .event-note strong { color: var(--gold); }
+    .socials { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+    .social { align-items: center; background: #fff; border: 1px solid var(--line); border-radius: 10px; display: flex; font-weight: 700; justify-content: space-between; padding: 15px; text-decoration: none; }
+    .social span { color: #6b7f98; font-size: .8rem; }
+    .social:hover { border-color: #8296ac; box-shadow: 0 7px 18px rgba(16,36,60,.07); }
+    footer { background: #0b1728; color: #cbd6e2; padding: 32px 0; font-size: .86rem; }
+    footer a { color: #fff; }
+    @media (max-width: 820px) { .logo-grid { grid-template-columns: 1fr 1fr; } .copy-grid { grid-template-columns: 1fr; } .socials { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 560px) { .container { width: min(100% - 28px, 1160px); } .topbar .container { padding: 16px 0; align-items: flex-start; flex-direction: column; } .hero { padding: 58px 0; } .logo-grid, .do-dont, .socials { grid-template-columns: 1fr; } .master-row { align-items: flex-start; flex-direction: column; } }
+  </style>
+</head>
+<body>
+  <header class="topbar"><div class="container"><a class="brand" href="../"><span class="brand-mark"></span>Project NANDA</a><nav class="nav"><a href="#logos">Logos</a><a href="#guidance">Guidance</a><a href="#boilerplate">Boilerplate</a><a href="#social">Socials</a></nav></div></header>
+  <section class="hero"><div class="container"><span class="eyebrow">Official resources</span><h1>Brand kit</h1><p>Approved Project NANDA marks, copy, and practical guidance for chapters, contributors, and collaborators.</p><div class="hero-actions"><a class="button" href="#logos">Download logos</a><a class="button secondary" href="#boilerplate">Use our boilerplate</a></div></div></section>
+  <main class="container">
+    <section id="logos"><div class="section-heading"><span class="eyebrow">Approved marks</span><h2>Logo downloads</h2><p>Choose a mark that provides strong contrast against its background. SVG is preferred for web and print; PNG is best for slides and documents; PDF is suitable for professional print workflows.</p></div>
+      <div class="logo-grid">
+        <article class="logo-card"><div class="logo-preview light"><img src="assets/ProjectNANDA-FullLogo-Black-Transparent.svg" alt="Project NANDA full black logo"></div><div class="logo-card-body"><h3>Full logo · Black</h3><p>Use on light backgrounds.</p><div class="downloads"><a class="download" href="assets/ProjectNANDA-FullLogo-Black-Transparent.svg" download>SVG ↓</a><a class="download" href="assets/ProjectNANDA-FullLogo-Black-Transparent.png" download>PNG ↓</a><a class="download" href="assets/ProjectNANDA-FullLogo-Black-Transparent.pdf" download>PDF ↓</a></div></div></article>
+        <article class="logo-card"><div class="logo-preview dark"><img src="assets/ProjectNANDA-FullLogo-White-Transparent.svg" alt="Project NANDA full white logo"></div><div class="logo-card-body"><h3>Full logo · White</h3><p>Use on dark backgrounds.</p><div class="downloads"><a class="download" href="assets/ProjectNANDA-FullLogo-White-Transparent.svg" download>SVG ↓</a><a class="download" href="assets/ProjectNANDA-FullLogo-White-Transparent.png" download>PNG ↓</a><a class="download" href="assets/ProjectNANDA-FullLogo-White-Transparent.pdf" download>PDF ↓</a></div></div></article>
+        <article class="logo-card"><div class="logo-preview dark"><img src="assets/ProjectNANDA-FullLogo-Yellow-Transparent.svg" alt="Project NANDA full yellow logo"></div><div class="logo-card-body"><h3>Full logo · Yellow</h3><p>Use sparingly on dark backgrounds.</p><div class="downloads"><a class="download" href="assets/ProjectNANDA-FullLogo-Yellow-Transparent.svg" download>SVG ↓</a><a class="download" href="assets/ProjectNANDA-FullLogo-Yellow-Transparent.png" download>PNG ↓</a><a class="download" href="assets/ProjectNANDA-FullLogo-Yellow-Transparent.pdf" download>PDF ↓</a></div></div></article>
+        <article class="logo-card"><div class="logo-preview light"><img src="assets/ProjectNANDA-IconOnly-Black-Transparent.svg" alt="Project NANDA black icon"></div><div class="logo-card-body"><h3>Icon · Black</h3><p>For compact light-background placements.</p><div class="downloads"><a class="download" href="assets/ProjectNANDA-IconOnly-Black-Transparent.svg" download>SVG ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-Black-Transparent.png" download>PNG ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-Black-Transparent.pdf" download>PDF ↓</a></div></div></article>
+        <article class="logo-card"><div class="logo-preview dark"><img src="assets/ProjectNANDA-IconOnly-White-Transparent.svg" alt="Project NANDA white icon"></div><div class="logo-card-body"><h3>Icon · White</h3><p>For compact dark-background placements.</p><div class="downloads"><a class="download" href="assets/ProjectNANDA-IconOnly-White-Transparent.svg" download>SVG ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-White-Transparent.png" download>PNG ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-White-Transparent.pdf" download>PDF ↓</a></div></div></article>
+        <article class="logo-card"><div class="logo-preview gold"><img src="assets/ProjectNANDA-IconOnly-Black-Transparent.svg" alt="Project NANDA black icon on gold"></div><div class="logo-card-body"><h3>Icon · Yellow</h3><p>Use for high-visibility accents.</p><div class="downloads"><a class="download" href="assets/ProjectNANDA-IconOnly-Yellow-Transparent.svg" download>SVG ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-Yellow-Transparent.png" download>PNG ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-Yellow-Transparent.pdf" download>PDF ↓</a></div></div></article>
+      </div>
+      <div class="master-row" style="margin-top:18px"><div><h3>Master vector files</h3><p>Use these only when a production partner specifically needs the source artwork.</p></div><div class="downloads"><a class="download" href="assets/ProjectNANDA-FullLogo-Master.svg" download>Full logo master ↓</a><a class="download" href="assets/ProjectNANDA-IconOnly-Master.svg" download>Icon master ↓</a></div></div>
+    </section>
+    <section id="guidance"><div class="section-heading"><span class="eyebrow">For chapters &amp; contributors</span><h2>Use the brand with care</h2><p>These basics keep Project NANDA recognizable across community chapters, events, presentations, repositories, and partner materials.</p></div><div class="do-dont"><article class="do"><h3>Do</h3><ul><li>Use the supplied logo files without redrawing or rebuilding them.</li><li>Choose the black, white, or yellow variant for clear contrast.</li><li>Leave generous space around the mark and keep it legible.</li><li>Credit Project NANDA and link to <strong>projectnanda.org</strong> where possible.</li><li>Use the approved boilerplate below for event and partner descriptions.</li></ul></article><article class="dont"><h3>Don't</h3><ul><li>Stretch, rotate, recolor, crop, or add effects to the logo.</li><li>Place the mark on busy or low-contrast imagery.</li><li>Create a new Project NANDA logo or alter the wordmark.</li><li>Present personal, chapter, or contributor views as official Project NANDA statements.</li><li>Imply endorsement of an organization, product, or event without approval.</li></ul></article></div></section>
+    <section id="boilerplate"><div class="section-heading"><span class="eyebrow">Official copy</span><h2>Project NANDA boilerplate</h2><p>Use this approved description in event listings, chapter pages, partner introductions, and community materials.</p></div><div class="copy-grid"><article class="copy-card"><h3>About Project NANDA</h3><div class="copy-block" id="boilerplate-copy"><p>Project NANDA is building the foundational infrastructure for the <strong>Open Agentic Web</strong>, an open ecosystem where autonomous AI agents can securely discover one another, verify capabilities, communicate, and collaborate across organizations and platforms.</p><p>Its work spans:</p><ul><li>Agent discovery and interoperability</li><li>Trust, identity, and verification</li><li>Agent-to-agent communication</li><li>Mobile and edge AI agents</li><li>Open standards for distributed intelligence</li><li>Civic and sovereign AI</li><li>Enterprise adoption of autonomous AI systems</li></ul><p>The project is also developing <strong>NandaTown</strong>, an open developer sandbox where builders can experiment with real-world agent discovery, coordination, and orchestration.</p><p><strong>Research:</strong> <a href="https://nanda.mit.edu" target="_blank" rel="noopener">https://nanda.mit.edu</a><br><strong>Open Source:</strong> <a href="https://projectnanda.org" target="_blank" rel="noopener">https://projectnanda.org</a></p></div><button class="copy-button" type="button" data-copy="boilerplate-copy">Copy boilerplate</button><p class="small">For a short event description, use the opening paragraph. Use the complete boilerplate for partner or chapter pages.</p></article><aside class="guidance-card"><h3>Event note</h3><p>For local chapter events, use wording such as <strong>“Hosted by [Chapter Name], part of the Project NANDA community.”</strong> Add your chapter’s own event details, but keep Project NANDA’s mission statement intact.</p><p class="small">Please avoid describing an event as officially endorsed by Project NANDA unless that approval has been given.</p></aside></div></section>
+    <section id="social"><div class="section-heading"><span class="eyebrow">Stay connected</span><h2>Official channels</h2><p>Use these links in chapter materials, event pages, and contributor profiles.</p></div><div class="socials"><a class="social" href="https://projectnanda.org/"><strong>Website</strong><span>projectnanda.org ↗</span></a><a class="social" href="https://github.com/projnanda" target="_blank" rel="noopener"><strong>GitHub</strong><span>@projnanda ↗</span></a><a class="social" href="https://www.linkedin.com/company/projectnanda/" target="_blank" rel="noopener"><strong>LinkedIn</strong><span>Project NANDA ↗</span></a><a class="social" href="https://www.youtube.com/@ProjectNANDA" target="_blank" rel="noopener"><strong>YouTube</strong><span>@ProjectNANDA ↗</span></a><a class="social" href="https://discord.gg/BxnPBEqd88" target="_blank" rel="noopener"><strong>Discord</strong><span>Join the community ↗</span></a><a class="social" href="https://projectnanda.substack.com/" target="_blank" rel="noopener"><strong>Substack</strong><span>Read our dispatches ↗</span></a></div></section>
+  </main>
+  <footer><div class="container">© 2026 Project NANDA · <a href="../">Return to projectnanda.org</a></div></footer>
+  <script>document.querySelectorAll('[data-copy]').forEach(button => button.addEventListener('click', async () => { const text = document.getElementById(button.dataset.copy).innerText; await navigator.clipboard.writeText(text); const original = button.textContent; button.textContent = 'Copied'; setTimeout(() => button.textContent = original, 1600); }));</script>
+</body>
+</html>

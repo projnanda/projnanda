@@ -1,13 +1,10 @@
 <div style="margin: 0 0 32px 0; padding: 0;">
 
-  <!-- Logo and Headline -->
-  <div style="display: flex; align-items: center; gap: 26px; margin-bottom: 18px; flex-wrap: wrap; position: relative; z-index: 1;">
-    <img src="assets/Golden_Black_Text_Logo.svg" alt="Project NANDA" style="height: 52px; filter: drop-shadow(0 6px 14px rgba(0,0,0,0.35));">
-    <div>
-      <h1 style="font-size: 2.35rem; font-weight: 800; color: #000; margin: 0 0 6px 0; line-height: 1.2; letter-spacing: -0.01em;">
-        Architecting the Internet of AI Agents
-      </h1>
-    </div>
+  <!-- Headline -->
+  <div style="margin-bottom: 18px; position: relative; z-index: 1;">
+    <h1 style="font-size: clamp(0.7rem, 1.6vw, 1.4rem); font-weight: 800; color: #000; margin: 0 0 6px 0; line-height: 1.2; letter-spacing: -0.01em; white-space: nowrap;">
+      Networked AI Agents in a Decentralized Architecture
+    </h1>
   </div>
 
   <!-- Mission Statement - Glass card -->
