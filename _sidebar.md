@@ -1,5 +1,6 @@
 - **Research & Standards**
   - [Research Lab](./home/8.nandapapers)
+  - [Human-Agent fLow (HAL)](https://projectnanda.org/hal/ ':target=_self :ignore')
   - [Protocols](./home/3.protocol%20interoperability.md)
   - [NANDA Index](./home/13.NANDAIndex.md)
   - [Workshop](./home/workshops.md)

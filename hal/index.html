@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#17191c">
+  <title>Human-Agent fLow (HAL) | Project NANDA</title>
+  <meta name="description" content="How can people understand, steer, and govern AI agents? Explore HAL research, the kickoff, and proposed roundtables and hackathons.">
+  <meta property="og:title" content="Human-Agent fLow (HAL) | Project NANDA">
+  <meta property="og:description" content="Research and shared experiments on how people work with AI agents, from one assistant to a population of agents.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://projectnanda.org/hal/">
+  <link rel="canonical" href="https://projectnanda.org/hal/">
+  <link rel="icon" href="../assets/nanda-favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header shell">
+    <a class="brand" href="https://projectnanda.org/" aria-label="Project NANDA home"><img src="../assets/home-screen-logo.svg" alt="Project NANDA" width="190" height="54"></a>
+    <nav aria-label="Main navigation"><a href="#research">Research</a><a href="#discussions">Roundtables</a><a href="#resources">Build</a></nav>
+    <a class="header-interest" href="https://docs.google.com/forms/d/e/1FAIpQLSfmTdKvYDmld6FeCFmpQeQUUY1Yt6I9w_V42_O3_tY7mgLtuw/viewform">Register interest</a>
+  </header>
+  <main id="main">
+    <section class="hero shell" aria-labelledby="page-title">
+      <div class="hero-copy">
+        <p class="eyebrow">Project NANDA / Research and community</p>
+        <h1 id="page-title">Human-Agent<br><span>fLow (HAL)</span></h1>
+        <p class="hero-question">How can people understand and influence a population of AI agents?</p>
+        <p class="lede">HAL explores how people work with agents, from one assistant to networks of agents built by different people. The aim is meaningful human participation as agent activity grows.</p>
+        <div class="actions"><a class="button primary" href="../workshops/ieeetps26/assets/papers/who-watches-the-swarm.pdf">Read the paper <span class="file-kind">PDF</span></a><a class="button secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfmTdKvYDmld6FeCFmpQeQUUY1Yt6I9w_V42_O3_tY7mgLtuw/viewform">Help shape the next sessions</a></div>
+      </div>
+      <aside class="scales" aria-labelledby="scales-title">
+        <p class="eyebrow" id="scales-title">People and agents at three scales</p>
+        <div class="scale"><span class="level">L1</span><div><h2>One person, one agent</h2><p>Work on a shared task and give direct feedback.</p></div></div>
+        <div class="scale"><span class="level">L2</span><div><h2>One person, a team of agents</h2><p>Change plans, roles, and budgets as the work unfolds.</p></div></div>
+        <div class="scale"><span class="level">L3</span><div><h2>Many people, a population of agents</h2><p>Coordinate across different goals, owners, and authority.</p></div></div>
+        <p class="scale-note">The paper studies how human participation changes at each scale.</p>
+      </aside>
+    </section>
+
+    <section id="research" class="section research">
+      <div class="shell research-grid">
+        <div><p class="eyebrow">The research</p><h2>Research on<br>human oversight</h2><p>Agent populations can generate more activity than people can review. HAL proposes a hierarchy that turns activity into cases requiring human judgment, within a fixed budget of human attention.</p><p>People set policy and can change what the lower levels look for. They can investigate, challenge agents, revise a plan, or change the rules.</p></div>
+        <div class="hierarchy" aria-label="Proposed oversight hierarchy">
+          <div><span>Protocol checks</span><p>Reject actions that break enforceable rules.</p></div>
+          <div><span>Rule monitors</span><p>Check activity for known problems.</p></div>
+          <div><span>Models</span><p>Group unusual activity and investigate cases.</p></div>
+          <div class="human-tier"><span>Human judgment</span><p>Decide uncertain cases and change policy.</p></div>
+          <p class="diagram-caption">A proposed hierarchy. Each level passes unresolved cases to the next.</p>
+        </div>
+        <div class="research-note"><p><strong>Safety and human agency are separate questions.</strong> The proposed evaluation measures missed attacks, false alarms, and completed work. It also asks whether people understand the activity and can change its outcome.</p><p>The hierarchy is a hypothesis to test. The paper describes a five-agent marketplace prototype and larger experiments that are proposed work.</p></div>
+      </div>
+    </section>
+
+    <section id="discussions" class="section shell">
+      <div class="section-heading"><p class="eyebrow">Proposed roundtables and hackathons</p><h2>Proposed roundtables<br>and hackathons</h2><p>We propose regular sessions that combine discussion, guided building, and demos. Participants could return with improved agents and oversight tools and compare what they learned.</p></div>
+      <p class="eyebrow">Proposed discussion topics</p>
+      <div class="topic-grid">
+        <article><h3>Human interaction and agency</h3><p>How can people steer agent teams during a task, correct behavior, and build their own skills?</p></article>
+        <article><h3>Oversight and evaluation</h3><p>Which cases need a person, and how can experiments reveal what monitors miss?</p></article>
+        <article><h3>Governance and emergent behavior</h3><p>Who can change the rules, and how can people study behavior that no participant explicitly designed?</p></article>
+      </div>
+      <div class="session-note"><p><strong>Topics are proposed discussion areas.</strong> The public proposal is to meet every other month in Mountain View and Cambridge. Dates and venues are still to be confirmed.</p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfmTdKvYDmld6FeCFmpQeQUUY1Yt6I9w_V42_O3_tY7mgLtuw/viewform">Share your interests in the planning form</a></div>
+    </section>
+
+    <section class="section kickoff" aria-labelledby="kickoff-title"><div class="shell kickoff-grid">
+      <div><p class="eyebrow">November 20, 2026 / Mountain View</p><h2 id="kickoff-title">The HAL kickoff</h2><p>The kickoff at Google Mountain View, held with the Gemini Meetup community, received more than 600 registrations, according to the public recap.</p></div>
+      <div><p>Participants explored monitors that escalate uncertain cases, experiments on false claims affecting agents' purchasing decisions, and tools that flag suspicious activity with evidence for human review.</p><p>Peter Danenberg, Ramesh Raskar, and Vedh Krishnan are exploring how people understand and influence networks of independently built agents.</p><a class="inline-link" href="https://www.linkedin.com/posts/raskar_our-november-20-nanda-human-agent-flow-hal-ugcPost-7531406967580475392-BDht/">Read Ramesh Raskar's public recap</a></div>
+    </div></section>
+
+    <section id="resources" class="section shell">
+      <div class="section-heading"><p class="eyebrow">Read, build, and contribute</p><h2>Research and resources</h2></div>
+      <div class="resource-grid">
+        <article class="paper-resource"><p class="eyebrow">Research paper / November 2026</p><h3>Who Watches the Swarm?</h3><p>Humans with one agent, a team of agents, and a population of agents.</p><p class="authors">Peter Danenberg, Vedh Krishnan, and Ramesh Raskar</p><a class="button primary" href="../workshops/ieeetps26/assets/papers/who-watches-the-swarm.pdf">Read the paper <span class="file-kind">PDF</span></a></article>
+        <div class="build-resources"><a href="https://nandatown.projectnanda.org/"><h3>NANDA Town</h3><p>Explore the test environment for networks of agents.</p></a><a href="https://github.com/projnanda/nandatown"><h3>Testbed source code</h3><p>Inspect the code and contribute experiments.</p></a><a href="https://halhack.projectnanda.org/"><h3>HAL hackathon pilot</h3><p>Explore the pilot's challenge and prototype resources.</p></a><a href="https://nandahack.projectnanda.org/hackathons/halhack-pilot-nov-20-2026/projects"><h3>Kickoff projects</h3><p>Browse the November 20 pilot project gallery.</p></a><a href="https://www.youtube.com/watch?v=QLIBxC357HE"><h3>Introduction to HAL</h3><p>Watch the research talk with Danenberg, Krishnan, and Raskar.</p></a></div>
+      </div>
+    </section>
+    <section class="join"><div class="shell join-row"><div><p class="eyebrow">Take part</p><h2>Help shape the next HAL sessions.</h2><p>Tell us what you want to discuss, build, or test. Your response will help plan future sessions. This is an interest form, not an event RSVP.</p></div><a class="button light" href="https://docs.google.com/forms/d/e/1FAIpQLSfmTdKvYDmld6FeCFmpQeQUUY1Yt6I9w_V42_O3_tY7mgLtuw/viewform">Register your interest</a></div></section>
+  </main>
+  <footer class="shell site-footer"><a href="https://projectnanda.org/">Project NANDA</a><p>Human-Agent fLow (HAL)</p><a href="#main">Back to top</a></footer>
+</body>
+</html>
